@@ -1,0 +1,23 @@
+---
+title: Mirroring
+---
+<fieldset>
+  <legend>Mirroring</legend>
+  <p>Would you like to house a mirror locally on your computer or
+     server?   A good method is with a utility
+     called <a href="http://en.wikipedia.org/wiki/Rsync">rsync</a>,
+     which most UNIX's have installed.  For windows machines
+     it can be installed
+     via <a href="http://www.cygwin.com">cygwin</a>. To mirror
+     OACDP I've setup a rsync server that can be used as
+     follows:</p>
+  <pre class="cli">
+    rsync -avz rsync://oacdp.org/oacdp /path/to/a/local/directory
+  </pre>
+  <p>I suggest running this on a regular basis such as from a
+     unix cron daemon.  If you'd like <a href="http://git-scm.com">git</a> 
+     access to the
+     OACDP project, <a href="contact.html">visit the contact page</a> and 
+     drop me an email.
+  </p>
+</fieldset>

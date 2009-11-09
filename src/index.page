@@ -1,0 +1,144 @@
+---
+title: Home
+---
+<fieldset id="preface">
+  <legend>Preface</legend>
+  <p>The Obsolete Air-Cooled Documentation Project presents
+     out-of-print technical resources online for use by the
+     air-cooled enthusist community. For more information about
+     this project and it's purpose, please visit
+     the <a href="aboutdoc.html">about</a> page, which includes
+     our <a href="aboutdoc.html#legal">legal</a> statement.</p>
+
+  <p><b>Notice:</b> other websites embed portions of this
+     site, so if you have questions, comments, or out-of-print
+     material you'd like to see here please use the contact
+     information shown on our <a href="contact.html">contact</a>
+     page.</p>
+
+  <p>The documents on this site are represented in png,
+     pdf, jpeg, and a few other file formats.  If a file
+     type isn't viewable by your system, please visit
+     the <a href="utilities.html">utilities</a> page to find
+     useful programs for your operating system of choice.</p> 
+	
+  <p>If you're interested in mirroring the site, please visit
+     the <a href="mirroring.html">mirroring</a> page, which
+     describes methods to keep a local, up to date version of the
+     OACDP.</p>
+
+</fieldset>
+
+<fieldset id="documents">
+  <legend>The Documents</legend>
+  <ol id="documentList">
+    <li class="doc">
+      <a href="wog69.html" id="wog69">Without Guesswork 1969</a>
+        <p class="desc">
+          Technical data for workshop use, covers December 1953 through
+          August 1968 (1969 model year), types 1, 2, and 3.
+          Contains measurements, clearances, wear limits,
+          performance data, etc -- lots of details for the detail
+          people!  155 pages.
+        </p>
+    </li>
+    <li class="doc">
+      <a href="wog72.html" id="wog72">Without Guesswork 1972</a>
+      <p class="desc">
+        Technical data for workshop use, covers August 1970 (1971
+        model year) through October 1972 (1973 model year), types
+        1, 2, 3, and 4, models imported to USA and Canada.
+        Contains measurements, clearances, wear limits,
+        performance data, etc -- lots of details for the detail
+        people!  157 pages.
+      </p>
+    </li>
+    <li class="doc">
+      <a href="5054part.html" id="5054part">
+        Type II VW Parts Reference (1950-1954)
+      </a>
+      <p class="desc">
+        For "Barndoor" (large engine lid) split-window busses,
+        this manual contains diagrams and part numbers
+        for <b>every single</b> part on the bus, including the
+        special variants like the ambulance and pickup. 530
+        pages. 
+      </p>
+    </li>
+    <li class="doc">
+      <a href="5867part.html" id="5867part">
+        Type II VW Parts Reference (1958-1967)
+      </a>
+      <p class="desc">
+        For post-barndoor era split-window busses, this manual
+        contains diagrams and part numbers for <b>every single</b>
+        part on the bus, including the special variants like the
+        ambulance and pickup.  750 pages.
+      </p>
+    </li>
+    <li class="doc" id="so42">
+      <a href="so42.html">SO-42 Camper Parts List</a>
+      <p class="desc">
+        A parts list for the split-window SO-42 camper. I think
+        that is all it covers, but I could be wrong.  Please let
+        me know about missing information as well.  58 pages.
+      </p>
+    </li>
+    <li class="doc">
+      <a href="solex.html" id="solex">
+        Solex: Selection and Tuning of the Carburetor
+      </a>
+      <p class="desc">
+        This manual from Solex describes how to calculate the
+        correct size of carburetor for an engine (not just VW
+        engines), and how to determine the correct jet sizes and
+        settings. 46 pages.
+      </p>
+    </li>
+    <li class="doc">
+      <a href="tools.html" id="tools">
+        Local Manufacture of Workshop Equipment
+      </a>
+      <p class="desc">
+        This manual contains descriptions and blueprints for
+        over 100 special tools for working on air-cooled VWs --
+        everything from a body trolley for Type 1s to a
+        headlight bucket alignment jig for Type 34s. January
+        1959 edition, updated to September 1967.  381 pages.
+      </p>
+    </li>
+    <li class="doc">
+      <a href="damage.html" id="damage">
+        Damage Numbers (1965 ed.)
+      </a>
+      <p class="desc">
+	This manual was used by dealers to report the reasons they
+	replaced Type 1, 2, or 3 parts under warranty.  For parts
+	that could come from more than one supplier, it shows how
+	to identify the supplier via logo or other marking.  It
+	also has a section on sealing Type 1 and Type 3 bodies - I
+	guess Buses didn't leak! 
+      </p>
+    </li>
+    <li class="doc">
+      <a href="ebersp.html" id="ebersp">
+        Workshop Manual: Fresh Air Heaters
+      </a>
+      <p class="desc">
+        This manual covers Eberspacher gas heaters installed in
+        several types of air-cooled Volkswagens. These units are
+        relatively unsafe if not well looked after, so hopefully
+        owners of these heaters will find this information
+        useful. 
+      </p>
+    </li>
+    <li class="doc">
+      <a href="ba4.html" id="ba4">
+        Troubleshooting Guide: BA-4 Gas Heaters
+      </a>
+      <p class="desc">
+        This manual covers troubleshooting of the BA-4 gas heater.
+      </p>
+    </li>
+  </ol>
+</fieldset>

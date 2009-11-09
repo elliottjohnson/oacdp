@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+fieldset {
+    padding: 1em;
+    margin: 1em;
+}
+
+fieldset p {
+    padding: 0em 1em;
+}
+
+#titleBackground {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 217px;
+    margin: 0;
+    padding: 0;
+    background: transparent url(../images/titleTile.png);
+}
+
+#centered {
+    position: relative;
+    top: 0;
+    left: 10%;
+    width: 80%;
+}
+
+#title {
+    margin: 0em;
+    padding: 0em;
+}
+
+#linksList {
+    text-align: center;
+}
+
+#linksList li {
+    display: inline;
+    list-style-type: none;
+}
+
+#linksList li a,
+#linksList li a:visited {
+    margin: 0em;
+    padding: 0.5em 1em;
+    color: #040710;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#linksList li a:hover {
+    background: transparent url(../images/titleTile.png);
+    color: lightgrey;
+}
+
+.doc {
+    font-weight: bold;
+}
+
+.desc {
+    margin-left: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    list-style-type: none;
+    font-weight: normal;
+}
+
+#footerText {
+    background: transparent url(../images/titleTile.png);
+    width: 100%;
+    padding: 1em 0em;
+    margin: 0em;
+    color: lightgrey;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+#footerContainer {
+    margin: 0 auto;
+    width: 600px;
+    height: 16em;
+}
+
+#footerText a,
+#footerText a:visited {
+    color: lightgrey;
+    text-decoration: none;
+    padding-left: 0.5em;
+}
+
+#footerText a:hover {
+    color: white;
+}
+
+.footerNav {
+    float: left;
+    text-align: left;
+}
+
+.footerNav ul {
+    list-style: none;
+}
+
+.cli {
+    margin-left: 4em;
+}
+
+#doc ul li {
+    list-style: none;
+    display: inline;
+}

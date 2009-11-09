@@ -1,0 +1,13 @@
+---
+title: upcoming
+---
+<fieldset>
+  <legend>Pending document queue</legend>
+  <p>The following documents are waiting to be scanned or have
+     been secured and are on the way by mail.</p>
+  <ul id="queue">
+    <li><b>NOTHING!  NOTHING AT ALL!  Oh, the horror!</b></li>
+  </ul>
+  <p>Please <a href="contact.html">drop us a line</a> if you 
+     might have something to contribute :-)</p>
+</fieldset>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{lang:}">
+  <head>
+    <link rel="stylesheet" type="text/css" href="{relocatable: style/oacdp.css}"/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+    <meta name="description" content="The Obsolete Air-Cooled Documentation Project presents out-of-print technical resources online for use by the air-cooled enthusist community."/>
+    <meta name="keywords" lang="en" content="air, cooled, air-cooled, reference, oacdp, volkswagen, vw, eberspracher, solex, transporter, sedan, beetle, bus, without guesswork, Type II VW Parts Reference"/>
+    <meta name="robots" content="all"/>
+    <meta name="Author" content="HTML and OACDP logos by contributers to the OACDP: Andrew Whitlock, Matt Roberds, and Elliott Johnson."/>
+    <meta name="copyright" content="The html and oacdp logos are copyright 2001 - 2009: Andrew Whitlock, Matt Roberds, Elliott Johnson and distributed under the Gnu General Public License version 3.0."/>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta http-equiv="Cache-Control" content="PUBLIC"/>
+    <meta http-equiv="Content-Language" content="en"/>
+    <title>Obsolete Air-Cooled Documentation Project -- {title:}</title>
+  </head>
+  <body>
+    <div id="titleBackground"></div>
+    <div id="centered">
+      <div id="title">
+	<a id="titleLink"
+	   href="index.html">
+	  <object id="titleImage"
+		  data="images/titleLogo.png"
+		  type="image/png"
+		  alt="The Obsolete Air-Cooled Documentation Project"/>
+	</a>
+	<ul id="linksList">
+	  <li><a href="aboutdoc.html">about</a></li>
+	  <li><a href="aboutdoc.html#legal">legal</a></li>
+	  <li><a href="contact.html">contact</a></li>
+	  <li><a href="thanks.html">contributors</a></li> 
+	  <li><a href="queue.html">upcoming</a></li>
+	  <li><a href="utilities.html">utilities</a></li>
+	  <li><a href="links.html">links</a></li>
+	</ul>
+      </div>
+
+      <webgen:block name='content' />
+
+    </div>
+    <div id="footerText">
+      <div id="footerContainer">
+	<div class="footerNav">
+	  <ul>
+	    <li><u>Site Links</u></li>
+	    <li><a href="index.html">home</a></li>
+	    <li><a href="aboutdoc.html">about</a></li>
+	    <li><a href="aboutdoc.html#legal">legal</a></li>
+	    <li><a href="contact.html">contact</a></li>
+	    <li><a href="thanks.html">contributors</a></li> 
+	    <li><a href="queue.html">upcoming</a></li>
+	    <li><a href="utilities.html">utilities</a></li>
+	    <li><a href="mirroring.html">mirroring</a></li>
+	    <li><a href="links.html">links</a></li>
+	  </ul>
+	</div>
+	<div class="footerNav">
+	  <ul>
+	    <li><u>Doc Links</u></li>
+	    <li><a href="wog69.html">Without Guesswork 1969</a></li>
+	    <li><a href="wog72.html">Without Guesswork 1972</a></li>
+	    <li>
+	      <a href="5054part.html">
+		Type II VW Parts Reference (1950-1954)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="5867part.html">
+		Type II VW Parts Reference (1958-1967)
+	      </a>
+	    </li>
+	    <li><a href="so42.html">SO-42 Camper Parts List</a></li>
+	    <li>
+	      <a href="solex.html">Solex: Selection and Tuning</a>
+	    </li>
+	    <li>
+	      <a href="tools.html">
+		Local Manufacture of Workshop Equipment
+	      </a>
+	    </li>
+	    <li><a href="damage.html">Damage Number (1965 ed.)</a></li>
+	    <li>
+	      <a href="ebersp.html">
+		Eberspacher heater installation
+	      </a>
+	    </li>
+	    <li>
+	      <a href="ba4.html">
+		BA-4 Gas Heater troubleshooting guide
+	      </a>
+	    </li>
+	  </ul>
+	</div>
+	<div class="footerNav">
+	  <ul>
+	    <li><u>Contact</u></li>
+	    <li><a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
+		&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;</a></li>
+	    <li><p></p></li>
+	    <li><u>Legal</u></li>
+	    <li id="footerLegal" class="smallFont">
+	      VW, the VW logo, Volkswagen, and other terms are
+	      trademarks or registered trademarks of Volkswagenwerk AG
+	      and its world wide subsidiaries.  All trademarks are the
+	      property of their respective owners and are used solely
+	      for identification purposes.
+	    </li>
+	    <li>
+	      <a href="aboutdoc.html#legal" class="smallFont">
+		See our legal page for more information
+	      </a>
+	    </li>
+	  </ul>
+	</div>
+      </div>
+      <p id="footerCopy">
+	&copy; 2001-2009, distributed under the 
+	<a href="http://www.gnu.org/licenses/gpl.html">GNU
+	General Public License version 3.0</a>.
+      </p> 
+    </div>
+  </body>
+</html>
+

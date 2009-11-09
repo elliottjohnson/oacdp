@@ -1,0 +1,21 @@
+---
+title: Contact
+---
+<fieldset id="contact">
+	
+  <legend>OACDP Contact Information</legend>
+
+  <p>You can direct all questions, comments, suggestions, and
+     contributions to the following email address:</p>
+
+  <p class="desc">
+    <a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
+      &#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;
+    </a>
+  </p>
+
+  <p>Thanks,<br/> 
+     Elliott Johnson<br/> 
+     (Maintainer)
+  </p>
+</fieldset>

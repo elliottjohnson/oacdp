@@ -1,0 +1,52 @@
+---
+title: Thanks, thanks, thanks
+---
+<fieldset>
+
+  <legend>
+    Wow!  Who archived this stuff for us?
+  </legend>
+
+  <p>The following people have made meaningful contributions to
+     the Obsolete Air-Cooled Documentation Project, and are
+     deserving of your gratitude.  Where possible these people are
+     credited on the pages where their work appears, as well as on
+     this page.  Creating this site was not a trivial task and has
+     taken many collective hours of work, probably better measured
+     in days.  The list below is in alphabetical order and believed
+     to be complete (PLEASE let me know if otherwise).</p>
+	  
+  <p>This site is a result of cooperation across the United
+     States of all the people below.  It was possible only through
+     the trust and friendship of the internet VW community here in
+     the USA and all over the world.  Documents were sent in good
+     faith through the mail to be scanned and all were returned to
+     their owners.  Many of the people involved have never met each
+     other in real life.  To me (the coordinator) this is an
+     amazing thing, people sent documentation sometimes worth
+     hundreds of dollars across the nation without blinking an
+     eye.</p>
+
+  <ul id="contributors">
+    <li>Eric &amp; Barb</li>
+    <li>Dave Easterwood</li> 
+    <li>Thom Fitzpatrick</li> 
+    <li>Jon Furst</li> 
+    <li>Staffan Hedberg</li>
+    <li>Elliott Johnson</li>
+    <li>Alex Kuchta</li> 
+    <li>Dworkin Muller</li> 
+    <li>Dave Raistrick</li> 
+    <li>Matt Roberds</li> 
+    <li>Rex Rogers</li> 
+    <li>Karl von Salzen (RIP)</li>
+    <li>Andrew Whitlock</li>
+  </ul>
+
+  <p>On this page I didn't put people who did little things like
+     "this link is broken".  But any and all help improving the
+     site is welcomed, and I thank you! </p>
+
+  <p>-Andrew Whitlock</p>
+
+</fieldset>

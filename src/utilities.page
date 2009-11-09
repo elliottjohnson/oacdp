@@ -1,0 +1,85 @@
+---
+title: Utilities
+---
+<fieldset>
+  <legend>About the OACDP file formats</legend>
+
+  <p>The OACDP uses the following file types:</p>
+  <ul>
+    <li>
+      <a href="#images">
+        jpg: Joint Photographic Expert Group file
+      </a>
+    </li>
+    <li>
+      <a href="#pdf">
+        pdf: Portable Document Format file
+      </a>
+    </li>
+    <li>
+      <a href="#images">
+        png: Portable Network Graphic file
+      </a>
+    </li>
+    <li>
+      <a href="#rar">
+        rar: Roshal ARchive file
+      </a>
+    </li>
+    <li>
+      <a href="#tar.gz">
+        tar.gz: Gzipped Tape ARchive file
+      </a>
+    </li>
+  </ul>
+  <p>If you are having trouble viewing one of the above file types
+     please check out some of the utilities suggested below.  If
+     you are still having trouble then you
+     can <a href="contact.html">visit the contact page</a> and
+     let me know.</p>
+</fieldset>
+<fieldset id="images" name="images">
+  <legend>Image viewers</legend>
+  <p>JPEG and PNG files are ubiquitous and your browser of
+     choice should be able to support viewing them.  If
+     not <a href="http://wikipedia.org">wikipedia</a> has a
+     <a href="http://en.wikipedia.org/wiki/Comparison_of_image_viewers">
+       list of image viewers</a> you can choose from.</p>
+</fieldset>
+<fieldset id="pdf" name="pdf">
+  <legend>PDF viewers</legend>
+  <p>The PDF file format was originally a proprietary format
+     created by Adobe, but became an open standard with a
+     multitude of 
+    <a href="http://en.wikipedia.org/wiki/List_of_PDF_software#Viewers">
+      available viewers.
+    </a>
+  </p>
+</fieldset>
+<fieldset id="rar" name="rar">
+  <legend>RAR un-archivers</legend>
+  <p>A archive format, written by Alexander Roshal, and
+     un-archiveable by the following
+     <a href="http://en.wikipedia.org/wiki/Rar#Software">software</a>.
+  </p>
+</fieldset>
+<fieldset id="tar.gz" name="tar.gz">
+  <legend>Gzipped Tape Archive file format</legend>
+  <p>tar.gz files are a gzipped compressed archive format used
+     in UNIX systems.  If you're using a UNIX system or Mac OS X
+     you can uncompress then with something like the following:
+  </p>  
+  <pre class="cli">tar -xzf /path/to/the/file.tar.gz</pre>
+  <p>If you are using Windows the following utilities can
+     un-archive tar.gz files:
+    <ul>
+      <li>
+        <a href="http://www.sfsu.edu/ftp/win/utils/">
+  	  PowerArchiver (Freeware)
+	</a>
+      </li>
+      <li><a href="http://www.7-zip.org/">7-zip (Freeware)</a></li>
+      <li><a href="http://www.winzip.com/">Winzip (Commercial)</a></li>
+    </ul>
+  </p>
+</fieldset>
