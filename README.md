@@ -26,18 +26,18 @@ webgen fit the bill).
 
 First fetch the oacdp source:
 
-> mkdir src
-> cd src
-> git clone git://github.com/elliottjohnson/oacdp.git oacdp
+	mkdir src
+	cd src
+	git clone git://github.com/elliottjohnson/oacdp.git oacdp``
 
 Then use webgen to render the site:
 
-> cd oacdp
-> webgen render
+	cd oacdp
+	webgen render
 
 Then extract the overlay to install the content:
 
-> tar -xvvjpf /the/path/to/your/oacdp-overlay.tar.bz2
+	tar -xvvjpf /the/path/to/your/oacdp-overlay.tar.bz2
 
 ## Viewing
 
