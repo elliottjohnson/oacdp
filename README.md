@@ -10,10 +10,10 @@
 ## About:
 
 The Obsolete Air Cooled Documentation Project is focused on providing access to
-hard to find, out of print resources for air cooled automobile enthusiasts.  
-This repository is the source for building the site.  It uses webgen, which is 
-a ruby utility (I tried staticmatic, but had some wierd issues with it and 
-in the end webgen fit the bill).
+hard to find, out of print resources for air cooled automobile enthusiasts.  This 
+repository is the source for building the site.  It uses webgen, which is a ruby
+utility (I tried staticmatic, but had some wierd issues with it and in the end 
+webgen fit the bill).
 
 ## Dependencies
 
