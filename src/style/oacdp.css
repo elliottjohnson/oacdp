@@ -127,3 +127,15 @@ fieldset p {
 .doc ul li a {
     text-align: center;
 }
+
+fieldset table {
+  width: 95%;
+  cellpadding: 4;
+  background-color: black;
+
+}
+
+fieldset table td {
+  text-align: center;
+  background-color: #ffffaa;
+}
