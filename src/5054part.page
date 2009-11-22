@@ -13,7 +13,7 @@ title: Type 2 Parts Manual (1950-1954)
     covers most of the "barndoor" split-window Buses from 1950 to
     1954.  Files contain one page each.
   </p>
-  <ul>
+  <ul id="credits">
     <li><u>CREDITS</u></li>
     <li>Thom Fitzpatrick: Provider, scanner</li>
     <li>Matt Roberds: HTML and indexing, conversion to PNG, PDFs</li>
@@ -56,7 +56,7 @@ title: Type 2 Parts Manual (1950-1954)
   </ul>
 </fieldset>
 <fieldset>
-  <legend>Quick Index</legend>
+  <legend id="quick">Quick Index</legend>
   <p>
     <a name="qt"><h3>Table of Contents</h3></a>
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
@@ -80,13 +80,14 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q1"><h3>Main Group 1: Engine</h3></a>
-    <a href="pdfs/5054contents.pdf">DOWNLOAD Contents, PDF</a><br />
-    <a href="pdfs/5054addendum.pdf">DOWNLOAD Addendum, PDF</a><br />
-    <a href="pdfs/5054s1.part1.rar">DOWNLOAD Main Group 1, part 1 of 4</a><br />
-    <a href="pdfs/5054s1.part2.rar">DOWNLOAD Main Group 1, part 2 of 4</a><br />
-    <a href="pdfs/5054s1.part3.rar">DOWNLOAD Main Group 1, part 3 of 4</a><br />
-    <a href="pdfs/5054s1.part4.rar">DOWNLOAD Main Group 1, part 4 of 4</a><br />
-    
+    <ul>
+      <li><a href="pdfs/5054contents.pdf">Contents(PDF)</a></li>
+      <li><a href="pdfs/5054addendum.pdf">Addendum(PDF)</a></li>
+      <li><a href="pdfs/5054s1.part1.rar">Main Group part 1(RAR)</a></li>
+      <li><a href="pdfs/5054s1.part2.rar">Main Group part 2(RAR)</a></li>
+      <li><a href="pdfs/5054s1.part3.rar">Main Group part 3(RAR)</a></li>
+      <li><a href="pdfs/5054s1.part4.rar">Main Group part 4(RAR)</a></li>
+    </ul>    
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
 	<td align="center"><a href="5054part/001.png">1</a></td>
@@ -204,7 +205,9 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
-    <a href="pdfs/5054s2.pdf">DOWNLOAD Main Group 2, PDF</a><br />
+    <ul>
+      <li><a href="pdfs/5054s2.pdf">Main Group 2 (PDF)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -235,8 +238,11 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q3"><h3>Main Group 3: Transmission</h3></a>
-    <a href="pdfs/5054s3.part1.rar">DOWNLOAD Main Group 3, part 1 of 2</a><br />
-    <a href="pdfs/5054s3.part2.rar">DOWNLOAD Main Group 3, part 2 of 2</a><br />
+
+    <ul>
+      <li><a href="pdfs/5054s3.part1.rar">Main Group 3 part 1 (RAR)</a></li>
+      <li><a href="pdfs/5054s3.part2.rar">Main Group 3 part 2 (RAR)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -291,8 +297,11 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q4"><h3>Main Group 4: Front Axle, Steering</h3></a>
-    <a href="pdfs/5054s4.part1.rar">DOWNLOAD Main Group 4, part 1 of 2</a><br />
-    <a href="pdfs/5054s4.part2.rar">DOWNLOAD Main Group 4, part 2 of 2</a><br />
+    
+    <ul>
+      <li><a href="pdfs/5054s4.part1.rar">Main Group 4 part 1 (RAR)</a></li>
+      <li><a href="pdfs/5054s4.part2.rar">Main Group 4 part 2 (RAR)</a></li>
+    </ul>
     
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -347,7 +356,10 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q5"><h3>Main Group 5: Rear Axle</h3></a>
-    <a href="pdfs/5054s5.pdf">DOWNLOAD Main Group 5, PDF</a><br />
+
+    <ul>
+      <li><a href="pdfs/5054s5.pdf">Main Group 5 (PDF)</a></li>
+    </ul>
     
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -378,8 +390,11 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
-    <a href="pdfs/5054s6.pdf">DOWNLOAD Main Group 6, PDF</a><br />
-    
+
+    <ul>
+      <li><a href="pdfs/5054s6.pdf">Main Group 6 (PDF)</a></li>
+    </ul>     
+
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
 	<td align="center"><a href="5054part/185.png">185</a></td>
@@ -417,8 +432,11 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
-    <a href="pdfs/5054s7.part1.rar">DOWNLOAD Main Group 7, part 1 of 2</a><br />
-    <a href="pdfs/5054s7.part2.rar">DOWNLOAD Main Group 7, part 2 of 2</a><br />
+
+    <ul>
+      <li><a href="pdfs/5054s7.part1.rar">Main Group 7 part 1 (RAR)</a></li>
+      <li><a href="pdfs/5054s7.part2.rar">Main Group 7 part 2 (RAR)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -473,13 +491,16 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q8"><h3>Main Group 8: Body</h3></a>
-    <a href="5054s8b.tar.gz">DOWNLOAD Main Group 8, PNGs and JPGs, tar.gz, <b>Pages 348-424</b></a><br/>
-    <a href="pdfs/5054s8.part1.rar">DOWNLOAD Main Group 8, part 1 of 6</a><br/>
-    <a href="pdfs/5054s8.part2.rar">DOWNLOAD Main Group 8, part 2 of 6</a><br/>
-    <a href="pdfs/5054s8.part3.rar">DOWNLOAD Main Group 8, part 3 of 6</a><br/>
-    <a href="pdfs/5054s8.part4.rar">DOWNLOAD Main Group 8, part 4 of 6</a><br/>
-    <a href="pdfs/5054s8.part5.rar">DOWNLOAD Main Group 8, part 5 of 6</a><br/>
-    <a href="pdfs/5054s8.part6.rar">DOWNLOAD Main Group 8, part 6 of 6</a><br/>
+
+    <ul>
+      <li><a href="5054s8b.tar.gz">Main Group 8 Pages 348-424 (TAR)</a></li>
+      <li><a href="pdfs/5054s8.part1.rar">Main Group 8 part 1 (RAR)</a></li>
+      <li><a href="pdfs/5054s8.part2.rar">Main Group 8 part 2 (RAR)</a></li>
+      <li><a href="pdfs/5054s8.part3.rar">Main Group 8 part 3 (RAR)</a></li>
+      <li><a href="pdfs/5054s8.part4.rar">Main Group 8 part 4 (RAR)</a></li>
+      <li><a href="pdfs/5054s8.part5.rar">Main Group 8 part 5 (RAR)</a></li>
+      <li><a href="pdfs/5054s8.part6.rar">Main Group 8 part 6 (RAR)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -734,8 +755,11 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="q9"><h3>Main Group 9: Electrical Equipment</h3></a>
-    <a href="pdfs/5054s9.part1.rar">DOWNLOAD Main Group 9, part 1 of 2</a><br/>
-    <a href="pdfs/5054s9.part2.rar">DOWNLOAD Main Group 9, part 2 of 2</a><br/>
+
+    <ul>
+      <li><a href="pdfs/5054s9.part1.rar">Main Group 9 part 1 (RAR)</a></li>
+      <li><a href="pdfs/5054s9.part2.rar">Main Group 9 part 2 (RAR)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -807,7 +831,9 @@ title: Type 2 Parts Manual (1950-1954)
   <p><hr/>
     <a name="q0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
 
-    <a href="pdfs/5054s0.pdf">DOWNLOAD Main Group 0, PDF</a><br />
+    <ul>
+      <li><a href="pdfs/5054s0.pdf">Main Group 0 (PDF)</a></li>
+    </ul>
 
     <table width="95%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -883,8 +909,10 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr/>
-    <a name="full"><h3>Full Index</h3></a>
+</fieldset>
+<fieldset>
+  <legend id="full">Full Index</legend>
+  <p>
     <a name="ft"><h3>Table of Contents</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1811,7 +1839,7 @@ title: Type 2 Parts Manual (1950-1954)
   </p>
   <p><hr/>
     <a name="f5"><h3>Main Group 5: Rear Axle</h3></a>
-    <table> width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
+    <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
 	<td align="center" width="10%"><a href="5054part/169.png">169</a></td>
 	<td align="center" width="15%">list</td>

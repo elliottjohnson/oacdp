@@ -118,13 +118,12 @@ fieldset p {
     margin-left: 4em;
 }
 
-#doc ul li {
+#credits,
+.doc ul li {
     list-style-type: none;
-    display: inline;
     margin: 0.25em 0.25em;
-    float: left;
 }
 
-#doc ul li a {
+.doc ul li a {
     text-align: center;
 }
