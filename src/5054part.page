@@ -78,7 +78,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q1"><h3>Main Group 1: Engine</h3></a>
     <a href="pdfs/5054contents.pdf">DOWNLOAD Contents, PDF</a><br />
     <a href="pdfs/5054addendum.pdf">DOWNLOAD Addendum, PDF</a><br />
@@ -202,7 +202,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
     <a href="pdfs/5054s2.pdf">DOWNLOAD Main Group 2, PDF</a><br />
 
@@ -233,7 +233,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q3"><h3>Main Group 3: Transmission</h3></a>
     <a href="pdfs/5054s3.part1.rar">DOWNLOAD Main Group 3, part 1 of 2</a><br />
     <a href="pdfs/5054s3.part2.rar">DOWNLOAD Main Group 3, part 2 of 2</a><br />
@@ -289,7 +289,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q4"><h3>Main Group 4: Front Axle, Steering</h3></a>
     <a href="pdfs/5054s4.part1.rar">DOWNLOAD Main Group 4, part 1 of 2</a><br />
     <a href="pdfs/5054s4.part2.rar">DOWNLOAD Main Group 4, part 2 of 2</a><br />
@@ -344,8 +344,8 @@ title: Type 2 Parts Manual (1950-1954)
 	<td align="center">--</td>
       </tr>
     </table>
-    
-  <p><hr>
+  </p>
+  <p><hr/>
     <a name="q5"><h3>Main Group 5: Rear Axle</h3></a>
     <a href="pdfs/5054s5.pdf">DOWNLOAD Main Group 5, PDF</a><br />
     
@@ -376,7 +376,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
     <a href="pdfs/5054s6.pdf">DOWNLOAD Main Group 6, PDF</a><br />
     
@@ -415,7 +415,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
     <a href="pdfs/5054s7.part1.rar">DOWNLOAD Main Group 7, part 1 of 2</a><br />
     <a href="pdfs/5054s7.part2.rar">DOWNLOAD Main Group 7, part 2 of 2</a><br />
@@ -471,7 +471,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="q8"><h3>Main Group 8: Body</h3></a>
     <a href="5054s8b.tar.gz">DOWNLOAD Main Group 8, PNGs and JPGs, tar.gz, <b>Pages 348-424</b></a><br/>
     <a href="pdfs/5054s8.part1.rar">DOWNLOAD Main Group 8, part 1 of 6</a><br/>
@@ -732,7 +732,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
- <p><hr>
+  <p><hr/>
     <a name="q9"><h3>Main Group 9: Electrical Equipment</h3></a>
     <a href="pdfs/5054s9.part1.rar">DOWNLOAD Main Group 9, part 1 of 2</a><br/>
     <a href="pdfs/5054s9.part2.rar">DOWNLOAD Main Group 9, part 2 of 2</a><br/>
@@ -803,8 +803,8 @@ title: Type 2 Parts Manual (1950-1954)
 	<td align="center">--</td>
       </tr>
     </table>
- </p>
-  <p><hr>
+  </p>
+  <p><hr/>
     <a name="q0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
 
     <a href="pdfs/5054s0.pdf">DOWNLOAD Main Group 0, PDF</a><br />
@@ -820,7 +820,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="qa"><h3>Addendum: Standard Parts and SP Sets</h3></a>
     <a href="pdfs/5054addendum.pdf">DOWNLOAD Addendum, PDF</a><br />
 
@@ -883,7 +883,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="full"><h3>Full Index</h3></a>
     <a name="ft"><h3>Table of Contents</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
@@ -949,7 +949,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f1"><h3>Main Group 1: Engine</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1374,7 +1374,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1449,7 +1449,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f3"><h3>Main Group 3: Transmission</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1634,7 +1634,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f4"><h3>Main Group 4: Front Axle, Steering</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1809,7 +1809,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f5"><h3>Main Group 5: Rear Axle</h3></a>
     <table> width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -1894,7 +1894,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -2009,7 +2009,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -2194,7 +2194,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f8"><h3>Main Group 8: Body</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -3109,7 +3109,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f9"><h3>Main Group 9: Electrical Equipment</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -3344,7 +3344,7 @@ title: Type 2 Parts Manual (1950-1954)
       </tr>
     </table>
   </p>
-  <p><hr>
+  <p><hr/>
     <a name="f0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
@@ -3378,7 +3378,8 @@ title: Type 2 Parts Manual (1950-1954)
 	<td align="center">Jack, tools and accessories</td>
       </tr>
     </table>
-  <p><hr><p>
+  </p>
+  <p><hr/>
     <a name="fa"><h3>Addendum: Standard Parts and SP Sets</h3></a>
     <table width="50%" border="2" cellspacing="0" cellpadding="4" bgcolor="#ffffaa" bordercolor="#808080">
       <tr>
