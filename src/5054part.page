@@ -58,7 +58,7 @@ title: Type 2 Parts Manual (1950-1954)
 <fieldset>
   <legend id="quick">Quick Index</legend>
   <p>
-    <a name="qt"><h3>Table of Contents</h3></a>
+    <h3 name="qt">Table of Contents</h3>
     <table>
       <tr>
 	<td><a href="5054part/+01.png">i</a></td>
@@ -79,7 +79,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q1"><h3>Main Group 1: Engine</h3></a>
+    <h3 name="q1">Main Group 1: Engine</h3>
     <ul>
       <li><a href="pdfs/5054contents.pdf">Contents(PDF)</a></li>
       <li><a href="pdfs/5054addendum.pdf">Addendum(PDF)</a></li>
@@ -204,9 +204,9 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
+    <h3 name="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <ul>
-      <li><a href="pdfs/5054s2.pdf">Main Group 2 (PDF)</a></li>
+      <li><a href="pdfs/5054s2.pdf">Main Group 2 (PDF)</a></li> 
     </ul>
 
     <table>
@@ -237,7 +237,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q3"><h3>Main Group 3: Transmission</h3></a>
+    <h3 name="q3">Main Group 3: Transmission</h3>
 
     <ul>
       <li><a href="pdfs/5054s3.part1.rar">Main Group 3 part 1 (RAR)</a></li>
@@ -296,7 +296,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q4"><h3>Main Group 4: Front Axle, Steering</h3></a>
+    <h3 name="q4">Main Group 4: Front Axle, Steering</h3>
     
     <ul>
       <li><a href="pdfs/5054s4.part1.rar">Main Group 4 part 1 (RAR)</a></li>
@@ -355,7 +355,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q5"><h3>Main Group 5: Rear Axle</h3></a>
+    <h3 name="q5">Main Group 5: Rear Axle</h3>
 
     <ul>
       <li><a href="pdfs/5054s5.pdf">Main Group 5 (PDF)</a></li>
@@ -389,7 +389,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
+    <h3 name="q6">Main Group 6: Road Wheels, Brakes</h3>
 
     <ul>
       <li><a href="pdfs/5054s6.pdf">Main Group 6 (PDF)</a></li>
@@ -431,7 +431,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
+    <h3 name="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
 
     <ul>
       <li><a href="pdfs/5054s7.part1.rar">Main Group 7 part 1 (RAR)</a></li>
@@ -490,7 +490,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q8"><h3>Main Group 8: Body</h3></a>
+    <h3 name="q8">Main Group 8: Body</h3>
 
     <ul>
       <li><a href="5054s8b.tar.gz">Main Group 8 Pages 348-424 (TAR)</a></li>
@@ -754,7 +754,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q9"><h3>Main Group 9: Electrical Equipment</h3></a>
+    <h3 name="q9">Main Group 9: Electrical Equipment</h3>
 
     <ul>
       <li><a href="pdfs/5054s9.part1.rar">Main Group 9 part 1 (RAR)</a></li>
@@ -829,7 +829,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="q0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
+    <h3 name="q0">Main Group 0: Accessories and Standard Equipment</h3>
 
     <ul>
       <li><a href="pdfs/5054s0.pdf">Main Group 0 (PDF)</a></li>
@@ -847,7 +847,7 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="qa"><h3>Addendum: Standard Parts and SP Sets</h3></a>
+    <h3 name="qa">Addendum: Standard Parts and SP Sets</h3>
     
     <ul>
       <li><a href="pdfs/5054addendum.pdf">DOWNLOAD Addendum, PDF</a></li>
@@ -916,12 +916,12 @@ title: Type 2 Parts Manual (1950-1954)
 <fieldset>
   <legend id="full">Full Index</legend>
   <p>
-    <a name="ft"><h3>Table of Contents</h3></a>
+    <h3 name="ft">Table of Contents</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/+01.png">i</a></td>
-	<td width="15%">special</td>
-	<td width="75%">Title Page</td>
+	<td class="pageIndex"><a href="5054part/+01.png">i</a></td>
+	<td class="pageType">special</td>
+	<td class="pageDesc">Title Page</td>
       </tr>
       <tr>
 	<td><a href="5054part/+02.png">ii</a></td>
@@ -981,12 +981,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f1"><h3>Main Group 1: Engine</h3></a>
+    <h3 name="f1">Main Group 1: Engine</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/001.png">1</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 1 index</td>
+	<td class="pageIndex"><a href="5054part/001.png">1</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 1 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/002.jpg">2</a></td>
@@ -1406,12 +1406,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
+    <h3 name="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/085.png">85</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 2 index</td>
+	<td class="pageIndex"><a href="5054part/085.png">85</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 2 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/086.jpg">86</a></td>
@@ -1481,12 +1481,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f3"><h3>Main Group 3: Transmission</h3></a>
+    <h3 name="f3">Main Group 3: Transmission</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/099.png">99</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 3 index</td>
+	<td class="pageIndex"><a href="5054part/099.png">99</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 3 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/100.jpg">100</a></td>
@@ -1666,12 +1666,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f4"><h3>Main Group 4: Front Axle, Steering</h3></a>
+    <h3 name="f4">Main Group 4: Front Axle, Steering</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/135.png">135</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 4 index</td>
+	<td class="pageIndex"><a href="5054part/135.png">135</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 4 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/136.jpg">136</a></td>
@@ -1841,12 +1841,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f5"><h3>Main Group 5: Rear Axle</h3></a>
+    <h3 name="f5">Main Group 5: Rear Axle</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/169.png">169</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 5 index</td>
+	<td class="pageIndex"><a href="5054part/169.png">169</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 5 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/170.jpg">170</a></td>
@@ -1926,12 +1926,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
+    <h3 name="f6">Main Group 6: Road Wheels, Brakes</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/185.png">185</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 6 index</td>
+	<td class="pageIndex"><a href="5054part/185.png">185</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 6 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/186.jpg">186</a></td>
@@ -2041,12 +2041,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
+    <h3 name="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/207.png">207</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 7 index</td>
+	<td class="pageIndex"><a href="5054part/207.png">207</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 7 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/208.jpg">208</a></td>
@@ -2226,12 +2226,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f8"><h3>Main Group 8: Body</h3></a>
+    <h3 name="f8">Main Group 8: Body</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/243.png">243</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 8 index</td>
+	<td class="pageIndex"><a href="5054part/243.png">243</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 8 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/244.png">244</a></td>
@@ -3141,12 +3141,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f9"><h3>Main Group 9: Electrical Equipment</h3></a>
+    <h3 name="f9">Main Group 9: Electrical Equipment</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/425.png">425</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 9 index</td>
+	<td class="pageIndex"><a href="5054part/425.png">425</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 9 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/426.jpg">426</a></td>
@@ -3376,12 +3376,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="f0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
+    <h3 name="f0">Main Group 0: Accessories and Standard Equipment</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/471.png">471</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 0 index</td>
+	<td class="pageIndex"><a href="5054part/471.png">471</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 0 index</td>
       </tr>
       <tr>
 	<td><a href="5054part/472.jpg">472</a></td>
@@ -3411,12 +3411,12 @@ title: Type 2 Parts Manual (1950-1954)
     </table>
   </p>
   <p>
-    <a name="fa"><h3>Addendum: Standard Parts and SP Sets</h3></a>
+    <h3 name="fa">Addendum: Standard Parts and SP Sets</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5054part/477.png">477</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Standard parts and SP Sets title page</td>
+	<td class="pageIndex"><a href="5054part/477.png">477</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Standard parts and SP Sets title page</td>
       </tr>
       <tr>
 	<td><a href="5054part/478.png">478</a></td>

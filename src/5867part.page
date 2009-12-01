@@ -57,7 +57,7 @@ title: Type 2 Parts Manual (1958-1967)
 <fieldset>
   <legend id="quick" name="quick">Quick Index</legend>
   <p>
-    <a name="q1"><h3>Main Group 1: Engine</h3></a>
+    <h3 name="q1">Main Group 1: Engine</h3>
     <ul>
       <li><a href="pdfs/5867colors.pdf">Color Combinations(PDF)</a></li>
       <li><a href="pdfs/5867supplement.pdf">Supplements(PDF)</a></li>
@@ -66,11 +66,11 @@ title: Type 2 Parts Manual (1958-1967)
     </ul>
     <table>
       <tr>
-	<td width="20%"><a href="5867part/001.png">1</a></td>
-	<td width="20%"><a href="5867part/005.png">5</a></td>
-	<td width="20%"><a href="5867part/007.png">7</a></td>
-	<td width="20%"><a href="5867part/009.png">9</a></td>
-	<td width="20%"><a href="5867part/013.png">13</a></td>
+	<td ><a href="5867part/001.png">1</a></td>
+	<td ><a href="5867part/005.png">5</a></td>
+	<td ><a href="5867part/007.png">7</a></td>
+	<td ><a href="5867part/009.png">9</a></td>
+	<td ><a href="5867part/013.png">13</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/015.png">15</a></td>
@@ -201,21 +201,17 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q2">
-      <h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
-    </a>
-
+    <h3 name="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <ul>
       <li><a href="pdfs/5867s2.pdf">Main Group 2 (PDF)</a></li>
     </ul>
-
     <table>
       <tr>
-	<td width="20%"><a href="5867part/185.png">185</a></td>
-	<td width="20%"><a href="5867part/187.png">187</a></td>
-	<td width="20%"><a href="5867part/189.png">189</a></td>
-	<td width="20%"><a href="5867part/191.png">191</a></td>
-	<td width="20%"><a href="5867part/193.png">193</a></td>
+	<td ><a href="5867part/185.png">185</a></td>
+	<td ><a href="5867part/187.png">187</a></td>
+	<td ><a href="5867part/189.png">189</a></td>
+	<td ><a href="5867part/191.png">191</a></td>
+	<td ><a href="5867part/193.png">193</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/195.png">195</a></td>
@@ -234,19 +230,17 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q3"><h3>Main Group 3: Transmission</h3></a>
-
+    <h3 name="q3">Main Group 3: Transmission</h3>
     <ul>
       <li><a href="pdfs/5867s3.pdf">Main Group 3 (PDF)</a></li>
     </ul>
-
     <table>
       <tr>
-	<td width="20%"><a href="5867part/213.png">213</a></td>
-	<td width="20%"><a href="5867part/215.png">215</a></td>
-	<td width="20%"><a href="5867part/217.png">217</a></td>
-	<td width="20%"><a href="5867part/218.png">219</a></td>
-	<td width="20%"><a href="5867part/221.png">221</a></td>
+	<td ><a href="5867part/213.png">213</a></td>
+	<td ><a href="5867part/215.png">215</a></td>
+	<td ><a href="5867part/217.png">217</a></td>
+	<td ><a href="5867part/218.png">219</a></td>
+	<td ><a href="5867part/221.png">221</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/223.png">223</a></td>
@@ -272,17 +266,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q4"><h3>Main Group 4: Front Axle, Steering</h3></a>
-
+    <h3 name="q4">Main Group 4: Front Axle, Steering</h3>
     <ul><li><a href="pdfs/5867s4.pdf">Main Group 4 (PDF)</a></li></ul>
-
     <table>
       <tr>
-	<td width="20%"><a href="5867part/251.png">251</a></td>
-	<td width="20%"><a href="5867part/253.png">253</a></td>
-	<td width="20%"><a href="5867part/255.png">255</a></td>
-	<td width="20%"><a href="5867part/257.png">257</a></td>
-	<td width="20%"><a href="5867part/259.png">259</a></td>
+	<td ><a href="5867part/251.png">251</a></td>
+	<td ><a href="5867part/253.png">253</a></td>
+	<td ><a href="5867part/255.png">255</a></td>
+	<td ><a href="5867part/257.png">257</a></td>
+	<td ><a href="5867part/259.png">259</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/261.png">261</a></td>
@@ -301,17 +293,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q5"><h3>Main Group 5: Rear Axle</h3></a>
-
+    <h3 name="q5">Main Group 5: Rear Axle</h3>
     <ul><li><a href="pdfs/5867s5.pdf">Main Group 5 (PDF)</a></li></ul>
-
     <table>
       <tr>
-	<td width="20%"><a href="5867part/281.png">281</a></td>
-	<td width="20%"><a href="5867part/283.png">283</a></td>
-	<td width="20%"><a href="5867part/285.png">285</a></td>
-	<td width="20%"><a href="5867part/287.png">287</a></td>
-	<td width="20%"><a href="5867part/289.png">289</a></td>
+	<td ><a href="5867part/281.png">281</a></td>
+	<td ><a href="5867part/283.png">283</a></td>
+	<td ><a href="5867part/285.png">285</a></td>
+	<td ><a href="5867part/287.png">287</a></td>
+	<td ><a href="5867part/289.png">289</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/291.png">291</a></td>
@@ -330,17 +320,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
-
+    <h3 name="q6">Main Group 6: Road Wheels, Brakes</h3>
     <ul><li><a href="pdfs/5867s6.pdf">Main Group 6 (PDF)</a></li></ul>
-
     <table>
       <tr>
-	<td width="20%"><a href="5867part/305.png">305</a></td>
-	<td width="20%"><a href="5867part/307.png">307</a></td>
-	<td width="20%"><a href="5867part/309.png">309</a></td>
-	<td width="20%"><a href="5867part/311.png">311</a></td>
-	<td width="20%"><a href="5867part/313.png">313</a></td>
+	<td ><a href="5867part/305.png">305</a></td>
+	<td ><a href="5867part/307.png">307</a></td>
+	<td ><a href="5867part/309.png">309</a></td>
+	<td ><a href="5867part/311.png">311</a></td>
+	<td ><a href="5867part/313.png">313</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/315.png">315</a></td>
@@ -366,15 +354,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
+    <h3 name="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <ul><li><a href="pdfs/5867s7.pdf">Main Group 7 (PDF)</a></li></ul>
     <table>
       <tr>
-	<td width="20%"><a href="5867part/337.png">337</a></td>
-	<td width="20%"><a href="5867part/339.png">339</a></td>
-	<td width="20%"><a href="5867part/341.png">341</a></td>
-	<td width="20%"><a href="5867part/343.png">343</a></td>
-	<td width="20%"><a href="5867part/345.png">345</a></td>
+	<td ><a href="5867part/337.png">337</a></td>
+	<td ><a href="5867part/339.png">339</a></td>
+	<td ><a href="5867part/341.png">341</a></td>
+	<td ><a href="5867part/343.png">343</a></td>
+	<td ><a href="5867part/345.png">345</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/347.png">347</a></td>
@@ -407,15 +395,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q8"><h3>Main Group 8: Body</h3></a>
+    <h3 name="q8">Main Group 8: Body</h3>
     <ul><li><a href="pdfs/5867s8.pdf">Main Group 8 (PDF)</a></li></ul>
     <table>
       <tr>
-	<td width="20%"><a href="5867part/377.png">377</a></td>
-	<td width="20%"><a href="5867part/379.png">379</a></td>
-	<td width="20%"><a href="5867part/381.png">381</a></td>
-	<td width="20%"><a href="5867part/383.png">383</a></td>
-	<td width="20%"><a href="5867part/385.png">385</a></td>
+	<td ><a href="5867part/377.png">377</a></td>
+	<td ><a href="5867part/379.png">379</a></td>
+	<td ><a href="5867part/381.png">381</a></td>
+	<td ><a href="5867part/383.png">383</a></td>
+	<td ><a href="5867part/385.png">385</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/387.png">387</a></td>
@@ -525,15 +513,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q9"><h3>Main Group 9: Electrical Equipment</h3></a>
+    <h3 name="q9">Main Group 9: Electrical Equipment</h3>
     <ul><li><a href="pdfs/5867s9.pdf">Main Group 9 (PDF)</a></li></ul>
     <table>
       <tr>
-	<td width="20%"><a href="5867part/535.png">535</a></td>
-	<td width="20%"><a href="5867part/537.png">537</a></td>
-	<td width="20%"><a href="5867part/539.png">539</a></td>
-	<td width="20%"><a href="5867part/541.png">541</a></td>
-	<td width="20%"><a href="5867part/543.png">543</a></td>
+	<td ><a href="5867part/535.png">535</a></td>
+	<td ><a href="5867part/537.png">537</a></td>
+	<td ><a href="5867part/539.png">539</a></td>
+	<td ><a href="5867part/541.png">541</a></td>
+	<td ><a href="5867part/543.png">543</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/545.png">545</a></td>
@@ -601,15 +589,15 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="q0"><h3>Main Group 0: Accessories, standard equipment, etc</h3></a>
+    <h3 name="q0">Main Group 0: Accessories, standard equipment, etc</h3>
     <ul><li><a href="pdfs/5867s0.pdf">Main Group 0 (PDF)</a></li></ul>
     <table>
       <tr>
-	<td width="20%"><a href="5867part/631.png">631</a></td>
-	<td width="20%"><a href="5867part/633.png">633</a></td>
-	<td width="20%"><a href="5867part/635.png">635</a></td>
-	<td width="20%"><a href="5867part/637.png">637</a></td>
-	<td width="20%"><a href="5867part/639.png">639</a></td>
+	<td><a href="5867part/631.png">631</a></td>
+	<td><a href="5867part/633.png">633</a></td>
+	<td><a href="5867part/635.png">635</a></td>
+	<td><a href="5867part/637.png">637</a></td>
+	<td><a href="5867part/639.png">639</a></td>
       </tr>
       <tr>
 	<td><a href="5867part/641.png">641</a></td>
@@ -691,13 +679,13 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="full"><h3>Full Index</h3></a>
-    <a name="fc"><h3>Color Combinations</h3></a>
+    <h3 name="full">Full Index</h3>
+    <h3 name="fc">Color Combinations</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/001.png">1</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Color Combinations Title Page</td>
+	<td class="pageIndex"><a href="5867part/001.png">1</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Color Combinations Title Page</td>
       </tr>
       <tr>
 	<td><a href="5867part/005.png">5</a></td>
@@ -747,12 +735,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f1"><h3>Main Group 1: Engine</h3></a>
+    <h3 name="f1">Main Group 1: Engine</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/021.png">21</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Supplement 37, Main Group 1 Index</td>
+	<td class="pageIndex"><a href="5867part/021.png">21</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Supplement 37, Main Group 1 Index</td>
       </tr>
       <tr>
 	<td><a href="5867part/023.png">23</a></td>
@@ -1167,12 +1155,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f2"><h3>Main Group 2: Fuel Tank, Exhaust System, Heater System</h3></a>
+    <h3 name="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/185.png">185</a></td>
-	<td width="15%">list</td>
-	<td width="75%">SP Sets, Main Group 2 index</td>
+	<td class="pageIndex"><a href="5867part/185.png">185</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">SP Sets, Main Group 2 index</td>
       </tr>
       <tr>
 	<td><a href="5867part/187.png">187</a></td>
@@ -1247,12 +1235,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f3"><h3>Main Group 3: Transmission</h3></a>
+    <h3 name="f3">Main Group 3: Transmission</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/213.png">213</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Repair kits, Main Group 3 index</td>
+	<td class="pageIndex"><a href="5867part/213.png">213</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Repair kits, Main Group 3 index</td>
       </tr>
       <tr>
 	<td><a href="5867part/215.png">215</a></td>
@@ -1347,12 +1335,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f4"><h3>Main Group 4: Front Axle, Steering</h3></a>
+    <h3 name="f4">Main Group 4: Front Axle, Steering</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/251.png">251</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 4 index</td>
+	<td class="pageIndex"><a href="5867part/251.png">251</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 4 index</td>
       </tr>
       <tr>
 	<td><a href="5867part/253.png">253</a></td>
@@ -1427,12 +1415,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f5"><h3>Main Group 5: Rear Axle</h3></a>
+    <h3 name="f5">Main Group 5: Rear Axle</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/281.png">281</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 5 index </td>
+	<td class="pageIndex"><a href="5867part/281.png">281</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 5 index </td>
       </tr>
       <tr>
 	<td><a href="5867part/283.png">283</a></td>
@@ -1497,12 +1485,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f6"><h3>Main Group 6: Road Wheels, Brakes</h3></a>
+    <h3 name="f6">Main Group 6: Road Wheels, Brakes</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/305.png">305</a></td>
-	<td width="15%">list</td>
-	<td width="75%">SP Sets, Main Group 6 index</td>
+	<td class="pageIndex"><a href="5867part/305.png">305</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">SP Sets, Main Group 6 index</td>
       </tr>
       <tr>
 	<td><a href="5867part/307.png">307</a></td>
@@ -1582,12 +1570,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f7"><h3>Main Group 7: Frame, Hand and Foot Lever Systems</h3></a>
+    <h3 name="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/337.png">337</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 7 index</td>
+	<td class="pageIndex"><a href="5867part/337.png">337</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 7 index</td>
       </tr>
       <tr>
 	<td><a href="5867part/339.png">339</a></td>
@@ -1692,12 +1680,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f8"><h3>Main Group 8: Body</h3></a>
+    <h3 name="f8">Main Group 8: Body</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/377.png">377</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Hand lever system, pedal cluster;  Main Group 8 Index</td>
+	<td class="pageIndex"><a href="5867part/377.png">377</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Hand lever system, pedal cluster;  Main Group 8 Index</td>
       </tr>
       <tr>
 	<td><a href="5867part/379.png">379</a></td>
@@ -2092,12 +2080,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f9"><h3>Main Group 9: Electrical Equipment</h3></a>
+    <h3 name="f9">Main Group 9: Electrical Equipment</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/535.png">535</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Main Group 9 Index</td>
+	<td class="pageIndex"><a href="5867part/535.png">535</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Main Group 9 Index</td>
       </tr>
       <tr>
 	<td><a href="5867part/537.png">537</a></td>
@@ -2342,12 +2330,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="f0"><h3>Main Group 0: Accessories and Standard Equipment</h3></a>
+    <h3 name="f0">Main Group 0: Accessories and Standard Equipment</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/631.png">631</a></td>
-	<td width="15%">list</td>
-	<td width="75%">SP Sets, Main Group 0 Index</td>
+	<td class="pageIndex"><a href="5867part/631.png">631</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">SP Sets, Main Group 0 Index</td>
       </tr>
       <tr>
 	<td><a href="5867part/633.png">633</a></td>
@@ -2552,12 +2540,12 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <a name="fs"><h3>Special Models</h3></a>
+    <h3 name="fs">Special Models</h3>
     <table>
       <tr>
-	<td width="10%"><a href="5867part/711.png">711</a></td>
-	<td width="15%">list</td>
-	<td width="75%">Servicing materials and sealing compounds, Special Models index</td>
+	<td class="pageIndex"><a href="5867part/711.png">711</a></td>
+	<td class="pageType">list</td>
+	<td class="pageDesc">Servicing materials and sealing compounds, Special Models index</td>
       </tr>
       <tr>
 	<td><a href="5867part/713.png">713</a></td>

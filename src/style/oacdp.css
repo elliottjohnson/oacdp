@@ -139,3 +139,15 @@ fieldset table td {
   text-align: center;
   background-color: #ffffaa;
 }
+
+.pageIndex {
+  width: 10%;
+}
+
+.pageType {
+  width: 15%;
+}
+
+.pageDesc {
+  width: 75%;
+}
