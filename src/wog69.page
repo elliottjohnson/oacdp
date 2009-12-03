@@ -26,8 +26,10 @@ title: Without Guesswork 1969
       <a href="pdfs/wog69.pdf">Complete manual (PDF)</a>
     </li>
   </ul>
+</fieldset>
+<fieldset>
+  <legend>Brief Contents</legend>
   <p>
-    <h3>Brief Contents</h3>
     <ul>
       <li><a href="#p1">1: Intro</a></li>
       <li><a href="#p3">3: Contents</a></li>

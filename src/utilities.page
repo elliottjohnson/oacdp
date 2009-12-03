@@ -41,8 +41,7 @@ title: Utilities
 <fieldset id="images" name="images">
   <legend>Image viewers</legend>
   <p>JPEG and PNG files are ubiquitous and your browser of
-     choice should be able to support viewing them.  If
-     not <a href="http://wikipedia.org">wikipedia</a> has a
+     choice should be able to support viewing them. Here's a
      <a href="http://en.wikipedia.org/wiki/Comparison_of_image_viewers">
        list of image viewers</a> you can choose from.</p>
 </fieldset>

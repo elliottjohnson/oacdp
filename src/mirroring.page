@@ -14,10 +14,35 @@ title: Mirroring
   <pre class="cli">
     rsync -avz rsync://oacdp.org/oacdp /path/to/a/local/directory
   </pre>
-  <p>I suggest running this on a regular basis such as from a
-     unix cron daemon.  If you'd like <a href="http://git-scm.com">git</a> 
-     access to the
-     OACDP project, <a href="contact.html">visit the contact page</a> and 
-     drop me an email.
+  <p>I suggest running this on a regular basis such as a unix cronjob.</p>
+  <h4>Current known mirrors</h4>
+  <ul>
+    <li><a href="http://oacdp.freeweb7.com/">historical oacdp site</a></li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>Building from source</legend>
+  <p>
+    This website's source is published on 
+    <a href="http://github.com/elliottjohnson/oacdp" 
+       target="_BLANK">github</a>.  Feel free to
+    <a href="http://git-scm.com" target="_BLANK">clone</a> it via
+    <tt>git clone git://github.com/elliottjohnson/oacdp.git</tt>
+  </p>
+  <p>
+    In the directory created by cloning the repository you can untar
+    the <a href="overlay.tar.bz2">overlay</a> to complete the install.
+  </p>
+  <p>
+    The project uses <a href="http://webgen.rubyforge.org" target="_BLANK">
+    webgen</a> to render out the final html.  This coupled with an overlay 
+    of images creates the site.  The command to render out the site is
+    <tt>webgen render</tt>.  This should be run in the root directory
+    of the cloned repo.  If you've read this far and have questions
+    just <a href="contact.html">email</a>.
+  </p>
+  <p>
+    If you have updates to push back up I'll be <a href="contact.html">glad 
+    to accept</a> patches or pushes of your revisions.
   </p>
 </fieldset>

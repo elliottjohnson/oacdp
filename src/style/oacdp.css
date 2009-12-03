@@ -13,6 +13,10 @@ fieldset p {
     padding: 0em 1em;
 }
 
+fieldset ul {
+    padding-bottom: 1em;
+}
+
 #titleBackground {
     position: absolute;
     top: 0;
