@@ -38,8 +38,8 @@ title: Mirroring
     webgen</a> to render out the final html.  This coupled with an overlay 
     of images creates the site.  The command to render out the site is
     <tt>webgen render</tt>.  This should be run in the root directory
-    of the cloned repo.  If you've read this far and have questions
-    just <a href="contact.html">email</a>.
+    of the cloned repo.  If you've read this far, congratulations and if you
+    have questions just <a href="contact.html">email</a>.
   </p>
   <p>
     If you have updates to push back up I'll be <a href="contact.html">glad 
