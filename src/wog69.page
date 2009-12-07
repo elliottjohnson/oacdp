@@ -51,9 +51,9 @@ title: Without Guesswork 1969
     <table>
       <tr>
 	<td><a href="wog69/cover.jpg">cover</a></td>
-	<td name="p1"><a href="wog69/001.png">1</a></td>
-	<td name="p3"><a href="wog69/003.png">3</a></td>
-	<td name="p5"><a href="wog69/005.png">5</a></td>
+	<td id="p1"><a href="wog69/001.png">1</a></td>
+	<td id="p3"><a href="wog69/003.png">3</a></td>
+	<td id="p5"><a href="wog69/005.png">5</a></td>
 	<td><a href="wog69/007.png">7</a></td>
       </tr>
       <tr>
@@ -81,14 +81,14 @@ title: Without Guesswork 1969
 	<td><a href="wog69/039.png">39</a></td>
 	<td><a href="wog69/041.png">41</a></td>
 	<td><a href="wog69/043.png">43</a></td>
-	<td name="p45"><a href="wog69/045.png">45</a></td>
+	<td id="p45"><a href="wog69/045.png">45</a></td>
 	<td><a href="wog69/047.png">47</a></td>
       </tr>
       <tr>
 	<td><a href="wog69/049.png">49</a></td>
 	<td><a href="wog69/051.png">51</a></td>
 	<td><a href="wog69/053.png">53</a></td>
-	<td name="p55"><a href="wog69/055.png">55</a></td>
+	<td id="p55"><a href="wog69/055.png">55</a></td>
 	<td><a href="wog69/057.png">57</a></td>
       </tr>
       <tr>
@@ -107,7 +107,7 @@ title: Without Guesswork 1969
       </tr>
       <tr>
 	<td><a href="wog69/079.png">79</a></td>
-	<td name="p81"><a href="wog69/081.png">81</a></td>
+	<td id="p81"><a href="wog69/081.png">81</a></td>
 	<td><a href="wog69/083.png">83</a></td>
 	<td><a href="wog69/085.png">85</a></td>
 	<td><a href="wog69/087.png">87</a></td>
@@ -136,7 +136,7 @@ title: Without Guesswork 1969
       <tr>
 	<td><a href="wog69/119.png">119</a></td>
 	<td><a href="wog69/121.png">121</a></td>
-	<td name="p123"><a href="wog69/123.png">123</a></td>
+	<td id="p123"><a href="wog69/123.png">123</a></td>
 	<td><a href="wog69/125.png">125</a></td>
 	<td><a href="wog69/127.png">127</a></td>
       </tr>
@@ -144,11 +144,11 @@ title: Without Guesswork 1969
 	<td><a href="wog69/129.png">129</a></td>
 	<td><a href="wog69/131.png">131</a></td>
 	<td><a href="wog69/133.png">133</a></td>
-	<td name="p135"><a href="wog69/135.png">135</a></td>
-	<td name="p137"><a href="wog69/137.png">137</a></td>
+	<td id="p135"><a href="wog69/135.png">135</a></td>
+	<td id="p137"><a href="wog69/137.png">137</a></td>
       </tr>
       <tr>
-	<td name="p139"><a href="wog69/139.png">139</a></td>
+	<td id="p139"><a href="wog69/139.png">139</a></td>
 	<td><a href="wog69/141.png">141</a></td>
 	<td><a href="wog69/143.png">143</a></td>
 	<td><a href="wog69/145.png">145</a></td>
@@ -159,7 +159,7 @@ title: Without Guesswork 1969
 	<td><a href="wog69/151.png">151</a></td>
 	<td><a href="wog69/153.png">153</a></td>
 	<td><a href="wog69/155.png">155</a></td>
-	<td name="p157"><a href="wog69/157.png">157</a></td>
+	<td id="p157"><a href="wog69/157.png">157</a></td>
       </tr>
     </table>
   </p>
