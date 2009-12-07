@@ -55,9 +55,9 @@ title: Type 2 Parts Manual (1958-1967)
   </ul>
 </fieldset>
 <fieldset>
-  <legend id="quick" name="quick">Quick Index</legend>
+  <legend id="quick" id="quick">Quick Index</legend>
   <p>
-    <h3 name="q1">Main Group 1: Engine</h3>
+    <h3 id="q1">Main Group 1: Engine</h3>
     <ul>
       <li><a href="pdfs/5867colors.pdf">Color Combinations(PDF)</a></li>
       <li><a href="pdfs/5867supplement.pdf">Supplements(PDF)</a></li>
@@ -201,7 +201,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
+    <h3 id="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <ul>
       <li><a href="pdfs/5867s2.pdf">Main Group 2 (PDF)</a></li>
     </ul>
@@ -230,7 +230,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q3">Main Group 3: Transmission</h3>
+    <h3 id="q3">Main Group 3: Transmission</h3>
     <ul>
       <li><a href="pdfs/5867s3.pdf">Main Group 3 (PDF)</a></li>
     </ul>
@@ -266,7 +266,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q4">Main Group 4: Front Axle, Steering</h3>
+    <h3 id="q4">Main Group 4: Front Axle, Steering</h3>
     <ul><li><a href="pdfs/5867s4.pdf">Main Group 4 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -293,7 +293,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q5">Main Group 5: Rear Axle</h3>
+    <h3 id="q5">Main Group 5: Rear Axle</h3>
     <ul><li><a href="pdfs/5867s5.pdf">Main Group 5 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -320,7 +320,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q6">Main Group 6: Road Wheels, Brakes</h3>
+    <h3 id="q6">Main Group 6: Road Wheels, Brakes</h3>
     <ul><li><a href="pdfs/5867s6.pdf">Main Group 6 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -354,7 +354,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
+    <h3 id="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <ul><li><a href="pdfs/5867s7.pdf">Main Group 7 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -395,7 +395,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q8">Main Group 8: Body</h3>
+    <h3 id="q8">Main Group 8: Body</h3>
     <ul><li><a href="pdfs/5867s8.pdf">Main Group 8 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -513,7 +513,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q9">Main Group 9: Electrical Equipment</h3>
+    <h3 id="q9">Main Group 9: Electrical Equipment</h3>
     <ul><li><a href="pdfs/5867s9.pdf">Main Group 9 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -589,7 +589,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="q0">Main Group 0: Accessories, standard equipment, etc</h3>
+    <h3 id="q0">Main Group 0: Accessories, standard equipment, etc</h3>
     <ul><li><a href="pdfs/5867s0.pdf">Main Group 0 (PDF)</a></li></ul>
     <table>
       <tr>
@@ -678,9 +678,11 @@ title: Type 2 Parts Manual (1958-1967)
       </tr>
     </table>
   </p>
+</fieldset>
+<fieldset>
+  <legend id="full">Full Index</legend>
   <p>
-    <h3 name="full">Full Index</h3>
-    <h3 name="fc">Color Combinations</h3>
+    <h3 id="fc">Color Combinations</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/001.png">1</a></td>
@@ -735,7 +737,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f1">Main Group 1: Engine</h3>
+    <h3 id="f1">Main Group 1: Engine</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/021.png">21</a></td>
@@ -1155,7 +1157,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
+    <h3 id="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/185.png">185</a></td>
@@ -1235,7 +1237,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f3">Main Group 3: Transmission</h3>
+    <h3 id="f3">Main Group 3: Transmission</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/213.png">213</a></td>
@@ -1335,7 +1337,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f4">Main Group 4: Front Axle, Steering</h3>
+    <h3 id="f4">Main Group 4: Front Axle, Steering</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/251.png">251</a></td>
@@ -1415,7 +1417,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f5">Main Group 5: Rear Axle</h3>
+    <h3 id="f5">Main Group 5: Rear Axle</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/281.png">281</a></td>
@@ -1485,7 +1487,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f6">Main Group 6: Road Wheels, Brakes</h3>
+    <h3 id="f6">Main Group 6: Road Wheels, Brakes</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/305.png">305</a></td>
@@ -1570,7 +1572,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
+    <h3 id="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/337.png">337</a></td>
@@ -1680,7 +1682,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f8">Main Group 8: Body</h3>
+    <h3 id="f8">Main Group 8: Body</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/377.png">377</a></td>
@@ -2080,7 +2082,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f9">Main Group 9: Electrical Equipment</h3>
+    <h3 id="f9">Main Group 9: Electrical Equipment</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/535.png">535</a></td>
@@ -2330,7 +2332,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="f0">Main Group 0: Accessories and Standard Equipment</h3>
+    <h3 id="f0">Main Group 0: Accessories and Standard Equipment</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/631.png">631</a></td>
@@ -2540,7 +2542,7 @@ title: Type 2 Parts Manual (1958-1967)
     </table>
   </p>
   <p>
-    <h3 name="fs">Special Models</h3>
+    <h3 id="fs">Special Models</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="5867part/711.png">711</a></td>

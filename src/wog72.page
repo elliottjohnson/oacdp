@@ -46,7 +46,7 @@ title: Without Guesswork 1972
 	<td><a href="wog72/000Cover.png">Cover</a></td>
 	<td><a href="wog72/001Foreword.png">Foreword</a></td>
 	<td><a href="wog72/002Contents.png">Contents</a></td>
-	<td name="p4"><a href="wog72/004_m.png">4</a></td>
+	<td id="p4"><a href="wog72/004_m.png">4</a></td>
 	<td><a href="wog72/006_m.png">6</a></td>
       </tr>
       <tr>
@@ -59,9 +59,9 @@ title: Without Guesswork 1972
       <tr>
 	<td><a href="wog72/018_m.png">18</a></td>
 	<td><a href="wog72/020_m.png">20</a></td>
-	<td name="p22"><a href="wog72/022_k.png">22</a></td>
+	<td id="p22"><a href="wog72/022_k.png">22</a></td>
 	<td><a href="wog72/024_k.png">24</a></td>
-	<td><a href="wog72/026_v.png">26</a></td>
+	<td id="p26"><a href="wog72/026_v.png">26</a></td>
       </tr>
       <tr>
 	<td><a href="wog72/028_v.png">28</a></td>
@@ -89,7 +89,7 @@ title: Without Guesswork 1972
 	<td><a href="wog72/060_v.png">60</a></td>
 	<td><a href="wog72/062_v.png">62</a></td>
 	<td><a href="wog72/064_v.png">64</a></td>
-	<td name="p66"><a href="wog72/066_h.png">66</a></td>
+	<td id="p66"><a href="wog72/066_h.png">66</a></td>
       </tr>
       <tr>
 	<td><a href="wog72/068_h.png">68</a></td>
@@ -129,29 +129,29 @@ title: Without Guesswork 1972
       <tr>
 	<td><a href="wog72/118_h.png">118</a></td>
 	<td><a href="wog72/120_h.png">120</a></td>
-	<td name="p122"><a href="wog72/122_b.png">122</a></td>
+	<td id="p122"><a href="wog72/122_b.png">122</a></td>
 	<td><a href="wog72/124_b.png">124</a></td>
 	<td><a href="wog72/126_b.png">126</a></td>
       </tr>
       <tr>
 	<td><a href="wog72/128_b.png">128</a></td>
 	<td><a href="wog72/130_b.png">130</a></td>
-	<td name="p132"><a href="wog72/132_a.png">132</a></td>
-	<td name="p134"><a href="wog72/134_e.png">134</a></td>
+	<td id="p132"><a href="wog72/132_a.png">132</a></td>
+	<td id="p134"><a href="wog72/134_e.png">134</a></td>
 	<td><a href="wog72/136_e.png">136</a></td>
       </tr>
       <tr>
 	<td><a href="wog72/138_e.png">138</a></td>
 	<td><a href="wog72/140_e.png">140</a></td>
-	<td name="p142"><a href="wog72/142_f.png">142</a></td>
-	<td name="p144"><a href="wog72/144_t.png">144</a></td>
+	<td id="p142"><a href="wog72/142_f.png">142</a></td>
+	<td id="p144"><a href="wog72/144_t.png">144</a></td>
 	<td><a href="wog72/146_t.png">146</a></td>
       </tr>
       <tr>
 	<td><a href="wog72/148_t.png">148</a></td>
 	<td><a href="wog72/150_t.png">150</a></td>
 	<td><a href="wog72/152_t.png">152</a></td>
-	<td name="p154"><a href="wog72/154zc.png">154</a></td>
+	<td id="p154"><a href="wog72/154zc.png">154</a></td>
 	<td><a href="wog72/156zc.png">156</a></td>
       </tr>
     </table>

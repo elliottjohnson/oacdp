@@ -36,12 +36,12 @@ title: Without Guesswork 1969
       <li><a href="#p5">5 - 43: Engine</a></li>
       <li><a href="#p45">45 - 53: Fuel System</a></li>
       <li><a href="#p55">55 - 79: Front Axle</a></li>
-      <li><a href="#81">81 - 121: Rear Axle and Gearbox</a></li>
-      <li><a href="#123">123 - 133: Brakes and Wheels</a></li>
-      <li><a href="#135">135: Body</a></li>
-      <li><a href="#137">137: Electrical System</a></li>
-      <li><a href="#139">139 - 155: General Data</a></li>
-      <li><a href="#157">157: VW Notice</a></li>
+      <li><a href="#p81">81 - 121: Rear Axle and Gearbox</a></li>
+      <li><a href="#p123">123 - 133: Brakes and Wheels</a></li>
+      <li><a href="#p135">135: Body</a></li>
+      <li><a href="#p137">137: Electrical System</a></li>
+      <li><a href="#p139">139 - 155: General Data</a></li>
+      <li><a href="#p157">157: VW Notice</a></li>
     </ul>
   </p>
 </fieldset>

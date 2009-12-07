@@ -65,9 +65,9 @@ title: Damage Numbers and Proprietary Parts (1965)
   </ul>
 </fieldset>
 <fieldset>
-  <legend id="quick" name="quick">Quick Index</legend>
+  <legend id="quick">Quick Index</legend>
   <p>
-    <a id="qt" name="qt"><h3>Title and Introduction</h3></a>
+    <a id="qt"><h3>Title and Introduction</h3></a>
     <table>
       <tr>
 	<td><a href="damage/0-00a.png">000</a></td>
@@ -79,7 +79,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q1">Main Group 1: Engine</h3>
+    <h3 id="q1">Main Group 1: Engine</h3>
     <ul>
       <li><a href="zips/damage_01.tar.gz">Complete Group 1(tar.gz)</a></li>
     </ul>
@@ -144,7 +144,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
+    <h3 id="q2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <ul>
       <li><a href="zips/damage_02.tar.gz">Complete Group 2 (tar.gz)</a></li>
     </ul>
@@ -188,7 +188,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q3">Main Group 3: Transmission</h3>
+    <h3 id="q3">Main Group 3: Transmission</h3>
     <ul>
       <li>
 	<a href="zips/damage_03.tar.gz">Complete Group 3 (tar.gz)</a>
@@ -226,7 +226,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q4">Main Group 4: Front Axle, Steering</h3>
+    <h3 id="q4">Main Group 4: Front Axle, Steering</h3>
     <ul>
       <li>
 	<a href="zips/damage_04.tar.gz">Complete Group 4 (tar.gz)</a>
@@ -264,7 +264,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q5">Main Group 5: Rear Axle</h3>
+    <h3 id="q5">Main Group 5: Rear Axle</h3>
     <ul>
       <li>
 	<a href="zips/damage_05.tar.gz">Complete Group 5 (tar.gz)</a>
@@ -295,7 +295,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q6">Main Group 6: Road Wheels, Brakes</h3>
+    <h3 id="q6">Main Group 6: Road Wheels, Brakes</h3>
     <ul>
       <li>
 	<a href="zips/damage_06.tar.gz">Complete Group 6 (tar.gz)</a>
@@ -319,7 +319,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
+    <h3 id="q7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <ul>
       <li>
 	<a href="zips/damage_07.tar.gz">Complete Group 7 (tar.gz)</a>
@@ -350,7 +350,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q8">Main Group 8: Body</h3>
+    <h3 id="q8">Main Group 8: Body</h3>
     <ul>
       <li><a href="zips/damage_08.part1.rar">Group 8, part 1 of 7 (RAR)</a></li>
       <li><a href="zips/damage_08.part2.rar">Group 8, part 2 of 7 (RAR)</a></li>
@@ -605,7 +605,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q9">Main Group 9: Electrical Equipment</h3>
+    <h3 id="q9">Main Group 9: Electrical Equipment</h3>
     <ul>
       <li>
 	<a href="zips/damage_09.tar.gz">Complete Group 9 (tar.gz)</a>
@@ -671,7 +671,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="q0">Main Group 0: Accessories, standard equipment, etc</h3>
+    <h3 id="q0">Main Group 0: Accessories, standard equipment, etc</h3>
     <ul>
       <li>
 	<a href="zips/damage_10.tar.gz">Complete Group 0 (tar.gz)</a>
@@ -689,9 +689,9 @@ title: Damage Numbers and Proprietary Parts (1965)
   </p>
 </fieldset>
 <fieldset>
-  <legend name="full">Full Index</legend>
+  <legend id="full">Full Index</legend>
   <p>
-    <h3 name="ft">Title and Introduction</h3>
+    <h3 id="ft">Title and Introduction</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/00-00a.png">00a</a></td>
@@ -711,7 +711,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f1">Main Group 1: Engine</h3>
+    <h3 id="f1">Main Group 1: Engine</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/01-000.png">000</a></td>
@@ -896,7 +896,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
+    <h3 id="f2">Main Group 2: Fuel Tank, Exhaust System, Heater System</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/02-000.png">000</a></td>
@@ -1006,7 +1006,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f3">Main Group 3: Transmission</h3>
+    <h3 id="f3">Main Group 3: Transmission</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/03-000.png">000</a></td>
@@ -1091,7 +1091,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f4">Main Group 4: Front Axle, Steering</h3>
+    <h3 id="f4">Main Group 4: Front Axle, Steering</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/04-000.png">000</a></td>
@@ -1186,7 +1186,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f5">Main Group 5: Rear Axle</h3>
+    <h3 id="f5">Main Group 5: Rear Axle</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/05-000.png">000</a></td>
@@ -1266,7 +1266,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f6">Main Group 6: Road Wheels, Brakes</h3>
+    <h3 id="f6">Main Group 6: Road Wheels, Brakes</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/06-000.png">000</a></td>
@@ -1321,7 +1321,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
+    <h3 id="f7">Main Group 7: Frame, Hand and Foot Lever Systems</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/07-000.png">000</a></td>
@@ -1396,8 +1396,8 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f8">Main Group 8: Body</h3>
-    <h4 name="f8a">Body Damage Codes</h4>
+    <h3 id="f8">Main Group 8: Body</h3>
+    <h4 id="f8a">Body Damage Codes</h4>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/08-000.png">000</a></td>
@@ -1852,7 +1852,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h4 name="f8b">Paint Damage Codes</h4>
+    <h4 id="f8b">Paint Damage Codes</h4>
     <table>
       <tr>
 	<td name="pageIndex"><a href="damage/08-200.png">200</a></td>
@@ -1907,7 +1907,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h4 name="f8c">Body Sealing - Type 1</h4>
+    <h4 id="f8c">Body Sealing - Type 1</h4>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/08-500.png">500</a></td>
@@ -2052,7 +2052,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h4 name="f8d">Body Sealing - Type 3</h4>
+    <h4 id="f8d">Body Sealing - Type 3</h4>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/08-600.png">600</a></td>
@@ -2212,7 +2212,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f9">Main Group 9: Electrical Equipment</h3>
+    <h3 id="f9">Main Group 9: Electrical Equipment</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/09-000.png">000</a></td>
@@ -2402,7 +2402,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     </table>
   </p>
   <p>
-    <h3 name="f0">Main Group 0: Accessories and Standard Equipment</h3>
+    <h3 id="f0">Main Group 0: Accessories and Standard Equipment</h3>
     <table>
       <tr>
 	<td class="pageIndex"><a href="damage/10-000.png">000</a></td>
