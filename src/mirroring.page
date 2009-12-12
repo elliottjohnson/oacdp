@@ -30,16 +30,21 @@ title: Mirroring
     <tt>git clone git://github.com/elliottjohnson/oacdp.git</tt>
   </p>
   <p>
-    In the directory created by cloning the repository you can untar
-    the <a href="overlay.tar.bz2">overlay</a> to complete the install.
-  </p>
-  <p>
     The project uses <a href="http://webgen.rubyforge.org" target="_BLANK">
     webgen</a> to render out the final html.  The rendered output of the 
     source, coupled with the overlay creates the site.  The command to render 
     out the site is <tt>webgen render</tt>.  This should be run in the root 
     directory of the cloned repo.  If you've read this far, congratulations
     and if you have questions just <a href="contact.html">email</a>.
+  </p>
+  <p>
+    In the root of the project directory you can untar an overlay of
+    images to complete the build.  You can use the <a
+    href="contact.html">contact</a> to request a copy.  I would post
+    it online, but for such a large file the bandwidth usage from
+    webcrawlers alone would be significant.  The the requests for the
+    file are large enough or I have some spare time I'll setup a
+    torrent.
   </p>
   <p>
     If you have updates to push back up I'll be <a href="contact.html">glad 
