@@ -45,6 +45,15 @@ Then extract the overlay to install the content:
 Use a web browser to open the "oacdp/out/index.html" file.  I've used only 
 relative url's within the site to keep things locally viewable.
 
+## Deploying
+
+If you wish to deploy from source you can execute the publish.sh
+script found in the scripts/ directory in the root of your checkout.
+Make sure you supply a writeable, webviewable directory on your
+local machine.
+
+	scripts/publish.sh /path/to/a/writable/webdir/oacdp      
+
 ## Developing
 
 I highly recommend setting up a github account, but it's not a requirement. 
