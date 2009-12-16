@@ -72,11 +72,15 @@ title: About
 <fieldset id="legal" name="legal">
   <legend>Legal Stuff</legend>
 
-  <p>The OACDP html and logos are copyright 2001-2009 and
-     distributed under the <a href="http://www.gnu.org/licenses/gpl.html">
-     GNU General Public License</a>.  See the 
-     <a href="/mirroring.html">mirroring</a> page for information about 
-     getting access to the complete source.</p>
+  <p>The OACDP html and logos that belong to the <a
+     href="http://github.com/elliottjohnson/oacdp">oacdp project> are
+     copyright 2001-2009 and distributed under the <a
+     href="http://www.gnu.org/licenses/gpl.html"> GNU General Public
+     License</a>.  See the <a href="/mirroring.html">mirroring</a>
+     page for information about getting access to the complete
+     source.  All other copyrighted materials are property of their
+     respective owners and are on display for educational purposes
+     only.</p>
 
   <p>VW, the VW logo, Volkswagen, and other terms are trademarks
      or registered trademarks of Volkswagenwerk AG and its
