@@ -116,9 +116,13 @@
 	</div>
       </div>
       <p id="footerCopy">
-	&copy; 2001-2009, distributed under the 
-	<a href="http://www.gnu.org/licenses/gpl.html">GNU
-	General Public License version 3.0</a>.
+	The oacdp
+	project <a href="http://github.com/elliottjohnson/oacdp">source</a>
+	is registered &copy; 2001-2009 and distributed under
+	the <a href="http://www.gnu.org/licenses/gpl.html">GNU General
+	Public License version 3.0</a>.  All other copyrighted
+	materials are property of their respective owners and are on
+	display for educational purposes only.
       </p> 
     </div>
   </body>
