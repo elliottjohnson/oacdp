@@ -21,7 +21,14 @@ title: Without Guesswork 1972
   </ul>
 </fieldset>
 <fieldset>
-  <ul><li><a href="pdfs/wog72.pdf">Complete manual (PDF)</a></li></ul>
+  <legend>Archive</legend>
+  <ul>
+    <li>
+      <a href="pdfs/wog72.pdf">Complete manual (PDF)</a>
+    </li>
+  </ul>
+</fieldset>
+<fieldset>
   <p>
     <h3>Brief Contents</h3>
     <ul>
