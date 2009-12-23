@@ -85,7 +85,7 @@ fieldset ul {
 
 #footerContainer {
     margin: 0 auto;
-    width: 55em;
+    width: 60em;
     height: 16em;
 }
 
@@ -98,6 +98,16 @@ fieldset ul {
 
 #footerText a:hover {
     color: white;
+}
+
+#footerCopyContainer {
+    width: 100%;
+    text-align: center;
+}
+
+#footerCopy {
+    width: 60em;
+    margin: 0 auto;
 }
 
 .footerNav {
