@@ -43,7 +43,7 @@
       <div id="footerContainer">
 	<div class="footerNav">
 	  <ul>
-	    <li class='header'>Site Links</li>
+	    <li class='underlined'>Site Links</li>
 	    <li><a href="index.html">home</a></li>
 	    <li><a href="aboutdoc.html">about</a></li>
 	    <li><a href="aboutdoc.html#legal">legal</a></li>
@@ -57,7 +57,7 @@
 	</div>
 	<div class="footerNav">
 	  <ul>
-	    <li class='header'>Doc Links</li>
+	    <li class='underlined'>Doc Links</li>
 	    <li><a href="wog69.html">Without Guesswork 1969</a></li>
 	    <li><a href="wog72.html">Without Guesswork 1972</a></li>
 	    <li>
@@ -94,11 +94,11 @@
 	</div>
 	<div class="footerNav">
 	  <ul>
-	    <li class='header'>Contact</li>
+	    <li class='underlined'>Contact</li>
 	    <li><a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
 		&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;</a></li>
 	    <li><p></p></li>
-	    <li class='header'>Legal</li>
+	    <li class='underlined'>Legal</li>
 	    <li id="footerLegal" class="smallFont">
 	      VW, the VW logo, Volkswagen, and other terms are
 	      trademarks or registered trademarks of Volkswagenwerk AG

@@ -69,7 +69,7 @@ title: About
 
 </fieldset>
 
-<fieldset id="legal" name="legal">
+<fieldset id="legal">
   <legend>Legal Stuff</legend>
 
   <p>The OACDP html and logos that belong to the <a
@@ -86,10 +86,10 @@ title: About
      or registered trademarks of Volkswagenwerk AG and its
      worldwide subsidiaries.  All trademarks are the property of
      their respective owners and are used solely for
-     identification purposes.  <u>This project is not affiliated
-     with, endorsed by, or supported by Volkswagenwerk AG,
-     Volkswagen of America, Inc, or any other Volkswagen
-     subsidiary.</u>
+     identification purposes.  <span class='underlined'>This project
+     is not affiliated with, endorsed by, or supported by
+     Volkswagenwerk AG, Volkswagen of America, Inc, or any other
+     Volkswagen subsidiary.</span>
   </p>
 
   <p>The various individuals and companies who have provided
@@ -104,7 +104,7 @@ title: About
      which are no longer generally accepted as safe.  It is the
      user's responsibility to identify and avoid these unsafe
      procedures, practices, and materials.  <b>The people
-     providing these documents are <u>NOT RESPONSIBLE</u> for how
-     these documents are used.</b>
+     providing these documents are <span class='underlined'>NOT
+     RESPONSIBLE</span> for how these documents are used.</b>
   </p>
 </fieldset>
