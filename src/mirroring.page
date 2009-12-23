@@ -41,16 +41,17 @@ title: Mirroring
     and if you have questions just <a href="contact.html">email</a>.
   </p>
   <p>
-    In the root of the project directory you can untar an overlay of
-    images to complete the build.  You can use the <a
-    href="contact.html">contact</a> to request a copy.  I would post
-    it online, but for such a large file the bandwidth usage from
-    webcrawlers alone would be significant.  The the requests for the
-    file are large enough or I have some spare time I'll setup a
-    torrent.
+    In the root of the project directory you can find README.md file
+    with instructions on how to build and deploy your own copy of the
+    oacdp.  You can use the <a href="contact.html">contact</a> to
+    request a copy of the image overlay, which provides all the source
+    images used in the project.  I would post it directly online, but
+    for such a large file the bandwidth usage from webcrawlers alone
+    would be significant.  If there are enough requests for the
+    overlay I'll setup a torrent.
   </p>
   <p>
-    If you have updates to push back up I'll be <a href="contact.html">glad 
-    to accept</a> patches or pushes of your revisions.
+    I'm <a href="contact.html">glad to accept</a> patches or pushes of
+    your revisions.
   </p>
 </fieldset>
