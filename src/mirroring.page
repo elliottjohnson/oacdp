@@ -34,16 +34,16 @@ title: Mirroring
   </p>
   <p>
     The project uses <a href="http://webgen.rubyforge.org" target="_BLANK">
-    webgen</a> to render out the final html.  The rendered output of the 
-    source, coupled with the overlay creates the site.  The command to render 
-    out the site is <tt>webgen render</tt>.  This should be run in the root 
-    directory of the cloned repo.  If you've read this far, congratulations
-    and if you have questions just <a href="contact.html">email</a>.
+    webgen</a> to render out the final html, which coupled with the
+    overlay creates the site.  The command to render out the site is
+    <tt>webgen render</tt>.  This should be run in the root directory
+    of the cloned repo.  Feel free to <a href="contact.html">email</a>
+    if you have any questions about the process.
   </p>
   <p>
     In the root of the project directory you can find README.md file
     with instructions on how to build and deploy your own copy of the
-    oacdp.  You can use the <a href="contact.html">contact</a> to
+    oacdp.  You can use the <a href="contact.html">contact info</a> to
     request a copy of the image overlay, which provides all the source
     images used in the project.  I would post it directly online, but
     for such a large file the bandwidth usage from webcrawlers alone
@@ -51,7 +51,8 @@ title: Mirroring
     overlay I'll setup a torrent.
   </p>
   <p>
-    I'm <a href="contact.html">glad to accept</a> patches or pushes of
-    your revisions.
+    If you've made local changes that you think deserve to be added
+    back into the project <a href="contact.html">glad to accept</a>
+    patches or pushes of your revisions.
   </p>
 </fieldset>
