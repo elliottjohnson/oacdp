@@ -6,7 +6,7 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
     <meta name="description" content="The Obsolete Air-Cooled Documentation Project presents out-of-print technical resources online for use by the air-cooled enthusist community."/>
-    <meta name="keywords" lang="en" content="air, cooled, air-cooled, reference, oacdp, volkswagen, vw, eberspracher, solex, transporter, sedan, beetle, bus, without guesswork, Type II VW Parts Reference"/>
+    <meta name="keywords" xml:lang="en" content="air, cooled, air-cooled, reference, oacdp, volkswagen, vw, eberspracher, solex, transporter, sedan, beetle, bus, without guesswork, Type II VW Parts Reference"/>
     <meta name="robots" content="all"/>
     <meta name="Author" content="HTML and OACDP logos by contributers to the OACDP: Andrew Whitlock, Matt Roberds, and Elliott Johnson."/>
     <meta name="copyright" content="The html and oacdp logos are copyright 2001 - 2009: Andrew Whitlock, Matt Roberds, Elliott Johnson and distributed under the Gnu General Public License version 3.0."/>
@@ -21,10 +21,9 @@
       <div id="title">
 	<a id="titleLink"
 	   href="index.html">
-	  <object id="titleImage"
-		  data="images/titleLogo.png"
-		  type="image/png"
-		  alt="The Obsolete Air-Cooled Documentation Project"/>
+	  <img id="titleImage"
+	       src="images/titleLogo.png"
+	       alt="The Obsolete Air-Cooled Documentation Project"/>
 	</a>
 	<ul id="linksList">
 	  <li><a href="aboutdoc.html">about</a></li>
@@ -44,7 +43,7 @@
       <div id="footerContainer">
 	<div class="footerNav">
 	  <ul>
-	    <li><u>Site Links</u></li>
+	    <li class='header'>Site Links</li>
 	    <li><a href="index.html">home</a></li>
 	    <li><a href="aboutdoc.html">about</a></li>
 	    <li><a href="aboutdoc.html#legal">legal</a></li>
@@ -58,7 +57,7 @@
 	</div>
 	<div class="footerNav">
 	  <ul>
-	    <li><u>Doc Links</u></li>
+	    <li class='header'>Doc Links</li>
 	    <li><a href="wog69.html">Without Guesswork 1969</a></li>
 	    <li><a href="wog72.html">Without Guesswork 1972</a></li>
 	    <li>
@@ -95,11 +94,11 @@
 	</div>
 	<div class="footerNav">
 	  <ul>
-	    <li><u>Contact</u></li>
+	    <li class='header'>Contact</u></li>
 	    <li><a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
 		&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;</a></li>
 	    <li><p></p></li>
-	    <li><u>Legal</u></li>
+	    <li class='header'>Legal</li>
 	    <li id="footerLegal" class="smallFont">
 	      VW, the VW logo, Volkswagen, and other terms are
 	      trademarks or registered trademarks of Volkswagenwerk AG

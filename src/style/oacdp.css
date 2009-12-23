@@ -27,6 +27,10 @@ fieldset ul {
     background: transparent url(../images/titleTile.png);
 }
 
+#titleImage {
+    border: 0em;
+}
+
 #centered {
     position: relative;
     top: 0;
@@ -164,4 +168,8 @@ fieldset table td {
 
 .pageDesc {
   width: 75%;
+}
+
+.header {
+  text-decoration: underline;
 }
