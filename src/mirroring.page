@@ -17,7 +17,10 @@ title: Mirroring
   <p>I suggest running this on a regular basis such as a unix cronjob.</p>
   <h4>Current known mirrors</h4>
   <ul>
-    <li><a href="http://oacdp.freeweb7.com/">historical oacdp site</a></li>
+    <li>
+      <a href="http://oacdp.freeweb7.com/">historical oacdp site</a> 
+      (currently offline)
+    </li>
   </ul>
 </fieldset>
 <fieldset>
