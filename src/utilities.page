@@ -22,11 +22,6 @@ title: Utilities
       </a>
     </li>
     <li>
-      <a href="#rar">
-        rar: Roshal ARchive file
-      </a>
-    </li>
-    <li>
       <a href="#tar.gz">
         tar.gz: Gzipped Tape ARchive file
       </a>
@@ -53,13 +48,6 @@ title: Utilities
     <a href="http://en.wikipedia.org/wiki/List_of_PDF_software#Viewers">
       available viewers.
     </a>
-  </p>
-</fieldset>
-<fieldset id="rar" name="rar">
-  <legend>RAR un-archivers</legend>
-  <p>A archive format, written by Alexander Roshal, and
-     un-archiveable by the following
-     <a href="http://en.wikipedia.org/wiki/Rar#Software">software</a>.
   </p>
 </fieldset>
 <fieldset id="tar.gz" name="tar.gz">
