@@ -11,24 +11,20 @@ title: Solex-Selection and Tuning of the Carburetor
     breakdown of page numbers is provided below for your convenience,
     however.
   </p>
-  <p>
-    <ul>
-      <li><u>CREDITS</u></li>
-      <li>Jon Furst Provider</li>
-      <li>Staffan Hedberg Scanner</li>
-      <li>Matt Roberds HTML (PDF)</li>
-    </ul>
-  </p>
+  <ul id="credits">
+    <li class="underlined">CREDITS</li>
+    <li>Jon Furst Provider</li>
+    <li>Staffan Hedberg Scanner</li>
+    <li>Matt Roberds HTML (PDF)</li>
+  </ul>
 </fieldset>
 <fieldset>
   <legend>Archive</legend>
-  <p>
-    <ul>
-      <li>
-	<a href="pdfs/solex.pdf">Complete manual (PDF)</a>
-      </li>
-    </ul>
-  </p>
+  <ul>
+    <li>
+      <a href="pdfs/solex.pdf">Complete manual (PDF)</a>
+    </li>
+  </ul>
 </fieldset>
 <fieldset>
   <legend>The Contents In Brief</legend>
