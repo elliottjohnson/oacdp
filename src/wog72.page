@@ -15,7 +15,7 @@ title: Without Guesswork 1972
     stored in 3.png).  A large format scanner makes this possible.
   </p>
   <ul>
-    <li><u>CREDITS</u></li>
+    <li class="underlined">CREDITS</li>
     <li>Matt Roberds PNG conversion</li>
     <li>Andrew Whitlock Provider, scanner, HTML</li>
   </ul>
@@ -29,139 +29,135 @@ title: Without Guesswork 1972
   </ul>
 </fieldset>
 <fieldset>
-  <p>
-    <h3>Brief Contents</h3>
-    <ul>
-      <li><a href="#p4">4 - 20: Engine</a></li>
-      <li><a href="#p22">22 - 24: Fuel System</a></li>
-      <li><a href="#p26">26 - 64: Front Axle</a></li>
-      <li><a href="#p66">66 - 120: Rear Axle and Gearbox</a></li>
-      <li><a href="#p122">122 - 130: Brakes and Wheels</a></li>
-      <li><a href="#p132">132: Body</a></li>
-      <li><a href="#p134">134 - 140: Electrical System</a></li>
-      <li><a href="#p142">142: Auxiliary Heater</a></li>
-      <li><a href="#p144">144 - 152: General Data</a></li>
-      <li><a href="#p154">154 - 156: Air Conditioning</a></li>
-    </ul>
-  </p>
+  <h3>Brief Contents</h3>
+  <ul>
+    <li><a href="#p4">4 - 20: Engine</a></li>
+    <li><a href="#p22">22 - 24: Fuel System</a></li>
+    <li><a href="#p26">26 - 64: Front Axle</a></li>
+    <li><a href="#p66">66 - 120: Rear Axle and Gearbox</a></li>
+    <li><a href="#p122">122 - 130: Brakes and Wheels</a></li>
+    <li><a href="#p132">132: Body</a></li>
+    <li><a href="#p134">134 - 140: Electrical System</a></li>
+    <li><a href="#p142">142: Auxiliary Heater</a></li>
+    <li><a href="#p144">144 - 152: General Data</a></li>
+    <li><a href="#p154">154 - 156: Air Conditioning</a></li>
+  </ul>
 </fieldset>
 <fieldset>
   <legend>Contents</legend>
-  <p>
-    <table>
-      <tr>
-	<td><a href="wog72/000Cover.png">Cover</a></td>
-	<td><a href="wog72/001Foreword.png">Foreword</a></td>
-	<td><a href="wog72/002Contents.png">Contents</a></td>
-	<td id="p4"><a href="wog72/004_m.png">4</a></td>
-	<td><a href="wog72/006_m.png">6</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/008_m.png">8</a></td>
-	<td><a href="wog72/010_m.png">10</a></td>
-	<td><a href="wog72/012_m.png">12</a></td>
-	<td><a href="wog72/014_m.png">14</a></td>
-	<td><a href="wog72/016_m.png">16</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/018_m.png">18</a></td>
-	<td><a href="wog72/020_m.png">20</a></td>
-	<td id="p22"><a href="wog72/022_k.png">22</a></td>
-	<td><a href="wog72/024_k.png">24</a></td>
-	<td id="p26"><a href="wog72/026_v.png">26</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/028_v.png">28</a></td>
-	<td><a href="wog72/030_v.png">30</a></td>
-	<td><a href="wog72/032_v.png">32</a></td>
-	<td><a href="wog72/034_v.png">34</a></td>
-	<td><a href="wog72/036_v.png">36</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/038_v.png">38</a></td>
-	<td><a href="wog72/040_v.png">40</a></td>
-	<td><a href="wog72/042_v.png">42</a></td>
-	<td><a href="wog72/044_v.png">44</a></td>
-	<td><a href="wog72/046_v.png">46</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/048_v.png">48</a></td>
-	<td><a href="wog72/050_v.png">50</a></td>
-	<td><a href="wog72/052_v.png">52</a></td>
-	<td><a href="wog72/054_v.png">54</a></td>
-	<td><a href="wog72/056_v.png">56</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/058_v.png">58</a></td>
-	<td><a href="wog72/060_v.png">60</a></td>
-	<td><a href="wog72/062_v.png">62</a></td>
-	<td><a href="wog72/064_v.png">64</a></td>
-	<td id="p66"><a href="wog72/066_h.png">66</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/068_h.png">68</a></td>
-	<td><a href="wog72/070_h.png">70</a></td>
-	<td><a href="wog72/072_h.png">72</a></td>
-	<td><a href="wog72/074_h.png">74</a></td>
-	<td><a href="wog72/076_h.png">76</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/078_h.png">78</a></td>
-	<td><a href="wog72/080_h.png">80</a></td>
-	<td><a href="wog72/082_h.png">82</a></td>
-	<td><a href="wog72/084_h.png">84</a></td>
-	<td><a href="wog72/086_h.png">86</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/088_h.png">88</a></td>
-	<td><a href="wog72/090_h.png">90</a></td>
-	<td><a href="wog72/092_h.png">92</a></td>
-	<td><a href="wog72/094_h.png">94</a></td>
-	<td><a href="wog72/096_h.png">96</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/098_h.png">98</a></td>
-	<td><a href="wog72/100_h.png">100</a></td>
-	<td><a href="wog72/102_h.png">102</a></td>
-	<td><a href="wog72/104_h.png">104</a></td>
-	<td><a href="wog72/106_h.png">106</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/108_h.png">108</a></td>
-	<td><a href="wog72/110_h.png">110</a></td>
-	<td><a href="wog72/112_h.png">112</a></td>
-	<td><a href="wog72/114_h.png">114</a></td>
-	<td><a href="wog72/116_h.png">116</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/118_h.png">118</a></td>
-	<td><a href="wog72/120_h.png">120</a></td>
-	<td id="p122"><a href="wog72/122_b.png">122</a></td>
-	<td><a href="wog72/124_b.png">124</a></td>
-	<td><a href="wog72/126_b.png">126</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/128_b.png">128</a></td>
-	<td><a href="wog72/130_b.png">130</a></td>
-	<td id="p132"><a href="wog72/132_a.png">132</a></td>
-	<td id="p134"><a href="wog72/134_e.png">134</a></td>
-	<td><a href="wog72/136_e.png">136</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/138_e.png">138</a></td>
-	<td><a href="wog72/140_e.png">140</a></td>
-	<td id="p142"><a href="wog72/142_f.png">142</a></td>
-	<td id="p144"><a href="wog72/144_t.png">144</a></td>
-	<td><a href="wog72/146_t.png">146</a></td>
-      </tr>
-      <tr>
-	<td><a href="wog72/148_t.png">148</a></td>
-	<td><a href="wog72/150_t.png">150</a></td>
-	<td><a href="wog72/152_t.png">152</a></td>
-	<td id="p154"><a href="wog72/154zc.png">154</a></td>
-	<td><a href="wog72/156zc.png">156</a></td>
-      </tr>
-    </table>
-  </p>
+  <table>
+    <tr>
+      <td><a href="wog72/000Cover.png">Cover</a></td>
+      <td><a href="wog72/001Foreword.png">Foreword</a></td>
+      <td><a href="wog72/002Contents.png">Contents</a></td>
+      <td id="p4"><a href="wog72/004_m.png">4</a></td>
+      <td><a href="wog72/006_m.png">6</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/008_m.png">8</a></td>
+      <td><a href="wog72/010_m.png">10</a></td>
+      <td><a href="wog72/012_m.png">12</a></td>
+      <td><a href="wog72/014_m.png">14</a></td>
+      <td><a href="wog72/016_m.png">16</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/018_m.png">18</a></td>
+      <td><a href="wog72/020_m.png">20</a></td>
+      <td id="p22"><a href="wog72/022_k.png">22</a></td>
+      <td><a href="wog72/024_k.png">24</a></td>
+      <td id="p26"><a href="wog72/026_v.png">26</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/028_v.png">28</a></td>
+      <td><a href="wog72/030_v.png">30</a></td>
+      <td><a href="wog72/032_v.png">32</a></td>
+      <td><a href="wog72/034_v.png">34</a></td>
+      <td><a href="wog72/036_v.png">36</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/038_v.png">38</a></td>
+      <td><a href="wog72/040_v.png">40</a></td>
+      <td><a href="wog72/042_v.png">42</a></td>
+      <td><a href="wog72/044_v.png">44</a></td>
+      <td><a href="wog72/046_v.png">46</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/048_v.png">48</a></td>
+      <td><a href="wog72/050_v.png">50</a></td>
+      <td><a href="wog72/052_v.png">52</a></td>
+      <td><a href="wog72/054_v.png">54</a></td>
+      <td><a href="wog72/056_v.png">56</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/058_v.png">58</a></td>
+      <td><a href="wog72/060_v.png">60</a></td>
+      <td><a href="wog72/062_v.png">62</a></td>
+      <td><a href="wog72/064_v.png">64</a></td>
+      <td id="p66"><a href="wog72/066_h.png">66</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/068_h.png">68</a></td>
+      <td><a href="wog72/070_h.png">70</a></td>
+      <td><a href="wog72/072_h.png">72</a></td>
+      <td><a href="wog72/074_h.png">74</a></td>
+      <td><a href="wog72/076_h.png">76</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/078_h.png">78</a></td>
+      <td><a href="wog72/080_h.png">80</a></td>
+      <td><a href="wog72/082_h.png">82</a></td>
+      <td><a href="wog72/084_h.png">84</a></td>
+      <td><a href="wog72/086_h.png">86</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/088_h.png">88</a></td>
+      <td><a href="wog72/090_h.png">90</a></td>
+      <td><a href="wog72/092_h.png">92</a></td>
+      <td><a href="wog72/094_h.png">94</a></td>
+      <td><a href="wog72/096_h.png">96</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/098_h.png">98</a></td>
+      <td><a href="wog72/100_h.png">100</a></td>
+      <td><a href="wog72/102_h.png">102</a></td>
+      <td><a href="wog72/104_h.png">104</a></td>
+      <td><a href="wog72/106_h.png">106</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/108_h.png">108</a></td>
+      <td><a href="wog72/110_h.png">110</a></td>
+      <td><a href="wog72/112_h.png">112</a></td>
+      <td><a href="wog72/114_h.png">114</a></td>
+      <td><a href="wog72/116_h.png">116</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/118_h.png">118</a></td>
+      <td><a href="wog72/120_h.png">120</a></td>
+      <td id="p122"><a href="wog72/122_b.png">122</a></td>
+      <td><a href="wog72/124_b.png">124</a></td>
+      <td><a href="wog72/126_b.png">126</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/128_b.png">128</a></td>
+      <td><a href="wog72/130_b.png">130</a></td>
+      <td id="p132"><a href="wog72/132_a.png">132</a></td>
+      <td id="p134"><a href="wog72/134_e.png">134</a></td>
+      <td><a href="wog72/136_e.png">136</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/138_e.png">138</a></td>
+      <td><a href="wog72/140_e.png">140</a></td>
+      <td id="p142"><a href="wog72/142_f.png">142</a></td>
+      <td id="p144"><a href="wog72/144_t.png">144</a></td>
+      <td><a href="wog72/146_t.png">146</a></td>
+    </tr>
+    <tr>
+      <td><a href="wog72/148_t.png">148</a></td>
+      <td><a href="wog72/150_t.png">150</a></td>
+      <td><a href="wog72/152_t.png">152</a></td>
+      <td id="p154"><a href="wog72/154zc.png">154</a></td>
+      <td><a href="wog72/156zc.png">156</a></td>
+    </tr>
+  </table>
 </fieldset>
 
