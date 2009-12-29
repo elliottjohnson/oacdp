@@ -33,14 +33,14 @@ title: Utilities
      can <a href="contact.html">visit the contact page</a> and
      let me know.</p>
 </fieldset>
-<fieldset id="images" name="images">
+<fieldset id="images">
   <legend>Image viewers</legend>
   <p>JPEG and PNG files are ubiquitous and your browser of
      choice should be able to support viewing them. Here's a
      <a href="http://en.wikipedia.org/wiki/Comparison_of_image_viewers">
        list of image viewers</a> you can choose from.</p>
 </fieldset>
-<fieldset id="pdf" name="pdf">
+<fieldset id="pdf">
   <legend>PDF viewers</legend>
   <p>The PDF file format was originally a proprietary format
      created by Adobe, but became an open standard with a
@@ -50,15 +50,17 @@ title: Utilities
     </a>
   </p>
 </fieldset>
-<fieldset id="tar.gz" name="tar.gz">
+<fieldset id="tar.gz">
   <legend>Gzipped Tape Archive file format</legend>
   <p>tar.gz files are a gzipped compressed archive format used
      in UNIX systems.  If you're using a UNIX system or Mac OS X
      you can uncompress then with something like the following:
   </p>  
   <pre class="cli">tar -xzf /path/to/the/file.tar.gz</pre>
-  <p>If you are using Windows the following utilities can
-     un-archive tar.gz files:
+  <p>
+    If you are using Windows the following utilities can
+    un-archive tar.gz files:
+  </p>
     <ul>
       <li>
         <a href="http://www.sfsu.edu/ftp/win/utils/">
@@ -68,5 +70,4 @@ title: Utilities
       <li><a href="http://www.7-zip.org/">7-zip (Freeware)</a></li>
       <li><a href="http://www.winzip.com/">Winzip (Commercial)</a></li>
     </ul>
-  </p>
 </fieldset>
