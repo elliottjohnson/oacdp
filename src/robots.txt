@@ -1,0 +1,7 @@
+# standard robots.txt directives
+User-agent: *     # Match all crawlers
+Disallow:         # Don't disallow any urls
+# non-standard robots.txt directives
+Allow: /          # Allow any urls to be crawled.
+Crawl-delay: 30   # ask that they delay requests by 30 seconds
+Request-rate: 1/2 # ask that they request only 2 pages per min.
