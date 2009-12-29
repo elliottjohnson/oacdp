@@ -3,31 +3,31 @@ title: Troubleshooting Guide BA-4 Gas Heater
 ---
 <fieldset>
   <legend>Troubleshooting Guide: BA-4 Gas Heater</legend>
-  <p>This is a troubleshooting guide for BA4 heaters.  It says
+  <p>
+    This is a troubleshooting guide for BA4 heaters.  It says
     "Canadian Only" but I don't know how different they would be from
     those sold elsewhere.  As with all documents here, use at your own
     risk.  You may either download the entire manual in a tar.gz file
     or download specific pages by using the table below.  Files
     contain one page each.
-    <ul>
-      <li><u>CREDITS</u></li>
+  </p>
+    <ul id="credits">
+      <li class="underlined">CREDITS</li>
       <li>Andrew Whitlock: Provider, HTML, scanner</li>
     </ul>
-  </p>
 </fieldset>
 <fieldset>
   <legend>Manual</legend>
   <ul>
     <li><a href="zips/ba4.tar.gz">Complete manual in PNGs (tar.gz)</a></li>
   </ul>
-
   <table>
     <tr>
-      <td width="20%"><a href="ba4/001.png">001</a></td>
-      <td width="20%"><a href="ba4/002.png">002</a></td>
-      <td width="20%"><a href="ba4/003.png">003</a></td>
-      <td width="20%"><a href="ba4/004.png">004</a></td>
-      <td width="20%"><a href="ba4/005.png">005</a></td>
+      <td><a href="ba4/001.png">001</a></td>
+      <td><a href="ba4/002.png">002</a></td>
+      <td><a href="ba4/003.png">003</a></td>
+      <td><a href="ba4/004.png">004</a></td>
+      <td><a href="ba4/005.png">005</a></td>
     </tr>
     <tr>
       <td><a href="ba4/006.png">006</a></td>
