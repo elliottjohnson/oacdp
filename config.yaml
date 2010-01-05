@@ -16,4 +16,11 @@
 # Configuration Option Reference at
 #
 #     http://webgen.rubyforge.org/documentation/reference_configuration.html
+
+# set the default language
 website.lang: en
+
+# make sure we copy over the robots.txt file
+patterns:
+  Copy:
+    add: [**/robots.txt]
