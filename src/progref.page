@@ -1,0 +1,16 @@
+---
+title: Progressive Refinements (in progress)
+---
+<fieldset>
+  <legend>Status</legend>
+  <p>
+    Type2tom is getting his scanning technique perfected and he now
+    has a way of uploading the scans.  I'll be adding this page as they
+    arrive.
+  </p>
+  <ul id="credits">
+    <li class="underlined">CREDITS</li>
+    <li>Tom Brouillette: Provider, scanner</li>
+    <li>Elliott Johnson: HTML</li>
+  </ul>
+</fieldset>

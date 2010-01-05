@@ -6,8 +6,13 @@ title: upcoming
   <p>The following documents are waiting to be scanned or have
      been secured and are on the way by mail.</p>
   <ul id="queue">
-    <li><b>NOTHING!  NOTHING AT ALL!  Oh, the horror!</b></li>
+    <li><a href="progref.html">Progressive Refinements (late 60's version) from type2tom</a></li>
+    <li><a href="bayparts.html">A bay window parts manual from Thom</a></li>
+    <li><a href="type181.html">A type 181 parts manual from Thom</a></li>
+    <li><a href="type3.html">A type 3 parts manual from Thom</a></li>
+    <li><a href="karmannghia.html">A karmann ghia parts manual from Thom</a></li>
+    <li><a href="type1.html">A type 1 parts manual from Andrew Whitlock</a></li> 
   </ul>
   <p>Please <a href="contact.html">drop us a line</a> if you 
-     might have something to contribute :-)</p>
+     might have something else to contribute :-)</p>
 </fieldset>
