@@ -1,0 +1,107 @@
+---
+title: Progressive Refinements (in progress)
+---
+<fieldset>
+  <legend>Status</legend>
+  <p>
+    Type2tom is getting his scanning technique perfected and he now
+    has a way of uploading the images.  The first batch of images have
+    been added.  More to come.
+  </p>
+  <ul id="credits">
+    <li class="underlined">CREDITS</li>
+    <li>Tom Brouillette: Provider, scanner</li>
+    <li>Elliott Johnson: HTML</li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>Indexes</legend>
+  <ul>
+    <li>
+      <a href="#quick">Quick Index</a> by page number only:
+      <ul>
+	<li><a href="#qc">Cover</a></li>
+	<li><a href="#qp">Production Figures</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#full">Full Index</a> with descriptions:
+      <ul>
+	<li><a href="#fc">Cover</a></li>
+	<li><a href="#fp">Production Figures</a></li>
+      </ul>
+    </li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend id="quick">Quick Index</legend>
+  <h3 id="qc">Cover and Production figures</h3>
+  <table>
+    <tr>
+      <td id="qc"><a href="progref61/000-Cover.jpg">Cover</a></td>
+      <td>
+	<a href="progref61/001-Chassis-Title.jpg">
+	  Chassis and Unit Number Title Sheet
+	</a>
+      </td>
+      <td><a href="progref61/002-n1-1-2.jpg">n 1/1-1/2</a></td>
+      <td><a href="progref61/003-n1-3-4.jpg">n 1/3-1/4</a></td>
+      <td><a href="progref61/004-n1-5-6.jpg">n 1/5-1/6</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref61/005-n1-7-8.jpg">n 1/7-1/8</a></td>
+      <td><a href="progref61/006-n2-2-3.jpg">n 2/1-2/2</a></td>
+      <td><a href="progref61/007-n3-1.jpg">n 3/1</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+</fieldset>
+<fieldset>
+  <legend id="full">Full Index</legend>
+  <h3 id="fc">Cover and Production Figures</h3>
+  <table>
+    <tr>
+      <td class="pageIndex"><a href="progref61/000-Cover.jpg">000</a></td>
+      <td class="pageType">Special</td>
+      <td class="pageDesc">Cover page</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/001-Chassis-Title.jpg">001</a></td>
+      <td>Special</td>
+      <td>Chassis- and Unit-Numbers (Month End Figures) Title
+      Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/002-n1-1-2.jpg">002</a></td>
+      <td>list</td>
+      <td>Type1 production figures (1940-1950)</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/003-n1-3-4.jpg">003</a></td>
+      <td>list</td>
+      <td>Type1 production figures (1951-1954)</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/004-n1-5-6.jpg">004</a></td>
+      <td>list</td>
+      <td>Type1 production figures (REPEAT)</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/005-n1-7-8.jpg">005</a></td>
+      <td>list</td>
+      <td>Type1 production figures (1959-1961)</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/006-n2-2-3.jpg">006</a></td>
+      <td>list</td>
+      <td>Type2 production figures (1954-1961)</td>
+    </tr>
+    <tr>
+      <td><a href="progref61/007-n3-1.jpg">007</a></td>
+      <td>list</td>
+      <td>Type3 production figures (1961)</td>
+    </tr>
+  </table>
+</fieldset>
