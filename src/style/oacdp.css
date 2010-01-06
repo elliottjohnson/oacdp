@@ -173,3 +173,20 @@ fieldset table td {
 .underlined {
   text-decoration: underline;
 }
+
+.fullElt {
+  width: 100%;
+}
+
+.splitElt {
+  width: 49%;
+  float: left;
+}
+
+.splitElt p {
+  width: 49%;
+}
+
+.doubleTopPadding {
+  padding-top: 1em;
+}

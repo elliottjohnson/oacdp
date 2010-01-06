@@ -6,16 +6,35 @@ title: Contact
   <legend>OACDP Contact Information</legend>
 
   <p>You can direct all questions, comments, suggestions, and
-     contributions to the following email address:</p>
+     contributions to the following email address or call us if that
+     works better for you:</p>
 
-  <p class="desc">
-    <a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
-      &#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;
-    </a>
-  </p>
-
-  <p>Thanks,<br/> 
-     Elliott Johnson<br/> 
-     (Maintainer)
-  </p>
+  <div class="fullElt">
+    <div class="splitElt">
+      <p class="desc">
+	<a href="mailto:&#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;">
+	  &#118;&#119;&#046;&#111;&#097;&#099;&#100;&#112;&#064;&#111;&#097;&#099;&#100;&#112;&#046;&#111;&#114;&#103;
+	</a>
+      </p>
+      <p>Thanks,<br/> 
+	Elliott Johnson<br/> 
+	(Maintainer)
+      </p>
+    </div>
+    <div class="splitElt doubleTopPadding">
+      <object type="application/x-shockwave-flash" 
+    	      data="https://clients4.google.com/voice/embed/webCallButton" 
+	      width="230" 
+	      height="85">
+	<param name="movie" 
+	       value="https://clients4.google.com/voice/embed/webCallButton"
+	       />
+	<param name="wmode"
+	       value="transparent" />
+	<param name="FlashVars" 
+	       value="id=56532092cc70097f17741a61e3d441276eb3209c&style=0"
+	       />
+      </object> 
+    </div>
+  </div>
 </fieldset>
