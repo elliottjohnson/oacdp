@@ -4,14 +4,14 @@ title: Progressive Refinements (in progress)
 <fieldset>
   <legend>Status</legend>
   <p>
-    Type2tom is getting his scanning technique perfected and he now
-    has a way of uploading the images.  The first batch of images have
-    been added.  More to come.
+    Work in progress on scanning and posting two sections of Progressive 
+    Refinements: First section from 1943 - 1961 and a second section that 
+    ends in 1966. 
   </p>
   <ul id="credits">
     <li class="underlined">CREDITS</li>
-    <li>Tom Brouillette: Provider, scanner</li>
-    <li>Elliott Johnson: HTML</li>
+    <li>Rev. Mike Robus: Provider, scanner</li>
+    <li>Elliott Johnson: HTML, PDF generation</li>
   </ul>
 </fieldset>
 <fieldset>
