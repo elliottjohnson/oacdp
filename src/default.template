@@ -9,7 +9,7 @@
     <meta name="keywords" xml:lang="en" content="air, cooled, air-cooled, reference, oacdp, volkswagen, vw, eberspracher, solex, transporter, sedan, beetle, bus, without guesswork, Type II VW Parts Reference"/>
     <meta name="robots" content="all"/>
     <meta name="Author" content="HTML and OACDP logos by contributers to the OACDP: Andrew Whitlock, Matt Roberds, and Elliott Johnson."/>
-    <meta name="copyright" content="The html and oacdp logos are copyright 2001 - 2009: Andrew Whitlock, Matt Roberds, Elliott Johnson and distributed under the Gnu General Public License version 3.0."/>
+    <meta name="copyright" content="The html and oacdp logos are copyright 2001 - 2010: Andrew Whitlock, Matt Roberds, Elliott Johnson and distributed under the Gnu General Public License version 3.0."/>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <meta http-equiv="Cache-Control" content="PUBLIC"/>
     <meta http-equiv="Content-Language" content="en"/>
@@ -118,7 +118,7 @@
         <div id="footerCopy">
 	  The oacdp
 	  project <a href="http://github.com/elliottjohnson/oacdp">source</a>
-	  is registered &copy; 2001-2009 and distributed under
+	  is registered &copy; 2001-2010 and distributed under
 	  the <a href="http://www.gnu.org/licenses/gpl.html">GNU General
 	  Public License version 3.0</a>.  All other copyrighted
 	  materials are property of their respective owners and are on
