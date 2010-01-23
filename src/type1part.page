@@ -29,6 +29,7 @@ title: type 1 parts manual
 	</li>
 	<li><a href="#q3">Main Group 3: Transmission</a></li>
 	<li><a href="#q4">Main Group 4: Front Axle, Steering</a></li>
+	<li><a href="#q5">Main Group 5: Rear Axle</a></li>
       </ul>
     </li>
     <li>
@@ -42,6 +43,7 @@ title: type 1 parts manual
 	</li>
 	<li><a href="#f3">Main Group 3: Transmission</a></li>
 	<li><a href="#f4">Main Group 4: Front Axle, Steering</a></li>
+	<li><a href="#f5">Main Group 5: Rear Axle</a></li>
       </ul>
     </li>
   </ul>
@@ -648,6 +650,72 @@ title: type 1 parts manual
       <td>--</td>
       <td>--</td>
       <td>--</td>
+    </tr>
+  </table>
+  <h3 id="q5">Main Group 5: Rear Axle</h3>
+  <ul>
+    <li>
+      <a href="pdfs/type1part-05.pdf">
+	Main Group 5: Rear Axle (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="type1part/5000.png">5-1</a></td>
+      <td><a href="type1part/5001.png">blank</a></td>
+      <td><a href="type1part/5002.png">5-1</a></td>
+      <td><a href="type1part/5003.png">5-2</a></td>
+      <td><a href="type1part/5004.png">5-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5005.png">5-4</a></td>
+      <td><a href="type1part/5006.png">5-5</a></td>
+      <td><a href="type1part/5007.png">5-6</a></td>
+      <td><a href="type1part/5008.png">5-7</a></td>
+      <td><a href="type1part/5009.png">5-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5010.png">5-9</a></td>
+      <td><a href="type1part/5011.png">5-10</a></td>
+      <td><a href="type1part/5012.png">5-11</a></td>
+      <td><a href="type1part/5013.png">5-12</a></td>
+      <td><a href="type1part/5014.png">5-13</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5015.png">5-14</a></td>
+      <td><a href="type1part/5016.png">5-15</a></td>
+      <td><a href="type1part/5017.png">5-16</a></td>
+      <td><a href="type1part/5018.png">5-17</a></td>
+      <td><a href="type1part/5019.png">5-18</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5020.png">5-19</a></td>
+      <td><a href="type1part/5021.png">5-20</a></td>
+      <td><a href="type1part/5022.png">5-21</a></td>
+      <td><a href="type1part/5023.png">5-22</a></td>
+      <td><a href="type1part/5024.png">5-23</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5025.png">5-24</a></td>
+      <td><a href="type1part/5026.png">5-25</a></td>
+      <td><a href="type1part/5027.png">5-26</a></td>
+      <td><a href="type1part/5028.png">5-27</a></td>
+      <td><a href="type1part/5029.png">5-28</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5030.png">5-29</a></td>
+      <td><a href="type1part/5031.png">5-30</a></td>
+      <td><a href="type1part/5032.png">5-31</a></td>
+      <td><a href="type1part/5033.png">5-32</a></td>
+      <td><a href="type1part/5034.png">5-33</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5035.png">5-34</a></td>
+      <td><a href="type1part/5036.png">5-35</a></td>
+      <td><a href="type1part/5037.png">5-36</a></td>
+      <td><a href="type1part/5038.png">5-37</a></td>
+      <td><a href="type1part/5039.png">5-38</a></td>
     </tr>
   </table>
 </fieldset>
@@ -3441,6 +3509,311 @@ title: type 1 parts manual
       <td><a href="type1part/4055.png">4-56</a></td>
       <td>table</td>
       <td>Repair Kits: Steering gear (Sector Type Steering)</td>
+    </tr>
+  </table>
+  <h3 id="f5">Main Group 5: Rear Axle</h3>
+  <table>
+    <tr>
+      <td><a href="type1part/5000.png">5-1</a></td>
+      <td>Special</td>
+      <td>Table of contents for Main Group 5 (typ1-17)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5001.png">blank</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5002.png">5-1</a></td>
+      <td>Special</td>
+      <td>Table of contents for Main Group 5 (typ1-22)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5003.png">5-2</a></td>
+      <td>Illustration</td>
+      <td>Illustration 29: Swing Axle</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5004.png">5-3</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5005.png">5-4</a></td>
+      <td>Illustration</td>
+      <td>Illustration A29: Double Joint Axle</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5006.png">5-5</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p1
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5007.png">5-6</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p2
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5008.png">5-7</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p3
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5009.png">5-8</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p4
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5010.png">5-9</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p5
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5011.png">5-10</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p6
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5012.png">5-11</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p7
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5013.png">5-12</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p8
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5014.png">5-13</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p9
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5015.png">5-14</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p10
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5016.png">5-15</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p11
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5017.png">5-16</a></td>
+      <td>table</td>
+      <td>Swing and Double Joint Axle p12 and Rear Suspension p1
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5018.png">5-17</a></td>
+      <td>table</td>
+      <td>Rear suspension p2
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5019.png">5-18</a></td>
+      <td>table</td>
+      <td>Rear Suspension p3
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5020.png">5-19</a></td>
+      <td>table</td>
+      <td>Rear Suspension p4 and Shock absorber p1
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5021.png">5-20</a></td>
+      <td>table</td>
+      <td>Shock absorber p2
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5022.png">5-21</a></td>
+      <td>table</td>
+      <td>Shock absorber p3
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5023.png">5-22</a></td>
+      <td>table</td>
+      <td>Shock absorber p4
+	(see Illus <a href="type1part/5003.png">29</a>
+	and <a href="type1part/5005.png">A29</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5024.png">5-23</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5025.png">5-24</a></td>
+      <td>Illustration</td>
+      <td>Illustration 30: Differential</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5026.png">5-25</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5027.png">5-26</a></td>
+      <td>Illustration</td>
+      <td>
+	Illustration A30: Differential, Limited Slip Differential
+	(Automatic)
+      </td> 
+    </tr>
+    <tr>
+      <td><a href="type1part/5028.png">5-27</a></td>
+      <td>table</td>
+      <td>Differential (synchromesh and non) up to Chassis #3 192 506 p1
+	(see <a href="type1part/5026.png">Illus 30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5029.png">5-28</a></td>
+      <td>table</td>
+      <td>Differential (synchromesh and non) up to Chassis #3 192 506 p2
+	(see <a href="type1part/5026.png">Illus 30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5030.png">5-29</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p1
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5031.png">5-30</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p2
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+        <tr>
+      <td><a href="type1part/5032.png">5-31</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p3
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5033.png">5-32</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p4
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5034.png">5-33</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p5
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5035.png">5-34</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p6
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5036.png">5-35</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p7
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5037.png">5-36</a></td>
+      <td>table</td>
+      <td>Differential, Limited Slip Differential (full sync and auto) p8
+	(see Illus <a href="type1part/5025.png">30</a>
+	and <a href="type1part/5027.png">A30</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5038.png">5-37</a></td>
+      <td>table</td>
+      <td>Repair Kits: Dust sleeve (Axle boot), Rear Axle Seal</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/5039">5-38</a></td>
+      <td>table</td>
+      <td>Repair Kits: Rear Axle seal, Differential Pinions,
+      Differential, Joint flange</td>
     </tr>
   </table>
 </fieldset>
