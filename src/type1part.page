@@ -30,6 +30,7 @@ title: type 1 parts manual
 	<li><a href="#q3">Main Group 3: Transmission</a></li>
 	<li><a href="#q4">Main Group 4: Front Axle, Steering</a></li>
 	<li><a href="#q5">Main Group 5: Rear Axle</a></li>
+	<li><a href="#q6">Main Group 6: Road Wheels, Brakes</a></li>
       </ul>
     </li>
     <li>
@@ -44,6 +45,7 @@ title: type 1 parts manual
 	<li><a href="#f3">Main Group 3: Transmission</a></li>
 	<li><a href="#f4">Main Group 4: Front Axle, Steering</a></li>
 	<li><a href="#f5">Main Group 5: Rear Axle</a></li>
+	<li><a href="#f6">Main Group 6: Road Wheels, Brakes</a></li>
       </ul>
     </li>
   </ul>
@@ -716,6 +718,107 @@ title: type 1 parts manual
       <td><a href="type1part/5037.png">5-36</a></td>
       <td><a href="type1part/5038.png">5-37</a></td>
       <td><a href="type1part/5039.png">5-38</a></td>
+    </tr>
+  </table>
+  <h3 id="q6">Main Group 6: Road Wheels, Brakes</h3>
+  <ul>
+    <li>
+      <a href="pdfs/type1part-06.pdf">
+	Main Group 6: Road Wheels, Brakes
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="type1part/6000.png">6-1</a></td>
+      <td><a href="type1part/6001.png">blank</a></td>
+      <td><a href="type1part/6002.png">6-1</a></td>
+      <td><a href="type1part/6003.png">6-2</a></td>
+      <td><a href="type1part/6004.png">6-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6005.png">6-4</a></td>
+      <td><a href="type1part/6006.png">6-5</a></td>
+      <td><a href="type1part/6007.png">6-6</a></td>
+      <td><a href="type1part/6008.png">6-7</a></td>
+      <td><a href="type1part/6009.png">6-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6010.png">6-9</a></td>
+      <td><a href="type1part/6011.png">6-10</a></td>
+      <td><a href="type1part/6012.png">6-11</a></td>
+      <td><a href="type1part/6013.png">6-12</a></td>
+      <td><a href="type1part/6014.png">6-13</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6015.png">6-14</a></td>
+      <td><a href="type1part/6016.png">6-15</a></td>
+      <td><a href="type1part/6017.png">6-16</a></td>
+      <td><a href="type1part/6018.png">6-17</a></td>
+      <td><a href="type1part/6019.png">6-18</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6020.png">6-19</a></td>
+      <td><a href="type1part/6021.png">6-20</a></td>
+      <td><a href="type1part/6022.png">6-21</a></td>
+      <td><a href="type1part/6023.png">6-22</a></td>
+      <td><a href="type1part/6024.png">6-23</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6025.png">6-24</a></td>
+      <td><a href="type1part/6026.png">6-25</a></td>
+      <td><a href="type1part/6027.png">6-26</a></td>
+      <td><a href="type1part/6028.png">6-27</a></td>
+      <td><a href="type1part/6029.png">6-28</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6030.png">6-29</a></td>
+      <td><a href="type1part/6031.png">6-30</a></td>
+      <td><a href="type1part/6032.png">6-31</a></td>
+      <td><a href="type1part/6033.png">6-32</a></td>
+      <td><a href="type1part/6034.png">6-33</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6035.png">6-34</a></td>
+      <td><a href="type1part/6036.png">6-35</a></td>
+      <td><a href="type1part/6037.png">6-36</a></td>
+      <td><a href="type1part/6038.png">6-37</a></td>
+      <td><a href="type1part/6039.png">6-38</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6040.png">6-39</a></td>
+      <td><a href="type1part/6041.png">6-40</a></td>
+      <td><a href="type1part/6042.png">6-41</a></td>
+      <td><a href="type1part/6043.png">6-42</a></td>
+      <td><a href="type1part/6044.png">6-43</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6045.png">6-44</a></td>
+      <td><a href="type1part/6046.png">6-45</a></td>
+      <td><a href="type1part/6047.png">6-46</a></td>
+      <td><a href="type1part/6048.png">6-47</a></td>
+      <td><a href="type1part/6049.png">6-48</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6050.png">6-49</a></td>
+      <td><a href="type1part/6051.png">6-50</a></td>
+      <td><a href="type1part/6052.png">6-51</a></td>
+      <td><a href="type1part/6053.png">6-52</a></td>
+      <td><a href="type1part/6054.png">6-53</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6055.png">6-54</a></td>
+      <td><a href="type1part/6056.png">6-55</a></td>
+      <td><a href="type1part/6057.png">6-56</a></td>
+      <td><a href="type1part/6058.png">6-57</a></td>
+      <td><a href="type1part/6059.png">6-59</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6060.png">blank</a></td>
+      <td><a href="type1part/6061.png">6-60?</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
     </tr>
   </table>
 </fieldset>
@@ -3814,6 +3917,420 @@ title: type 1 parts manual
       <td>table</td>
       <td>Repair Kits: Rear Axle seal, Differential Pinions,
       Differential, Joint flange</td>
+    </tr>
+  </table>
+  <h3 id="f6">Main Group 6: Road Wheels, Brakes</h3>
+  <table>
+    <tr>
+      <td><a href="type1part/6000.png">6-1</a></td>
+      <td>Special</td>
+      <td>Main Group 6: Road Wheels, Brakes Title page (Typ 1 16/67)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6001.png">blank</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6002.png">6-1</a></td>
+      <td>Special</td>
+      <td>Main Group 6: Road Wheels, Brakes Title page (Typ 1-5)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6003.png">6-2</a></td>
+      <td>Illustration</td>
+      <td>Illustration 31: Road Wheels</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6004.png">6-3</a></td>
+      <td>table</td>
+      <td>Road Wheels p1
+	(see <a href="type1part/6003.png">Illus 31</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6005.png">6-4</a></td>
+      <td>table</td>
+      <td>Road Wheels p2
+	(see <a href="type1part/6003.png">Illus 31</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6006.png">6-5</a></td>
+      <td>table</td>
+      <td>Road Wheels p3
+      	(see <a href="type1part/6003.png">Illus 31</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6007.png">6-6</a></td>
+      <td>Illustration</td>
+      <td>Illustration 32: Mechanical brake (up to Chassis #4,630,937)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6008.png">6-7</a></td>
+      <td>table</td>
+      <td>Mechanical brake (up to Chassis #4,630,937) p1
+	(see <a href="type1part/6007.png">Illus 32</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6009.png">6-8</a></td>
+      <td>table</td>
+      <td>Mechanical brake (up to Chassis #4,630,937) p2
+	(see <a href="type1part/6007.png">Illus 32</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6010.png">6-9</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6011.png">6-10</a></td>
+      <td>Illustration</td>
+      <td>Illustration 33: Back plate, brake shoes w/ linings, front</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6012.png">6-11</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, front p1
+	(see <a href="type1part/6010.png">Illus 33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6013.png">6-12</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, front p2
+	(see <a href="type1part/6010.png">Illus 33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6014.png">6-13</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, front p3
+	(see <a href="type1part/6010.png">Illus 33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6015.png">6-14</a></td>
+      <td>Illustration</td>
+      <td>Illustration A33: Back plate, brake shoes w/ linings, rear</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6016.png">6-15</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, rear p1
+	(see <a href="type1part/6015.png">Illus A33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6017.png">6-16</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, rear p2
+	(see <a href="type1part/6015.png">Illus A33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6018.png">6-17</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, rear p3
+	(see <a href="type1part/6015.png">Illus A33</a>)
+      </td>
+    </tr>
+        <tr>
+      <td><a href="type1part/6019.png">6-18</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, rear p4
+	(see <a href="type1part/6015.png">Illus A33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6020.png">6-19</a></td>
+      <td>table</td>
+      <td>Back plate, brake shoes w/ linings, rear p5
+	(see <a href="type1part/6015.png">Illus A33</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6021.png">6-20</a></td>
+      <td>Illustration</td>
+      <td>Illustration 34: Brake master cylinder</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6022.png">6-21</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p1
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6023.png">6-22</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p2
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6024.png">6-23</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p3
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6025.png">6-24</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p4
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6026.png">6-25</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p5
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6027.png">6-26</a></td>
+      <td>table</td>
+      <td>Brake Cylinders and lines p6
+	(see <a href="type1part/6021.png">Illus 34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6028.png">6-27</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6029.png">6-28</a></td>
+      <td>Illustration</td>
+      <td>Illustration A34: Wheel brake cylinder </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6030.png">6-29</a></td>
+      <td>table</td>
+      <td>Cylinder - Wheel Brake p1
+	(see <a href="type1part/6029.png">Illus A34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6031.png">6-30</a></td>
+      <td>table</td>
+      <td>Cylinder - Wheel Brake p2
+	(see <a href="type1part/6029.png">Illus A34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6032.png">6-31</a></td>
+      <td>table</td>
+      <td>Cylinder - Wheel Brake p3
+	(see <a href="type1part/6029.png">Illus A34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6033.png">6-32</a></td>
+      <td>table</td>
+      <td>Cylinder - Wheel Brake p4
+	(see <a href="type1part/6029.png">Illus A34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6034.png">6-33</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6035.png">6-34</a></td>
+      <td>Illustration</td>
+      <td>Illustration B34: Reservoir and lines - Brake master cylinder</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6036.png">6-35</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p1
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6037.png">6-36</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p2
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6038.png">6-37</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p3
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6039.png">6-38</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p4
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6040.png">6-39</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p5
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6041.png">6-40</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p6
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6042.png">6-41</a></td>
+      <td>table</td>
+      <td>Reservoir and Lines - Brake Master Cylinder p7
+	(see <a href="type1part/6035.png">Illus B35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6043.png">6-42</a></td>
+      <td>Illustration</td>
+      <td>Illustration C34: Front brake circuit lines</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6044.png">6-43</a></td>
+      <td>table</td>
+      <td>Front brake circuit lines p1
+	(see <a href="type1part/6043.png">Illus C34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6045.png">6-44</a></td>
+      <td>table</td>
+      <td>Front brake circuit lines p2
+	(see <a href="type1part/6043.png">Illus C34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6046.png">6-45</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6047.png">6-46</a></td>
+      <td>Illustration</td>
+      <td>Illustration D34: Rear brake circuit lines</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6048.png">6-47</a></td>
+      <td>table</td>
+      <td>Rear brake circuit lines p1
+	(see <a href="type1part/6047.png">Illus D34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6049.png">6-48</a></td>
+      <td>table</td>
+      <td>Rear brake circuit lines p2
+	(see <a href="type1part/6047.png">Illus D34</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6050.png">6-49</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6051.png">6-50</a></td>
+      <td>Illustration</td>
+      <td>Illustration 35: Disc brakes</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6052.png">6-51</a></td>
+      <td>table</td>
+      <td>Disc brakes p1
+	(see <a href="type1part/6051.png">Illus 35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6053.png">6-52</a></td>
+      <td>table</td>
+      <td>Disc brakes p2
+	(see <a href="type1part/6051.png">Illus 35</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6054.png">6-53</a></td>
+      <td>table</td>
+      <td>Repair Kits: brake linings 30 and 40</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6055.png">6-54</a></td>
+      <td>table</td>
+      <td>Repair Kits: brake linings 45, brake pads, master cylinder 17.46</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6056.png">6-55</a></td>
+      <td>table</td>
+      <td>Repair Kits: master cylinder 17.46 and tandem 19.05</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6057.png">6-56</a></td>
+      <td>table</td>
+      <td>Repair Kits: tandem master cylinder 19.05</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6058.png">6-57</a></td>
+      <td>table</td>
+      <td>Repair Kits: tandem master cylinder 19.05, single 22.2,
+	wheel cylinder 16</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6059.png">6-58</a></td>
+      <td>table</td>
+      <td>Repair Kits: wheel cylinder 17.5, 19.05, 22.2, 23.8</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6060.png">6-59?</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/6061.png">6-60?</a></td>
+      <td>table</td>
+      <td>Repair Kits: calliper assembly gaskets</td>
     </tr>
   </table>
 </fieldset>
