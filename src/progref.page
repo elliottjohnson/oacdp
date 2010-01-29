@@ -27,6 +27,7 @@ title: Progressive Refinements (in progress)
 	<li><a href="#qv">Front Axle - Steering</a></li>
 	<li><a href="#qh">Rear Axle - Transmission</a></li>
 	<li><a href="#qb">Brakes - Wheels - Tires</a></li>
+	<li><a href="#qr">Frame</a></li>
       </ul>
     </li>
     <li>
@@ -39,6 +40,7 @@ title: Progressive Refinements (in progress)
 	<li><a href="#fv">Front Axle - Steering</a></li>
 	<li><a href="#fh">Rear Axle - Transmission</a></li>
 	<li><a href="#fb">Brakes - Wheels - Tires</a></li>
+	<li><a href="#fr">Frame</a></li>
       </ul>
     </li>
   </ul>
@@ -238,6 +240,30 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/b007.jpg">B 13-14</a></td>
       <td><a href="progref/b008.jpg">B 15-16a</a></td>
       <td><a href="progref/b009.jpg">B 16b-17</a></td>
+    </tr>
+  </table>
+  <h3 id="qf">Frame</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref-07.pdf">
+	Frame (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref/r000.jpg">Title</a></td>
+      <td><a href="progref/r001.jpg">R 1-2</a></td>
+      <td><a href="progref/r002.jpg">R 3-4</a></td>
+      <td><a href="progref/r003.jpg">R 5-6</a></td>
+      <td><a href="progref/r004.jpg">R 7-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/r005.jpg">R 9-10</a></td>
+      <td><a href="progref/r006.jpg">R 11-12</a></td>
+      <td><a href="progref/r007.jpg">R 13-14</a></td>
+      <td><a href="progref/r008.jpg">R 15-16</a></td>
+      <td><a href="progref/r009.jpg">R 17</a></td>
     </tr>
   </table>
 </fieldset>
@@ -694,6 +720,59 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/b009.jpg">B 16b-17</a></td>
       <td>table</td>
       <td>Jun 15th, 1960 - Oct 13th, 1961</td>
+    </tr>
+  </table>
+  <h3 id="fr">Frame</h3>
+  <table>
+    <tr>
+      <td><a href="progref/r000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Frame Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r001.jpg">R 1-2</a></td>
+      <td>table</td>
+      <td>Aug 3rd, 1940 - Nov 1940</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r002.jpg">R 3-4</a></td>
+      <td>table</td>
+      <td>Feb 10th, 1950 - Jan 17th, 1951</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r003.jpg">R 5-6</a></td>
+      <td>table</td>
+      <td>Feb 9th, 1951 - Oct 1st, 1952</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r004.jpg">R 7-8</a></td>
+      <td>table</td>
+      <td>Oct 1st, 1952 - Mar 5th, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r005.jpg">R 9-10</a></td>
+      <td>table</td>
+      <td>Mar 20th, 1953 - Mar 1st, 1955</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r006.jpg">R 11-12</a></td>
+      <td>table</td>
+      <td>Mar 5th, 1955 - Aug 1st, 1957</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r007.jpg">R 13-14</a></td>
+      <td>table</td>
+      <td>Dec 2nd, 1957 - Dec 8th, 1958</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r008.jpg">R 15-16</a></td>
+      <td>table</td>
+      <td>Jan 6th, 1959 - Jan 16th, 1961</td>
+    </tr>
+    <tr>
+      <td><a href="progref/r009.jpg">R 17</a></td>
+      <td>table</td>
+      <td>July 31st, 1961 - Oct 10th, 1961</td>
     </tr>
   </table>
 </fieldset>
