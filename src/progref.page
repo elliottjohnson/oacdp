@@ -28,6 +28,7 @@ title: Progressive Refinements (in progress)
 	<li><a href="#qh">Rear Axle - Transmission</a></li>
 	<li><a href="#qb">Brakes - Wheels - Tires</a></li>
 	<li><a href="#qr">Frame</a></li>
+	<li><a href="#qa">Body</a></li>
       </ul>
     </li>
     <li>
@@ -41,6 +42,7 @@ title: Progressive Refinements (in progress)
 	<li><a href="#fh">Rear Axle - Transmission</a></li>
 	<li><a href="#fb">Brakes - Wheels - Tires</a></li>
 	<li><a href="#fr">Frame</a></li>
+	<li><a href="#fa">Body</a></li>
       </ul>
     </li>
   </ul>
@@ -266,6 +268,65 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/r009.jpg">R 17</a></td>
     </tr>
   </table>
+<h3 id="qa">Body</h3>
+<ul>
+  <li>
+    <a href="pdfs/progref-08.pdf">
+      Body (PDF)
+    </a>
+  </li>
+</ul>
+<table>
+  <tr>
+    <td><a href="progref/a000.jpg">Title</a></td>
+    <td><a href="progref/a001.jpg">A 1-2</a></td>
+    <td><a href="progref/a002.jpg">A 3-4</a></td>
+    <td><a href="progref/a003.jpg">A 5-6</a></td>
+    <td><a href="progref/a004.jpg">A 7-8</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a005.jpg">A 9-10</a></td>
+    <td><a href="progref/a006.jpg">A 11-12</a></td>
+    <td><a href="progref/a007.jpg">A 13-14</a></td>
+    <td><a href="progref/a008.jpg">A 15-16</a></td>
+    <td><a href="progref/a009.jpg">A 17-18</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a010.jpg">A 19-20</a></td>
+    <td><a href="progref/a011.jpg">A 21-22</a></td>
+    <td><a href="progref/a012.jpg">A 23-24</a></td>
+    <td><a href="progref/a013.jpg">A 25-26</a></td>
+    <td><a href="progref/a014.jpg">A 27-28</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a015.jpg">A 29-30</a></td>
+    <td><a href="progref/a016.jpg">A 31-32</a></td>
+    <td><a href="progref/a017.jpg">A 33-34</a></td>
+    <td><a href="progref/a018.jpg">A 35-36</a></td>
+    <td><a href="progref/a019.jpg">A 37-38</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a020.jpg">A 39-40</a></td>
+    <td><a href="progref/a021.jpg">A 41-42</a></td>
+    <td><a href="progref/a022.jpg">A 43-44</a></td>
+    <td><a href="progref/a023.jpg">A 45-46</a></td>
+    <td><a href="progref/a024.jpg">A 47-48</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a025.jpg">A 49-50</a></td>
+    <td><a href="progref/a026.jpg">A 51-52</a></td>
+    <td><a href="progref/a027.jpg">A 53-54</a></td>
+    <td><a href="progref/a028.jpg">A 55-56</a></td>
+    <td><a href="progref/a029.jpg">A 57-58</a></td>
+  </tr>
+  <tr>
+    <td><a href="progref/a030.jpg">A 59</a></td>
+    <td>--</td>
+    <td>--</td>
+    <td>--</td>
+    <td>--</td>
+  </tr>
+</table>
 </fieldset>
 <fieldset>
   <legend id="full">Full Index</legend>
@@ -773,6 +834,164 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/r009.jpg">R 17</a></td>
       <td>table</td>
       <td>July 31st, 1961 - Oct 10th, 1961</td>
+    </tr>
+  </table>
+  <h3 id="fa">Body</h3>
+  <table>
+    <tr>
+      <td><a href="progref/a000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Body Title page</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a001.jpg">A 1-2</a></td>
+      <td>table</td>
+      <td>1946 - Jun 2nd, 1949</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a002.jpg">A 3-4</a></td>
+      <td>table</td>
+      <td>Jul 1949 - Feb 1950</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a003.jpg">A 5-6</a></td>
+      <td>table</td>
+      <td>Mar 6th, 1950 - Aug 2nd 1950</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a004.jpg">A 7-8</a></td>
+      <td>table</td>
+      <td>Aug 5th, 1950 - Feb 20th, 1951</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a005.jpg">A 9-10</a></td>
+      <td>table</td>
+      <td>Mar 27th, 1951 - Aug 13th, 1951</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a006.jpg">A 11-12</a></td>
+      <td>table</td>
+      <td>Aug 14th, 1951 - Apr 21st, 1952</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a007.jpg">A 13-14</a></td>
+      <td>table</td>
+      <td>May 13th, 1952 - Oct 1st, 1952</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a008.jpg">A 15-16</a></td>
+      <td>table</td>
+      <td>Oct 1st, 1952 - Jan 2nd, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a009.jpg">A 17-18</a></td>
+      <td>table</td>
+      <td>Jan 2nd, 1953 - Mar 20th, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a010.jpg">A 19-20</a></td>
+      <td>table</td>
+      <td>Apr 1953 - Sep 7th, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a011.jpg">A 21-22</a></td>
+      <td>table</td>
+      <td>Sep 15th, 1953 - May 25th, 1954</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a012.jpg">A 23-24</a></td>
+      <td>table</td>
+      <td>May 25th, 1954 - Mar 1st, 1955</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a013.jpg">A 25-26</a></td>
+      <td>table</td>
+      <td>Mar 1st, 1955 - Aug 4th 1955</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a014.jpg">A 27-28</a></td>
+      <td>table</td>
+      <td>Aug 4th, 1955 - Jan 14th, 1956</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a015.jpg">A 29-30</a></td>
+      <td>table</td>
+      <td>Jan 19th, 1956 - Jun 18th, 1956</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a016.jpg">A 31-32</a></td>
+      <td>table</td>
+      <td>Jul/Sep 1956 - Dec 1st, 1956</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a017.jpg">A 33-34</a></td>
+      <td>table</td>
+      <td>Dec 1st, 1956 - May 29th, 1957</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a018.jpg">A 35-36</a></td>
+      <td>table</td>
+      <td>Jun 18th, 1957 - Sep 16th, 1957</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a019.jpg">A 37-38</a></td>
+      <td>table</td>
+      <td>Nov 14th, 1957 - Feb 17th, 1958</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a020.jpg">A 39-40</a></td>
+      <td>table</td>
+      <td>Mar 3rd, 1958 - Jul 31st, 1958</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a021.jpg">A 41-42</a></td>
+      <td>table</td>
+      <td>Jul 31st, 1958 - Dec 1st, 1958</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a022.jpg">A 43-44</a></td>
+      <td>table</td>
+      <td>Jan 8th, 1959 - Jul 6th, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a023.jpg">A 45-46</a></td>
+      <td>table</td>
+      <td>Jul 17th, 1959 - Aug 6th, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a024.jpg">A 47-48</a></td>
+      <td>table</td>
+      <td>Aug 6th, 1959 - Aug 28th, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a025.jpg">A 49-50</a></td>
+      <td>table</td>
+      <td>Aug 29th, 1959 - Feb 10th, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a026.jpg">A 51-52</a></td>
+      <td>table</td>
+      <td>Mar 8th, 1960 - Aug 1st, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a027.jpg">A 53-54</a></td>
+      <td>table</td>
+      <td>Aug 1st, 1960 - Nov 18th, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a028.jpg">A 55-56</a></td>
+      <td>table</td>
+      <td>Nov 21st, 1960 - Apr 28th, 1961</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a029.jpg">A 57-58</a></td>
+      <td>table</td>
+      <td>May 4th, 1961 - Jul 21st, 1961</td>
+    </tr>
+    <tr>
+      <td><a href="progref/a030.jpg">A 59</a></td>
+      <td>table</td>
+      <td>Aug 23rd, 1961 - Dec 14th, 1961</td>
     </tr>
   </table>
 </fieldset>
