@@ -31,6 +31,11 @@ title: type 1 parts manual
 	<li><a href="#q4">Main Group 4: Front Axle, Steering</a></li>
 	<li><a href="#q5">Main Group 5: Rear Axle</a></li>
 	<li><a href="#q6">Main Group 6: Road Wheels, Brakes</a></li>
+	<li>
+	  <a href="#q7">
+	    Main Group 7: Frame, Hand Lever System, Pedal Cluster
+	  </a>
+	</li>
       </ul>
     </li>
     <li>
@@ -46,6 +51,11 @@ title: type 1 parts manual
 	<li><a href="#f4">Main Group 4: Front Axle, Steering</a></li>
 	<li><a href="#f5">Main Group 5: Rear Axle</a></li>
 	<li><a href="#f6">Main Group 6: Road Wheels, Brakes</a></li>
+	<li>
+	  <a href="#f7">
+	    Main Group 7: Frame Hand Lever System, Pedal Cluster
+	  </a>
+	</li>
       </ul>
     </li>
   </ul>
@@ -816,6 +826,100 @@ title: type 1 parts manual
     <tr>
       <td><a href="type1part/6060.png">6-59?</a></td>
       <td><a href="type1part/6061.png">6-60?</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="q7">Main Group 7: Frame, Hand Lever System, Pedal Cluster</h3>
+  <ul>
+    <li>
+      <a href="pdfs/type1part-07.pdf">
+	Main Group 7: Frame, Hand Lever System, Pedal Cluster (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="type1part/7000.png">7-1</a></td>
+      <td><a href="type1part/7001.png">7-2</a></td>
+      <td><a href="type1part/7002.png">7-3</a></td>
+      <td><a href="type1part/7003.png">7-4</a></td>
+      <td><a href="type1part/7004.png">7-5</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7005.png">7-6</a></td>
+      <td><a href="type1part/7006.png">7-7</a></td>
+      <td><a href="type1part/7007.png">7-8</a></td>
+      <td><a href="type1part/7008.png">7-9</a></td>
+      <td><a href="type1part/7009.png">7-10</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7010.png">7-11</a></td>
+      <td><a href="type1part/7011.png">7-12</a></td>
+      <td><a href="type1part/7012.png">7-13</a></td>
+      <td><a href="type1part/7013.png">7-14</a></td>
+      <td><a href="type1part/7014.png">7-15</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7015.png">7-16</a></td>
+      <td><a href="type1part/7016.png">7-17</a></td>
+      <td><a href="type1part/7017.png">7-18</a></td>
+      <td><a href="type1part/7018.png">7-19</a></td>
+      <td><a href="type1part/7019.png">7-20</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7020.png">7-21</a></td>
+      <td><a href="type1part/7021.png">7-22</a></td>
+      <td><a href="type1part/7022.png">7-23</a></td>
+      <td><a href="type1part/7023.png">7-24</a></td>
+      <td><a href="type1part/7024.png">7-25</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7025.png">7-26</a></td>
+      <td><a href="type1part/7026.png">7-27</a></td>
+      <td><a href="type1part/7027.png">7-28</a></td>
+      <td><a href="type1part/7028.png">7-29</a></td>
+      <td><a href="type1part/7029.png">7-30</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7030.png">7-31</a></td>
+      <td><a href="type1part/7031.png">7-32</a></td>
+      <td><a href="type1part/7032.png">7-33</a></td>
+      <td><a href="type1part/7033.png">7-34</a></td>
+      <td><a href="type1part/7034.png">7-35</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7035.png">7-36</a></td>
+      <td><a href="type1part/7036.png">7-37</a></td>
+      <td><a href="type1part/7037.png">7-38</a></td>
+      <td><a href="type1part/7038.png">7-39</a></td>
+      <td><a href="type1part/7039.png">7-40</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7040.png">7-41</a></td>
+      <td><a href="type1part/7041.png">7-42</a></td>
+      <td><a href="type1part/7042.png">7-43</a></td>
+      <td><a href="type1part/7043.png">7-44</a></td>
+      <td><a href="type1part/7044.png">7-45</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7045.png">7-46</a></td>
+      <td><a href="type1part/7046.png">7-47</a></td>
+      <td><a href="type1part/7047.png">7-48</a></td>
+      <td><a href="type1part/7048.png">7-49</a></td>
+      <td><a href="type1part/7049.png">7-50</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7050.png">7-51</a></td>
+      <td><a href="type1part/7051.png">7-52</a></td>
+      <td><a href="type1part/7052.png">7-53</a></td>
+      <td><a href="type1part/7053.png">7-54</a></td>
+      <td><a href="type1part/7054.png">7-55</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7055.png">blank</a></td>
+      <td>--</td>
       <td>--</td>
       <td>--</td>
       <td>--</td>
@@ -4331,6 +4435,407 @@ title: type 1 parts manual
       <td><a href="type1part/6061.png">6-60?</a></td>
       <td>table</td>
       <td>Repair Kits: calliper assembly gaskets</td>
+    </tr>
+  </table>
+  <h3 id="f7">Frame, Hand Lever System, Pedal Cluster</h3>
+  <table>
+    <tr>
+      <td><a href="type1part/7000.png">7-1</a></td>
+      <td>Special</td>
+      <td>
+	Main Group 6: Frame, Hand Lever System, Pedal Cluster Title page  
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7001.png">7-2</a></td>
+      <td>Illustration</td>
+      <td>Illustration 36: Frame</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7002.png">7-3</a></td>
+      <td>table</td>
+      <td>Frame p1 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7003.png">7-4</a></td>
+      <td>table</td>
+      <td>Frame p2 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7004.png">7-5</a></td>
+      <td>table</td>
+      <td>Frame p3 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7005.png">7-6</a></td>
+      <td>table</td>
+      <td>Frame p4 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7006.png">7-7</a></td>
+      <td>table</td>
+      <td>Frame p5 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7007.png">7-8</a></td>
+      <td>table</td>
+      <td>Frame p6 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7008.png">7-9</a></td>
+      <td>table</td>
+      <td>Frame p7 (see <a href="type1part/7001.png">Illus 36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7009.png">7-10</a></td>
+      <td>Illustration</td>
+      <td>Illustration A36: Bumpers</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7010.png">7-11</a></td>
+      <td>table</td>
+      <td>Bumpers p1 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7011.png">7-12</a></td>
+      <td>table</td>
+      <td>Bumpers p2 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7012.png">7-13</a></td>
+      <td>table</td>
+      <td>Bumpers p3 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7013.png">7-14</a></td>
+      <td>table</td>
+      <td>Bumpers p4 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7014.png">7-15</a></td>
+      <td>table</td>
+      <td>Bumpers p5 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7015.png">7-16</a></td>
+      <td>table</td>
+      <td>Bumpers p6 (see <a href="type1part/7009.png">Illus A36</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7016.png">7-17</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7017.png">7-18</a></td>
+      <td>Illustration</td>
+      <td>Illustration 37: Hand Lever System</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7018.png">7-19</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7019.png">7-20</a></td>
+      <td>Illustration</td>
+      <td>Illustration A37: Hand Lever System</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7020.png">7-21</a></td>
+      <td>table</td>
+      <td>Hand Lever System p1
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7021.png">7-22</a></td>
+      <td>table</td>
+      <td>Hand Lever System p2
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7022.png">7-23</a></td>
+      <td>table</td>
+      <td>Hand Lever System p3
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7023.png">7-24</a></td>
+      <td>table</td>
+      <td>Hand Lever System p4
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7024.png">7-25</a></td>
+      <td>table</td>
+      <td>Hand Lever System p5
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7025.png">7-26</a></td>
+      <td>table</td>
+      <td>Hand Lever System p6
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7026.png">7-27</a></td>
+      <td>table</td>
+      <td>Hand Lever System p7
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7027.png">7-28</a></td>
+      <td>table</td>
+      <td>Hand Lever System p8
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7028.png">7-29</a></td>
+      <td>table</td>
+      <td>Hand Lever System p9
+	(see Illus <a href="type1part/7017.png">37</a> and
+	<a href="type1part/7019.png">A37</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7029.png">7-30</a></td>
+      <td>Illustration</td>
+      <td>Illustration 38: Pedal Cluster (up to Chassis #1,600,439)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7030.png">7-31</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7031.png">7-32</a></td>
+      <td>Illustration</td>
+      <td>
+	Illustration A38: Pedal Cluster (Chassis #1,600,440 - 116,851,649)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7032.png">7-33</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7033.png">7-34</a></td>
+      <td>Illustration</td>
+      <td>Illustration B38: Pedal Cluster (from Chassis #116,851,650)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7034.png">7-35</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p1
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7035.png">7-36</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p2
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7036.png">7-37</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p3
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7037.png">7-38</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p4
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7038.png">7-39</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p5
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7039.png">7-40</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p6
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7040.png">7-41</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p7
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7041.png">7-42</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p8
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7042.png">7-43</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p9
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7043.png">7-44</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p10
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7044.png">7-45</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p11
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7045.png">7-46</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p12
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7046.png">7-47</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p13
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7047.png">7-48</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p14
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7048.png">7-49</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p15
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7049.png">7-50</a></td>
+      <td>table</td>
+      <td>Pedal Cluster p16
+	(see Illus <a href="type1part/7029.png">38</a>,
+	<a href="type1part/7031.png">A38</a>, and
+	<a href="type1part/7033.png">B38</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7050.png">7-51</a></td>
+      <td>table</td>
+      <td>Repair Kits: Heater installation parts and bumper guards</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7051.png">7-52</a></td>
+      <td>table</td>
+      <td>Repair Kits: Bumper front and mounting brackets for front bumper</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7052.png">7-53</a></td>
+      <td>table</td>
+      <td>Repair Kits: Bumper rear and mounting brackets for rear bumper</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7053.png">7-54</a></td>
+      <td>table</td>
+      <td>Repair Kit: Mounting parts for one bumper w/ brackets</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7054.png">7-55</a></td>
+      <td>table</td>
+      <td>
+	Computer printout of Chassis numbers vw 1200/1300 (1/12/1947 -
+	1/8/72) and type2 1200/1500 (12/53 - 8/65)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/7055.png">blank</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
     </tr>
   </table>
 </fieldset>
