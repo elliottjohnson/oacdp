@@ -22,13 +22,15 @@ title: Progressive Refinements (in progress)
       <ul>
 	<li><a href="#qc">Cover</a></li>
 	<li><a href="#qp">Production Figures</a></li>
-	<li><a href="#qe">Engine, Clutch, and Heating System</a></li>
+	<li><a href="#qm">Engine, Clutch, and Heating System</a></li>
 	<li><a href="#qk">Fuel System</a></li>
 	<li><a href="#qv">Front Axle - Steering</a></li>
 	<li><a href="#qh">Rear Axle - Transmission</a></li>
 	<li><a href="#qb">Brakes - Wheels - Tires</a></li>
 	<li><a href="#qr">Frame</a></li>
 	<li><a href="#qa">Body</a></li>
+	<li><a href="#qe">Electrical System</a></li>
+	<li><a href="#qg">General Modifications</a></li>
       </ul>
     </li>
     <li>
@@ -36,13 +38,15 @@ title: Progressive Refinements (in progress)
       <ul>
 	<li><a href="#fc">Cover</a></li>
 	<li><a href="#fp">Production Figures</a></li>
-	<li><a href="#fe">Engine, Clutch, and Heating System</a></li>
+	<li><a href="#fm">Engine, Clutch, and Heating System</a></li>
 	<li><a href="#fk">Fuel System</a></li>
 	<li><a href="#fv">Front Axle - Steering</a></li>
 	<li><a href="#fh">Rear Axle - Transmission</a></li>
 	<li><a href="#fb">Brakes - Wheels - Tires</a></li>
 	<li><a href="#fr">Frame</a></li>
 	<li><a href="#fa">Body</a></li>
+	<li><a href="#fe">Electrical System</a></li>
+	<li><a href="#fg">General Modifications</a></li>
       </ul>
     </li>
   </ul>
@@ -74,7 +78,7 @@ title: Progressive Refinements (in progress)
       <td>--</td>
     </tr>
   </table>
-  <h3 id="qe">Engine, Clutch, and Heating System</h3>
+  <h3 id="qm">Engine, Clutch, and Heating System</h3>
   <ul>
     <li>
       <a href="pdfs/progref-02.pdf">
@@ -268,65 +272,115 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/r009.jpg">R 17</a></td>
     </tr>
   </table>
-<h3 id="qa">Body</h3>
-<ul>
-  <li>
-    <a href="pdfs/progref-08.pdf">
-      Body (PDF)
-    </a>
-  </li>
-</ul>
-<table>
-  <tr>
-    <td><a href="progref/a000.jpg">Title</a></td>
-    <td><a href="progref/a001.jpg">A 1-2</a></td>
-    <td><a href="progref/a002.jpg">A 3-4</a></td>
-    <td><a href="progref/a003.jpg">A 5-6</a></td>
-    <td><a href="progref/a004.jpg">A 7-8</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a005.jpg">A 9-10</a></td>
-    <td><a href="progref/a006.jpg">A 11-12</a></td>
-    <td><a href="progref/a007.jpg">A 13-14</a></td>
-    <td><a href="progref/a008.jpg">A 15-16</a></td>
-    <td><a href="progref/a009.jpg">A 17-18</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a010.jpg">A 19-20</a></td>
-    <td><a href="progref/a011.jpg">A 21-22</a></td>
-    <td><a href="progref/a012.jpg">A 23-24</a></td>
-    <td><a href="progref/a013.jpg">A 25-26</a></td>
-    <td><a href="progref/a014.jpg">A 27-28</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a015.jpg">A 29-30</a></td>
-    <td><a href="progref/a016.jpg">A 31-32</a></td>
-    <td><a href="progref/a017.jpg">A 33-34</a></td>
-    <td><a href="progref/a018.jpg">A 35-36</a></td>
-    <td><a href="progref/a019.jpg">A 37-38</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a020.jpg">A 39-40</a></td>
-    <td><a href="progref/a021.jpg">A 41-42</a></td>
-    <td><a href="progref/a022.jpg">A 43-44</a></td>
-    <td><a href="progref/a023.jpg">A 45-46</a></td>
-    <td><a href="progref/a024.jpg">A 47-48</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a025.jpg">A 49-50</a></td>
-    <td><a href="progref/a026.jpg">A 51-52</a></td>
-    <td><a href="progref/a027.jpg">A 53-54</a></td>
-    <td><a href="progref/a028.jpg">A 55-56</a></td>
-    <td><a href="progref/a029.jpg">A 57-58</a></td>
-  </tr>
-  <tr>
-    <td><a href="progref/a030.jpg">A 59</a></td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
-  </tr>
-</table>
+  <h3 id="qa">Body</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref-08.pdf">
+	Body (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref/a000.jpg">Title</a></td>
+      <td><a href="progref/a001.jpg">A 1-2</a></td>
+      <td><a href="progref/a002.jpg">A 3-4</a></td>
+      <td><a href="progref/a003.jpg">A 5-6</a></td>
+      <td><a href="progref/a004.jpg">A 7-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a005.jpg">A 9-10</a></td>
+      <td><a href="progref/a006.jpg">A 11-12</a></td>
+      <td><a href="progref/a007.jpg">A 13-14</a></td>
+      <td><a href="progref/a008.jpg">A 15-16</a></td>
+      <td><a href="progref/a009.jpg">A 17-18</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a010.jpg">A 19-20</a></td>
+      <td><a href="progref/a011.jpg">A 21-22</a></td>
+      <td><a href="progref/a012.jpg">A 23-24</a></td>
+      <td><a href="progref/a013.jpg">A 25-26</a></td>
+      <td><a href="progref/a014.jpg">A 27-28</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a015.jpg">A 29-30</a></td>
+      <td><a href="progref/a016.jpg">A 31-32</a></td>
+      <td><a href="progref/a017.jpg">A 33-34</a></td>
+      <td><a href="progref/a018.jpg">A 35-36</a></td>
+      <td><a href="progref/a019.jpg">A 37-38</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a020.jpg">A 39-40</a></td>
+      <td><a href="progref/a021.jpg">A 41-42</a></td>
+      <td><a href="progref/a022.jpg">A 43-44</a></td>
+      <td><a href="progref/a023.jpg">A 45-46</a></td>
+      <td><a href="progref/a024.jpg">A 47-48</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a025.jpg">A 49-50</a></td>
+      <td><a href="progref/a026.jpg">A 51-52</a></td>
+      <td><a href="progref/a027.jpg">A 53-54</a></td>
+      <td><a href="progref/a028.jpg">A 55-56</a></td>
+      <td><a href="progref/a029.jpg">A 57-58</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/a030.jpg">A 59</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="qe">Electrical System</h3>
+  <ul><li><a href="pdfs/progref-09.pdf">Electrical System (PDF)</a></li></ul>
+  <table>
+    <tr>
+      <td><a href="progref/e000.jpg">Title</a></td>
+      <td><a href="progref/e001.jpg">E 1-2</a></td>
+      <td><a href="progref/e002.jpg">E 3-4</a></td>
+      <td><a href="progref/e003.jpg">E 5-6</a></td>
+      <td><a href="progref/e004.jpg">E 7-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/e005.jpg">E 9-10</a></td>
+      <td><a href="progref/e006.jpg">E 11-12</a></td>
+      <td><a href="progref/e007.jpg">E 13-14</a></td>
+      <td><a href="progref/e008.jpg">E 15-16</a></td>
+      <td><a href="progref/e009.jpg">E 17-18</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/e010.jpg">E 19-20</a></td>
+      <td><a href="progref/e011.jpg">E 21-22</a></td>
+      <td><a href="progref/e012.jpg">E 22 (cont)</a></td>
+      <td><a href="progref/e013.jpg">E 23-24</a></td>
+      <td><a href="progref/e014.jpg">E 25-26</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/e015.jpg">E 27-28</a></td>
+      <td><a href="progref/e016.jpg">E 29-30</a></td>
+      <td><a href="progref/e017.jpg">E 31</a></td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="qg">General Modifications</h3>
+  <ul><li><a href="pdfs/progref-10.pdf">General Modifications (PDF)</a></li></ul>
+  <table>
+    <tr>
+      <td><a href="progref/g000.jpg">Title</a></td>
+      <td><a href="progref/g001.jpg">G 1-2</a></td>
+      <td><a href="progref/g002.jpg">G 3-4</a></td>
+      <td><a href="progref/g003.jpg">G 5-6</a></td>
+      <td><a href="progref/g004.jpg">G 7-8</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref/g005.jpg">G 9</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
 </fieldset>
 <fieldset>
   <legend id="full">Full Index</legend>
@@ -381,7 +435,7 @@ title: Progressive Refinements (in progress)
       <td>Type3 production figures (1961)</td>
     </tr>
   </table>
-  <h3 id="fe">Engine, Clutch, and Heating System</h3>
+  <h3 id="fm">Engine, Clutch, and Heating System</h3>
   <table>
     <tr>
       <td class="pageIndex"><a href="progref/m000.jpg">Title</a></td>
@@ -992,6 +1046,132 @@ title: Progressive Refinements (in progress)
       <td><a href="progref/a030.jpg">A 59</a></td>
       <td>table</td>
       <td>Aug 23rd, 1961 - Dec 14th, 1961</td>
+    </tr>
+  </table>
+  <h3 id="fe">Electrical System</h3>
+  <table>
+    <tr>
+      <td><a href="progref/e000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Electrical System Title page</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e001.jpg">E 1-2</a></td>
+      <td>table</td>
+      <td>May 6th, 1949 - Dec 1st, 1951</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e002.jpg">E 3-4</a></td>
+      <td>table</td>
+      <td>Feb 11th, 1952 - Oct 1st 1952</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e003.jpg">E 5-6</a></td>
+      <td>table</td>
+      <td>Oct 1st, 1952 - Jan 2nd, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e004.jpg">E 7-8</a></td>
+      <td>table</td>
+      <td>Jan 2nd, 1953 - Dec 21st, 1953</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e005.jpg">E 9-10</a></td>
+      <td>table</td>
+      <td>Dec 21st, 1953 - Oct 18th, 1954</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e006.jpg">E 11-12</a></td>
+      <td>table</td>
+      <td>Nov 1st, 1954 - Aug 4th, 1955</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e007.jpg">E 13-14</a></td>
+      <td>table</td>
+      <td>Aug 9th, 1955 - Aug 20th, 1956</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e008.jpg">E 15-16</a></td>
+      <td>table</td>
+      <td>Aug 21st, 1956 - Jan 23rd, 1957</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e009.jpg">E 17-18</a></td>
+      <td>table</td>
+      <td>Mar 13th, 1957 - Oct 16th, 1957</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e010.jpg">E 19-20</a></td>
+      <td>table</td>
+      <td>Oct 19th, 1957 - Dec 18th, 1958</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e011.jpg">E 21-22</a></td>
+      <td>table</td>
+      <td>Dec 29th, 1958 - Aug 6th, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e012.jpg">E 22 (cont)</a></td>
+      <td>table</td>
+      <td>Aug 6th, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e013.jpg">E 23-24</a></td>
+      <td>table</td>
+      <td>Aug 6th, 1959 - Mar 14th, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e014.jpg">E 25-26</a></td>
+      <td>table</td>
+      <td>May 1st, 1960 - Aug 1st, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e015.jpg">E 27-28</a></td>
+      <td>table</td>
+      <td>Aug 1st, 1960 - Nov 18th, 1960</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e016.jpg">E 29-30</a></td>
+      <td>table</td>
+      <td>Jan 12th, 1961 - Aug 21st, 1961</td>
+    </tr>
+    <tr>
+      <td><a href="progref/e017.jpg">E 31</a></td>
+      <td>table</td>
+      <td>Oct 4th, 1961 - Dec 13th, 1961</td>
+    </tr>
+  </table>
+  <h3 id="fg">General Modifications</h3>
+  <table>
+    <tr>
+      <td><a href="progref/g000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>General Modification Title</td>
+    </tr>
+    <tr>
+      <td><a href="progref/g001.jpg">G 1-2</a></td>
+      <td>table</td>
+      <td>1942 - Jun 27th, 1951</td>
+    </tr>
+    <tr>
+      <td><a href="progref/g002.jpg">G 3-4</a></td>
+      <td>table</td>
+      <td>Sep 24th, 1951 - Jul 15th, 1955</td>
+    </tr>
+    <tr>
+      <td><a href="progref/g003.jpg">G 5-6</a></td>
+      <td>table</td>
+      <td>Aug 4th, 1955 - Jan 1st, 1959</td>
+    </tr>
+    <tr>
+      <td><a href="progref/g004.jpg">G 7-8</a></td>
+      <td>table</td>
+      <td>Jan 2nd, 1959 - Jun 30th, 1961</td>
+    </tr>
+    <tr>
+      <td><a href="progref/g005.jpg">G 9</a></td>
+      <td>table</td>
+      <td>Jul 31st, 1961 - Dec 15th, 1961</td>
     </tr>
   </table>
 </fieldset>
