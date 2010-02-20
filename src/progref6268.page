@@ -1,0 +1,245 @@
+--
+title: Progressive Refinements 1962 - 1968
+--
+<fieldset>
+  <legend>Progressive Refinements 1962 - 1968</legend>
+  <p>A supplement to the first Progressive Refinements book.  This is
+  an in progress document and will update requently until moved to
+  the front page.</p>
+  <ul id="credits">
+    <li class="underlined">CREDITS</li>
+    <li>Rev. Mike Robus: Provider, scanner</li>
+    <li>Elliott Johnson: HTML</li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>Indexes</legend>
+  <ul>
+    <li>
+      <a href="#quick">Quick Index</a> by page number only:
+      <ul>
+	<li><a href="#qc">Cover</a></li>
+	<li><a href="#qp">Production Figures</a></li>
+	<li><a href="#qm">Engine, Clutch, and Heating System</a></li>
+	<li><a href="#qk">Fuel System</a></li>
+	<li><a href="#qv">Front Axle - Steering</a></li>
+	<li><a href="#qh">Rear Axle - Transmission</a></li>
+	<li><a href="#qb">Brakes - Wheels - Tires</a></li>
+	<li><a href="#qr">Frame</a></li>
+	<li><a href="#qa">Body</a></li>
+	<li><a href="#qe">Electrical System</a></li>
+	<li><a href="#qg">General Modifications</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#full">Full Index</a> with descriptions:
+      <ul>
+	<li><a href="#fc">Cover</a></li>
+	<li><a href="#fp">Production Figures</a></li>
+	<li><a href="#fm">Engine, Clutch, and Heating System</a></li>
+	<li><a href="#fk">Fuel System</a></li>
+	<li><a href="#fv">Front Axle - Steering</a></li>
+	<li><a href="#fh">Rear Axle - Transmission</a></li>
+	<li><a href="#fb">Brakes - Wheels - Tires</a></li>
+	<li><a href="#fr">Frame</a></li>
+	<li><a href="#fa">Body</a></li>
+	<li><a href="#fe">Electrical System</a></li>
+	<li><a href="#fg">General Modifications</a></li>
+      </ul>
+    </li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend id="quick">Quick Index</legend>
+  <h3 id="qc">Cover and Production Figures</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-01.pdf">
+	Cover and Production figures (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/n000.jpg">Cover</a></td>
+      <td><a href="progref6268/n001.jpg">Main Title</a></td>
+      <td><a href="progref6268/n002.jpg">Copy Info</a></td>
+      <td id="qp">
+	<a href="progref6268/n100.jpg">Title</a>
+      </td>
+      <td><a href="progref6268/n101.jpg">N 1/201 - 1/202</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n102.jpg">N 1/203 - 1/204</a></td>
+      <td><a href="progref6268/n200.jpg">N 2/201 - 2/202</a></td>
+      <td><a href="progref6268/n201.jpg">N 2/203</a></td>
+      <td><a href="progref6268/n300.jpg">N 3/201 - 3/202</a></td>
+      <td><a href="progref6268/n301.jpg">N 3/203 - 3/204</a></td>
+    </tr>
+  </table>
+  <h3 id="qm">Engine, Clutch, Heating System</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-02.pdf">
+	Engine, Clutch, Heating System (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/m000.jpg">Title</a></td>
+      <td><a href="progref6268/m001.jpg">M 201-202</a></td>
+      <td><a href="progref6268/m002.jpg">M 203-204</a></td>
+      <td><a href="progref6268/m003.jpg">M 205-206</a></td>
+      <td><a href="progref6268/m004.jpg">M 207-208</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m005.jpg">M 209-210</a></td>
+      <td><a href="progref6268/m006.jpg">M 211-212</a></td>
+      <td><a href="progref6268/m007.jpg">M 213-214</a></td>
+      <td><a href="progref6268/m008.jpg">M 215-216</a></td>
+      <td><a href="progref6268/m009.jpg">M 217-218</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m010.jpg">M 219-220</a></td>
+      <td><a href="progref6268/m011.jpg">M 221-222</a></td>
+      <td><a href="progref6268/m012.jpg">M 223-224</a></td>
+      <td><a href="progref6268/m013.jpg">M 225-226</a></td>
+      <td><a href="progref6268/m014.jpg">M 227</a></td>
+    </tr>
+  </table>
+</fieldset>
+<fieldset>
+  <legend id="full">Full Index</legend>
+  <h3 id="fc">Cover and Production Figures</h3>
+  <table>
+    <tr>
+      <td class="pageIndex"><a href="progref6268/n000.jpg">Cover</a></td>
+      <td class="pageType">Special</td>
+      <td class="pageDesc">Progressive Refinements Book 2 Cover</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n001.jpg">Main Title</a></td>
+      <td>Special</td>
+      <td>Main title page for Progressive Refinements Book 2</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n002.jpg">Copy Info</a></td>
+      <td>Special</td>
+      <td>Information about this copy of Progressive Refinements.</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n100.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Chassis- and Unit- Number Title page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n101.jpg">N 1/201 - 1/202</a></td>
+      <td>table</td>
+      <td>Type 1 production figures from 1962 - 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n102.jpg">N 1/203 - 1/204</a></td>
+      <td>table</td>
+      <td>Type 1 production figures from 1966 - 1968</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n200.jpg">N 2/201 - 2/202</a></td>
+      <td>table</td>
+      <td>Type 2 production figures from 1962 - 1967</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n201.jpg">N 2/203</a></td>
+      <td>table</td>
+      <td>Type 2 production figures for model year 1968.</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n300.jpg">N 3/201 - 3/202</a></td>
+      <td>table</td>
+      <td>Type 3 production figures from 1962 - 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/n301.jpg">N 3/203 - 3/204</a></td>
+      <td>table</td>
+      <td>Type 3 production figures from 1966 - 1968</td>
+    </tr>
+  </table>
+  <h3 id="fm">Engine, Clutch, Heating System</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/m000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Engine, Clutch, Heating System Title page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m001.jpg">M 201 - 202</a></td>
+      <td>table</td>
+      <td>Jan 15th, 1962 - Aug 23rd, 1962</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m002.jpg">M 203 - 204</a></td>
+      <td>table</td>
+      <td>May 10th, 1962 - Jul 30th, 1962</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m003.jpg">M 205 - 206</a></td>
+      <td>table</td>
+      <td>Aug 2nd, 1962 - Jun 25th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m004.jpg">M 207 - 208</a></td>
+      <td>table</td>
+      <td>Jan 4th, 1963 - Aug 5th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m005.jpg">M 209 - 210</a></td>
+      <td>table</td>
+      <td>Aug 5th, 1963 - Mar 5th, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m006.jpg">M 211 - 212</a></td>
+      <td>table</td>
+      <td>Mar 3rd, 1964 - Jun 15th, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m007.jpg">M 213 - 214</a></td>
+      <td>table</td>
+      <td>Jun 18th, 1964 - Nov 30th, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m008.jpg">M 215 - 216</a></td>
+      <td>table</td>
+      <td>Nov 6th, 1964 - May 19th, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m009.jpg">M 217 - 218</a></td>
+      <td>table</td>
+      <td>Jun 10th, 1965 - Oct 1st, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m010.jpg">M 219 - 220</a></td>
+      <td>table</td>
+      <td>Oct 27th, 1965 - Mar 1st, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m011.jpg">M 221 - 222</a></td>
+      <td>table</td>
+      <td>Mar 2nd, 1966 - Aug 1st, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m012.jpg">M 223 - 224</a></td>
+      <td>table</td>
+      <td>Aug 2nd, 1966 - Jan 5th, 1967</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m013.jpg">M 225 - 226</a></td>
+      <td>table</td>
+      <td>Jan 11th, 1967 - Aug 7th, 1967</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/m014.jpg">M 227</a></td>
+      <td>table</td>
+      <td>Jun 26th, 1967 - Jul 12th, 1967</td>
+    </tr>
+  </table>
+</fieldset>
