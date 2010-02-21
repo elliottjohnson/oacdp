@@ -108,15 +108,87 @@ title: Progressive Refinements 1962 - 1968
       <td><a href="progref6268/m014.jpg">M 227</a></td>
     </tr>
   </table>
+  <h3 id="qk">Fuel System</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-03.pdf">
+	Fuel System (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/k000.jpg">Title</a></td>
+      <td><a href="progref6268/k001.jpg">K 201-202</a></td>
+      <td><a href="progref6268/k002.jpg">K 203-204</a></td>
+      <td><a href="progref6268/k003.jpg">K 205-206</a></td>
+      <td><a href="progref6268/k004.jpg">K 207-208</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k005.jpg">K 209-210</a></td>
+      <td><a href="progref6268/k006.jpg">K 211</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="qv">Front Axle and Steering</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-04.pdf">
+	Front Axle and Steering (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/v000.jpg">Title</a></td>
+      <td><a href="progref6268/v001.jpg">V 201-202</a></td>
+      <td><a href="progref6268/v002.jpg">V 203-204</a></td>
+      <td><a href="progref6268/v003.jpg">V 205-206</a></td>
+      <td><a href="progref6268/v004.jpg">V 207-208</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v005.jpg">V 209-210</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="qh">Rear Axle and Transmission</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-05.pdf">
+	Rear Axle and Transmission (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/h000.jpg">Title</a></td>
+      <td><a href="progref6268/h001.jpg">H 201-202</a></td>
+      <td><a href="progref6268/h002.jpg">H 203-204</a></td>
+      <td><a href="progref6268/h003.jpg">H 205-206</a></td>
+      <td><a href="progref6268/h004.jpg">H 207-208</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h005.jpg">H 209-210</a></td>
+      <td><a href="progref6268/h006.jpg">H 211-212</a></td>
+      <td><a href="progref6268/h007.jpg">H 213-214</a></td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
 </fieldset>
 <fieldset>
   <legend id="full">Full Index</legend>
   <h3 id="fc">Cover and Production Figures</h3>
   <table>
     <tr>
-      <td class="pageIndex"><a href="progref6268/n000.jpg">Cover</a></td>
-      <td class="pageType">Special</td>
-      <td class="pageDesc">Progressive Refinements Book 2 Cover</td>
+      <td><a href="progref6268/n000.jpg">Cover</a></td>
+      <td>Special</td>
+      <td>Progressive Refinements Book 2 Cover</td>
     </tr>
     <tr>
       <td><a href="progref6268/n001.jpg">Main Title</a></td>
@@ -240,6 +312,125 @@ title: Progressive Refinements 1962 - 1968
       <td><a href="progref6268/m014.jpg">M 227</a></td>
       <td>table</td>
       <td>Jun 26th, 1967 - Jul 12th, 1967</td>
+    </tr>
+  </table>
+  <h3 id="fk">Fuel System</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/k000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Fuel System Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k001.jpg">K 201-202</a></td>
+      <td>table</td>
+      <td>Jan 15th, 1962 - Jan 7th 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k002.jpg">K 203-204</a></td>
+      <td>table</td>
+      <td>Jan 7th, 1963 - Dec 18th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k003.jpg">K 205-206</a></td>
+      <td>table</td>
+      <td>Jan 27th, 1964 - Oct 2nd, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k004.jpg">K 207-208</a></td>
+      <td>table</td>
+      <td>Oct 2nd, 1964 - Oct 6th, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k005.jpg">K 209-210</a></td>
+      <td>table</td>
+      <td>Dec 29th, 1965 - Apr 27th, 1967</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/k006.jpg">K 211</a></td>
+      <td>table</td>
+      <td>May 31st, 1967 - Aug 17th, 1967</td>
+    </tr>
+  </table>
+  <h3 id="fv">Front Axle and Steering</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/v000.jpg">Title</a></td>
+      <td>table</td>
+      <td>Front Axle and Steering Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v001.jpg">V 201-202</a></td>
+      <td>table</td>
+      <td>Feb 9th, 1962 - Mar 18th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v002.jpg">V 203-204</a></td>
+      <td>table</td>
+      <td>Apr 1st, 1963 - Aug 3rd, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v003.jpg">V 205-206</a></td>
+      <td>table</td>
+      <td>Aug 28th, 1964 - Mar 26th 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v004.jpg">V 207-208</a></td>
+      <td>table</td>
+      <td>May 25th, 1965 - Sep 10th, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v005.jpg">V 209-210</a></td>
+      <td>table</td>
+      <td>Oct 15th, 1965 - Dec 1st, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/v006.jpg">V 211</a></td>
+      <td>table</td>
+      <td>Apr 6th, 1967 - Apr 21st 1967</td>
+    </tr>
+  </table>
+  <h3 id="fh">Rear Axle and Transmission</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/h000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Rear Axle and Transmission Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h001.jpg">H 201-202</a></td>
+      <td>table</td>
+      <td>Jan 5th, 1962 - Jan 28th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h002.jpg">H 203-204</a></td>
+      <td>table</td>
+      <td>Jan 7th, 1963 - Aug 5th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h003.jpg">H 205-206</a></td>
+      <td>table</td>
+      <td>Aug 5th, 1963 - Oct 30th, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h004.jpg">H 207-208</a></td>
+      <td>table</td>
+      <td>Oct 30th, 1964 - Sep 9th, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h005.jpg">H 209-210</a></td>
+      <td>table</td>
+      <td>Sep 15th, 1965 - Jun 8th, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h006.jpg">H 211-212</a></td>
+      <td>table</td>
+      <td>Aug 1st, 1966 - Sep 5th, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/h007.jpg">H 213-214</a></td>
+      <td>table</td>
+      <td>Sep 2nd, 1966 - Aug 1st, 1967</td>
     </tr>
   </table>
 </fieldset>
