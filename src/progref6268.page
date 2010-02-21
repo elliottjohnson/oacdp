@@ -1,6 +1,6 @@
---
+---
 title: Progressive Refinements 1962 - 1968
---
+---
 <fieldset>
   <legend>Progressive Refinements 1962 - 1968</legend>
   <p>A supplement to the first Progressive Refinements book.  This is
@@ -201,7 +201,7 @@ title: Progressive Refinements 1962 - 1968
       <td>Information about this copy of Progressive Refinements.</td>
     </tr>
     <tr>
-      <td><a href="progref6268/n100.jpg">Title</a></td>
+      <td id="fp"><a href="progref6268/n100.jpg">Title</a></td>
       <td>Special</td>
       <td>Chassis- and Unit- Number Title page</td>
     </tr>
