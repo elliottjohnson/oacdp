@@ -76,6 +76,16 @@ title: Home
         ambulance and pickup.  750 pages.
       </p>
     </li>
+    <li class="doc">
+      <a href="progref4061.html" id="progref4061">
+	Progressive Refinements (1940-1961)
+      </a>
+      <p class="desc">
+	An internal VW book that documents the incremental changes to
+	type 1/2/3 VWs from early production in 1940 until 1961.  150
+	pages.
+      </p>
+    </li>
     <li class="doc" id="so42">
       <a href="so42.html">SO-42 Camper Parts List</a>
       <p class="desc">
