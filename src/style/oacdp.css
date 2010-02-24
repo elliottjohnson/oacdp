@@ -112,6 +112,7 @@ img {
 #footerCopy {
     width: 60em;
     margin: 0 auto;
+    clear: both;
 }
 
 .footerNav {
