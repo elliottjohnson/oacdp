@@ -86,6 +86,15 @@ title: Home
 	pages.
       </p>
     </li>
+    <li class="doc">
+      <a href="progref6268.html" id="progref6268">
+	Progressive Refinements (1962-1968)
+      </a>
+      <p class="desc">
+	An internal VW book that documents the incremental changes to
+	type 1/2/3 VWs from 1962 until 1961.
+      </p>
+    </li>
     <li class="doc" id="so42">
       <a href="so42.html">SO-42 Camper Parts List</a>
       <p class="desc">

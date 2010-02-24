@@ -10,7 +10,7 @@ title: SO-42 Camper Parts List
     download specific pages by using the table below.  Files contain
     one page each.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Dave Easterwood Provider</li>
     <li>Matt Roberds Conversion to PNG, PDFs</li>

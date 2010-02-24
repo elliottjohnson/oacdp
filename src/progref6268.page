@@ -3,13 +3,37 @@ title: Progressive Refinements 1962 - 1968
 ---
 <fieldset>
   <legend>Progressive Refinements 1962 - 1968</legend>
-  <p>A supplement to the first Progressive Refinements book.  This is
-  an in progress document and will update requently until moved to
-  the front page.</p>
-  <ul id="credits">
+  <p>
+    This supplement book extends
+    the <a href="progref4061.html">first</a> and covers type1/2/3 VW's
+    from 1962 until 1968.  The book's pages have tables of information
+    that show the incremental changes put in place by Volkswagen
+    during production.
+  </p>
+  <p>
+    The manual is broken into "chapters" that cover the "Main Groups"
+    common in other VW manuals.  Each page has four columns, the first
+    is the date of the change, second is the chassis number of the car
+    that had the change, third is the unit/body number, and fourth is
+    a textual description of the changes.
+  </p>
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Rev. Mike Robus: Provider, scanner</li>
     <li>Elliott Johnson: HTML</li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>Dedication</legend>
+  <p> 
+    This scanned and uploaded copy of Progressive Refinements, Book
+    2, is dedicated to the unknown typist or typists of it's
+    pages. Without the painstaking effort to catalog all this
+    information, our knowledge of many of these early VW 'progressive
+    refinements' would be shrouded in mystery.
+  </p>
+  <ul class="credits">
+    <li>--Rev. Mike Robus</li>
   </ul>
 </fieldset>
 <fieldset>

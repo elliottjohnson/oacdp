@@ -21,7 +21,7 @@ title: Damage Numbers and Proprietary Parts (1965)
     the supplier via logo or other marking.  It also has a section on
     sealing Type 1 and Type 3 bodies - I guess Buses didn't leak!
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Eric &amp; Barb: Provider, Scanner</li>
     <li>Andrew Whitlock: PNG conversion, HTML (a little ;-))</li>

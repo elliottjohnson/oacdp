@@ -12,7 +12,7 @@ title: Type 2 Parts Manual (1958-1967)
     two pages each, and are numbered on the odd page (ex: 2 and 3 are
     stored in 3.png).  A large format scanner makes this possible.
   </p>
-    <ul id="credits">
+    <ul class="credits">
       <li class="underlined">CREDITS</li>
       <li>Matt Roberds: HTML, indexing, conversion to PNG</li>
       <li>Andrew Whitlock: Provider, scanner, HTML</li>

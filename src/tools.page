@@ -24,7 +24,7 @@ title: Workshop Equipment for Local Manufacture
     construction directions (100k to 150k) for the tool, but later
     tools don't have these directions - just blueprints.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Alex Kuchta Provider</li>
     <li>Matt Roberds HTML and indexing</li>

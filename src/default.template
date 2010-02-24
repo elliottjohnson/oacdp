@@ -33,6 +33,7 @@
 	  <li><a href="queue.html">upcoming</a></li>
 	  <li><a href="utilities.html">utilities</a></li>
 	  <li><a href="links.html">links</a></li>
+	  <li><a href="http://wiki.oacdp.org">wiki</a></li>
 	</ul>
       </div>
 
@@ -53,6 +54,7 @@
 	    <li><a href="utilities.html">utilities</a></li>
 	    <li><a href="mirroring.html">mirroring</a></li>
 	    <li><a href="links.html">links</a></li>
+	    <li><a href="http://wiki.oacdp.org">wiki</a></li>
 	  </ul>
 	</div>
 	<div class="footerNav">
@@ -73,6 +75,11 @@
 	    <li>
 	      <a href="progref4061.html">
 		Progressive Refinements (1940-1961)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="progref6268.html">
+		Progressive Refinements (1962-1968)
 	      </a>
 	    </li>
 	    <li><a href="so42.html">SO-42 Camper Parts List</a></li>

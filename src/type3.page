@@ -7,7 +7,7 @@ title: type 3 parts manual
     Thom has offered to send this manual for me to scan and add to the
     site.  More details will be available here once it arrives.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Thom Fitzpatrick: Provider</li>
     <li>Elliott Johnson: HTML</li>

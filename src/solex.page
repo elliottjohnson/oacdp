@@ -11,7 +11,7 @@ title: Solex-Selection and Tuning of the Carburetor
     breakdown of page numbers is provided below for your convenience,
     however.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Jon Furst Provider</li>
     <li>Staffan Hedberg Scanner</li>

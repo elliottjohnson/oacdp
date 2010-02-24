@@ -15,10 +15,23 @@ title: Progressive Refinements 1940 - 1961
     that had the change, third is the unit/body number, and fourth is
     a textual description of the changes.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Rev. Mike Robus: Provider, scanner</li>
     <li>Elliott Johnson: HTML, PDF generation</li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>Dedication</legend>
+  <p> 
+    This scanned and uploaded copy of Progressive Refinements, Book
+    1, is dedicated to the unknown typist or typists of it's
+    pages. Without the painstaking effort to catalog all this
+    information, our knowledge of many of these early VW 'progressive
+    refinements' would be shrouded in mystery.
+  </p>
+  <ul class="credits">
+    <li>--Rev. Mike Robus</li>
   </ul>
 </fieldset>
 <fieldset>

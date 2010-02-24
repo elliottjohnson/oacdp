@@ -9,7 +9,7 @@ title: type 1 parts manual
     time permitting.  I'm still searching for the date to associate
     with this document.
   </p>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Andrew Whitlock: Provider, scanner</li>
     <li>Elliott Johnson: HTML, image conversion, PDF generation</li>

@@ -34,7 +34,7 @@ title: VW Workshop Manual, Fresh Air Heating
       Our advice is to take it to a professional.
     </p>
   </div>
-  <ul id="credits">
+  <ul class="credits">
     <li class="underlined">CREDITS</li>
     <li>Karl von Salzen (RIP) Provider </li>
     <li>Andrew Whitlock Scanner, image conversion, HTML</li>
