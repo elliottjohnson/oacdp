@@ -284,6 +284,46 @@ title: Progressive Refinements 1962 - 1968
       <td>--</td>
     </tr>
   </table>
+  <h3 id="qe">Electrical System</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-09.pdf">
+	Electrical System (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/e000.jpg">Title</a></td>
+      <td><a href="progref6268/e001.jpg">E 201-202</a></td>
+      <td><a href="progref6268/e002.jpg">E 203-204</a></td>
+      <td><a href="progref6268/e003.jpg">E 205-206</a></td>
+      <td><a href="progref6268/e004.jpg">E 207-208</a></td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e005.jpg">E 209-210</a></td>
+      <td><a href="progref6268/e006.jpg">E 211-212</a></td>
+      <td><a href="progref6268/e007.jpg">E 213-214</a></td>
+      <td><a href="progref6268/e008.jpg">E 215-216</a></td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="qg">General Modifications</h3>
+  <ul>
+    <li>
+      <a href="pdfs/progref6268-10.pdf">
+	General Modifications (PDF)
+      </a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="progref6268/g000.jpg">Title</a></td>
+      <td><a href="progref6268/g001.jpg">G 201-202</a></td>
+      <td><a href="progref6268/g002.jpg">G 203-204</a></td>
+      <td><a href="progref6268/g003.jpg">G 205</a></td>
+    </tr>
+  </table>
 </fieldset>
 <fieldset>
   <legend id="full">Full Index</legend>
@@ -719,6 +759,78 @@ title: Progressive Refinements 1962 - 1968
       <td><a href="progref6268/a022.jpg">A 243</a></td>
       <td>table</td>
       <td>Mar 22nd, 1967 - Jul 31st, 1967</td>
+    </tr>
+  </table>
+  <h3 id="fe">Electrical System</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/e000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>Electrical System Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e001.jpg">E 201-202</a></td>
+      <td>table
+</td>
+      <td>Jan 23rd, 1962 - Dec 15th, 1962</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e002.jpg">E 203-204</a></td>
+      <td>table</td>
+      <td>Jan 7th, 1963 - Aug 5th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e003.jpg">E 205-206</a></td>
+      <td>table</td>
+      <td>Aug 5th, 1963 - May 6th, 1964</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e004.jpg">E 207-208</a></td>
+      <td>table</td>
+      <td>Aug 3rd, 1964 - Feb 26th, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e005.jpg">E 209-210</a></td>
+      <td>table</td>
+      <td>Feb 26th, 1965 - Aug 2nd, 1965</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e006.jpg">E 211-212</a></td>
+      <td>table</td>
+      <td>Aug 2nd, 1965 - Aug 1st, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e007.jpg">E 213-214</a></td>
+      <td>table</td>
+      <td>Aug 1st, 1966 - Oct 24th, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/e008.jpg">E 215-216</a></td>
+      <td>table</td>
+      <td>Nov 11th, 1966 - Jun 1st, 1967</td>
+    </tr>
+  </table>
+  <h3 id="fg">General Modifications</h3>
+  <table>
+    <tr>
+      <td><a href="progref6268/g000.jpg">Title</a></td>
+      <td>Special</td>
+      <td>General Modifications Title Page</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/g001.jpg">G 201-202</a></td>
+      <td>table</td>
+      <td>Mar 26th, 1962 - Aug 5th, 1963</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/g002.jpg">G 203-204</a></td>
+      <td>table</td>
+      <td>Jan 13th, 1964 - Jan 21st, 1966</td>
+    </tr>
+    <tr>
+      <td><a href="progref6268/g003.jpg">G 205</a></td>
+      <td>table</td>
+      <td>Jan 5th, 1966 - Jul 3rd, 1967</td>
     </tr>
   </table>
 </fieldset>
