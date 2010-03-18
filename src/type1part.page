@@ -37,6 +37,7 @@ title: type 1 parts manual
 	  </a>
 	</li>
 	<li><a href="#q8">Main Group 8: Body</a></li>
+	<li><a href="#q9">Main Group 9</a>Electrical Equipment</li>
       </ul>
     </li>
     <li>
@@ -58,6 +59,7 @@ title: type 1 parts manual
 	  </a>
 	</li>
 	<li><a href="#f8">Main Group 8: Body</a></li>
+	<li><a href="#f9">Main Group 9: Electrical Equipment</a></li>
       </ul>
     </li>
   </ul>
@@ -1375,6 +1377,266 @@ title: type 1 parts manual
       <td><a href="type1part/8315.png">8-288</a></td>
       <td><a href="type1part/8316.png">8-289</a></td>
       <td><a href="type1part/8317.png">8-290</a></td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+  </table>
+  <h3 id="q9">Main Group 9: Electrical Equipment</h3>
+  <ul>
+    <li>
+      <a href="pdfs/type1parts-09.pdf">Electrical Equipment (PDF)</a>
+    </li>
+  </ul>
+  <table>
+    <tr>
+      <td><a href="type1part/9000.png">9-1a</a></td>
+      <td><a href="type1part/9001.png">9-2a</a></td>
+      <td><a href="type1part/9002.png">9-1b</a></td>
+      <td><a href="type1part/9003.png">9-2b</a></td>
+      <td><a href="type1part/9004.png">9-3(missing)</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9005.png">9-4a(missing)</a></td>
+      <td><a href="type1part/9006.png">9-4b(missing)</a></td>
+      <td><a href="type1part/9007.png">9-4c(missing)</a></td>
+      <td><a href="type1part/9008.png">9-4d</a></td>
+      <td><a href="type1part/9009.png">blank</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9010.png">9-5</a></td>
+      <td><a href="type1part/9011.png">9-6</a></td>
+      <td><a href="type1part/9012.png">9-7</a></td>
+      <td><a href="type1part/9013.png">9-8</a></td>
+      <td><a href="type1part/9014.png">9-9</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9015.png">9-10</a></td>
+      <td><a href="type1part/9016.png">9-11</a></td>
+      <td><a href="type1part/9017.png">9-12</a></td>
+      <td><a href="type1part/9018.png">9-13</a></td>
+      <td><a href="type1part/9019.png">9-14</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9020.png">9-15</a></td>
+      <td><a href="type1part/9021.png">9-16</a></td>
+      <td><a href="type1part/9022.png">9-17</a></td>
+      <td><a href="type1part/9023.png">9-18</a></td>
+      <td><a href="type1part/9024.png">9-18a</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9025.png">9-18b</a></td>
+      <td><a href="type1part/9026.png">9-19</a></td>
+      <td><a href="type1part/9027.png">9-20</a></td>
+      <td><a href="type1part/9028.png">9-21</a></td>
+      <td><a href="type1part/9029.png">9-22</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9030.png">9-23</a></td>
+      <td><a href="type1part/9031.png">9-24</a></td>
+      <td><a href="type1part/9032.png">9-25</a></td>
+      <td><a href="type1part/9033.png">9-26</a></td>
+      <td><a href="type1part/9034.png">9-27</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9035.png">9-28</a></td>
+      <td><a href="type1part/9036.png">9-29</a></td>
+      <td><a href="type1part/9037.png">9-30</a></td>
+      <td><a href="type1part/9038.png">9-30a</a></td>
+      <td><a href="type1part/9039.png">9-30b</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9040.png">9-31 &amp; 9-32</a></td>
+      <td><a href="type1part/9041.png">blank</a></td>
+      <td><a href="type1part/9042.png">9-33</a></td>
+      <td><a href="type1part/9043.png">9-34</a></td>
+      <td><a href="type1part/9044.png">9-35</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9045.png">9-36</a></td>
+      <td><a href="type1part/9046.png">9-37</a></td>
+      <td><a href="type1part/9047.png">9-38</a></td>
+      <td><a href="type1part/9048.png">9-39</a></td>
+      <td><a href="type1part/9049.png">9-40</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9050.png">9-41</a></td>
+      <td><a href="type1part/9051.png">9-42</a></td>
+      <td><a href="type1part/9052.png">9-43</a></td>
+      <td><a href="type1part/9053.png">9-44</a></td>
+      <td><a href="type1part/9054.png">9-45</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9055.png">9-46</a></td>
+      <td><a href="type1part/9056.png">9-47</a></td>
+      <td><a href="type1part/9057.png">9-48</a></td>
+      <td><a href="type1part/9058.png">9-49a</a></td>
+      <td><a href="type1part/9059.png">9-50a</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9060.png">9-49b</a></td>
+      <td><a href="type1part/9061.png">9-50b</a></td>
+      <td><a href="type1part/9062.png">9-51</a></td>
+      <td><a href="type1part/9063.png">9-52</a></td>
+      <td><a href="type1part/9064.png">9-53</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9065.png">9-54</a></td>
+      <td><a href="type1part/9066.png">9-55</a></td>
+      <td><a href="type1part/9067.png">9-56</a></td>
+      <td><a href="type1part/9068.png">9-57</a></td>
+      <td><a href="type1part/9069.png">9-58</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9070.png">9-59</a></td>
+      <td><a href="type1part/9071.png">9-60</a></td>
+      <td><a href="type1part/9072.png">9-61</a></td>
+      <td><a href="type1part/9073.png">9-62</a></td>
+      <td><a href="type1part/9074.png">9-63</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9075.png">9-64</a></td>
+      <td><a href="type1part/9076.png">9-65</a></td>
+      <td><a href="type1part/9077.png">9-66</a></td>
+      <td><a href="type1part/9078.png">9-67</a></td>
+      <td><a href="type1part/9079.png">9-68</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9080.png">9-69</a></td>
+      <td><a href="type1part/9081.png">9-70</a></td>
+      <td><a href="type1part/9082.png">9-71</a></td>
+      <td><a href="type1part/9083.png">9-72</a></td>
+      <td><a href="type1part/9084.png">9-73</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9085.png">9-74</a></td>
+      <td><a href="type1part/9086.png">9-75</a></td>
+      <td><a href="type1part/9087.png">9-76</a></td>
+      <td><a href="type1part/9088.png">9-77</a></td>
+      <td><a href="type1part/9089.png">9-78</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9090.png">9-79</a></td>
+      <td><a href="type1part/9091.png">9-80</a></td>
+      <td><a href="type1part/9092.png">9-81</a></td>
+      <td><a href="type1part/9093.png">9-82</a></td>
+      <td><a href="type1part/9094.png">9-83</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9095.png">9-84</a></td>
+      <td><a href="type1part/9096.png">9-84a</a></td>
+      <td><a href="type1part/9097.png">9-84b</a></td>
+      <td><a href="type1part/9098.png">9-85</a></td>
+      <td><a href="type1part/9099.png">9-86</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9100.png">9-87</a></td>
+      <td><a href="type1part/9101.png">9-88</a></td>
+      <td><a href="type1part/9102.png">9-89</a></td>
+      <td><a href="type1part/9103.png">9-90</a></td>
+      <td><a href="type1part/9104.png">9-91</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9105.png">9-92</a></td>
+      <td><a href="type1part/9106.png">9-93</a></td>
+      <td><a href="type1part/9107.png">9-94</a></td>
+      <td><a href="type1part/9108.png">9-95</a></td>
+      <td><a href="type1part/9109.png">9-96</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9110.png">9-97</a></td>
+      <td><a href="type1part/9111.png">9-98</a></td>
+      <td><a href="type1part/9112.png">9-99</a></td>
+      <td><a href="type1part/9113.png">9-100</a></td>
+      <td><a href="type1part/9114.png">9-101</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9115.png">9-102</a></td>
+      <td><a href="type1part/9116.png">9-103</a></td>
+      <td><a href="type1part/9117.png">9-104</a></td>
+      <td><a href="type1part/9118.png">9-105</a></td>
+      <td><a href="type1part/9119.png">9-106</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9120.png">9-107</a></td>
+      <td><a href="type1part/9121.png">9-108</a></td>
+      <td><a href="type1part/9122.png">9-109</a></td>
+      <td><a href="type1part/9123.png">9-110</a></td>
+      <td><a href="type1part/9124.png">9-111</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9125.png">9-112</a></td>
+      <td><a href="type1part/9126.png">9-113</a></td>
+      <td><a href="type1part/9127.png">9-114</a></td>
+      <td><a href="type1part/9128.png">9-115</a></td>
+      <td><a href="type1part/9129.png">9-116</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9130.png">9-117</a></td>
+      <td><a href="type1part/9131.png">9-118</a></td>
+      <td><a href="type1part/9132.png">9-119</a></td>
+      <td><a href="type1part/9133.png">9-120</a></td>
+      <td><a href="type1part/9134.png">9-121</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9135.png">9-122</a></td>
+      <td><a href="type1part/9136.png">9-123</a></td>
+      <td><a href="type1part/9137.png">9-124</a></td>
+      <td><a href="type1part/9138.png">9-125</a></td>
+      <td><a href="type1part/9139.png">9-126</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9140.png">9-126a</a></td>
+      <td><a href="type1part/9141.png">9-126b</a></td>
+      <td><a href="type1part/9142.png">9-126c</a></td>
+      <td><a href="type1part/9143.png">9-126d</a></td>
+      <td><a href="type1part/9144.png">9-127</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9145.png">9-128</a></td>
+      <td><a href="type1part/9146.png">9-129a</a></td>
+      <td><a href="type1part/9147.png">9-130a</a></td>
+      <td><a href="type1part/9148.png">9-129b</a></td>
+      <td><a href="type1part/9149.png">9-130b</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9150.png">9-131</a></td>
+      <td><a href="type1part/9151.png">9-132</a></td>
+      <td><a href="type1part/9152.png">9-133</a></td>
+      <td><a href="type1part/9153.png">9-134</a></td>
+      <td><a href="type1part/9154.png">9-135</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9155.png">9-136</a></td>
+      <td><a href="type1part/9156.png">9-137</a></td>
+      <td><a href="type1part/9157.png">9-138</a></td>
+      <td><a href="type1part/9158.png">9-139</a></td>
+      <td><a href="type1part/9159.png">9-140</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9160.png">9-140a</a></td>
+      <td><a href="type1part/9161.png">9-140b</a></td>
+      <td><a href="type1part/9162.png">9-141</a></td>
+      <td><a href="type1part/9163.png">9-142</a></td>
+      <td><a href="type1part/9164.png">9-142a</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9165.png">9-142b</a></td>
+      <td><a href="type1part/9166.png">9-143</a></td>
+      <td><a href="type1part/9167.png">9-144</a></td>
+      <td><a href="type1part/9168.png">9-145</a></td>
+      <td><a href="type1part/9169.png">9-146</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9170.png">9-147</a></td>
+      <td><a href="type1part/9171.png">9-148</a></td>
+      <td><a href="type1part/9172.png">9-149</a></td>
+      <td><a href="type1part/9173.png">9-150</a></td>
+      <td><a href="type1part/9174.png">9-151</a></td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9175.png">9-152</a></td>
+      <td>--</td>
+      <td>--</td>
       <td>--</td>
       <td>--</td>
     </tr>
@@ -7553,6 +7815,1212 @@ title: type 1 parts manual
       <td><a href="type1part/8317.png">8-290</a></td>
       <td>table</td>
       <td>Addendum-cloth: Cloth and Leatherette specs p5</td>
+    </tr>
+  </table>
+  <h3 id="f9">Main Group 9: Electrical Equipment</h3>
+  <table>
+    <tr>
+      <td><a href="type1part/9000.png">9-1a</a></td>
+      <td>Special</td>
+      <td>Main Group 9 Title page (Typ 1-9)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9001.png">9-2a</a></td>
+      <td>Illustration</td>
+      <td>Illustration 55: Generator</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9002.png">9-1b</a></td>
+      <td>Special</td>
+      <td>Main Group 9 Title page (Typ 1-9) (repeat?)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9003.png">9-2b</a></td>
+      <td>Illustration</td>
+      <td>Illustration 55: Generator (repeat?)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9004.png">9-3(Missing)</a></td>
+      <td>Missing</td>
+      <td>
+	If you can help supply this missing page,
+	please <a href="contact.html">contact us</a>.
+      </td>
+    <tr>
+      <td><a href="type1part/9005.png">9-4a(Missing)</a></td>
+      <td>Missing</td>
+      <td>
+	If you can help supply this missing page,
+	please <a href="contact.html">contact us</a>.
+      </td>
+    <tr>
+      <td><a href="type1part/9006.png">9-4b(Missing)</a></td>
+      <td>Missing</td>
+      <td>
+	If you can help supply this missing page,
+	please <a href="contact.html">contact us</a>.
+      </td>
+    <tr>
+      <td><a href="type1part/9007.png">9-4c(Missing)</a></td>
+      <td>Missing</td>
+      <td>
+	If you can help supply this missing page,
+	please <a href="contact.html">contact us</a>.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9008.png">9-4d</a></td>
+      <td>table</td>
+      <td>Generator (see <a href="type1part/9001.png">Illus 55</a>)</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9009.png">blank</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9010.png">9-5</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p1
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9011.png">9-6</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p2
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9012.png">9-7</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p3
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9013.png">9-8</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p4
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9014.png">9-9</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p5
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9015.png">9-10</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p6
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9016.png">9-11</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p7
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9017.png">9-12</a></td>
+      <td>table</td>
+      <td>Generator 6 and 12V p8
+	(see <a href="type1part/9001.png">Illus 55</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9018.png">9-13</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9019.png">9-14</a></td>
+      <td>Illustration</td>
+      <td>Illustration 56: Ignition</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9020.png">9-15</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9021.png">9-16</a></td>
+      <td>Illustration</td>
+      <td>Illustration A56: Ignition</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9022.png">9-17</a></td>
+      <td>table</td>
+      <td>Distributor Versions p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9023.png">9-18</a></td>
+      <td>table</td>
+      <td>Distributor Versions p2</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9024.png">9-18a</a></td>
+      <td>table</td>
+      <td>Distributor Versions p3</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9025.png">9-18b</a></td>
+      <td>table</td>
+      <td>Distributor Versions p4</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9026.png">9-19</a></td>
+      <td>table</td>
+      <td>Coil, Distributor
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9027.png">9-20</a></td>
+      <td>table</td>
+      <td>Distributor Parts p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9028.png">9-21</a></td>
+      <td>table</td>
+      <td>Distributor Parts p2
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9029.png">9-22</a></td>
+      <td>table</td>
+      <td>Distributor Parts p3
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9030.png">9-23</a></td>
+      <td>table</td>
+      <td>Distributor Parts p4
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9031.png">9-24</a></td>
+      <td>table</td>
+      <td>Distributor Parts p5
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9032.png">9-25</a></td>
+      <td>table</td>
+      <td>Distributor Parts p6
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9033.png">9-26</a></td>
+      <td>table</td>
+      <td>Distributor Parts p7
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9034.png">9-27</a></td>
+      <td>table</td>
+      <td>Distributor Parts p8
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9035.png">9-28</a></td>
+      <td>table</td>
+      <td>Sparking, connector - sparking plug p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9036.png">9-29</a></td>
+      <td>table</td>
+      <td>Sparking, connector - sparking plug p2
+	Ignition/Starter switch, steering lock p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9037.png">9-30</a></td>
+      <td>table</td>
+      <td>Ignition/Starter switch, steering lock p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9038.png">9-30a</a></td>
+      <td>table</td>
+      <td>Ignition/Starter switch, steering lock p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9039.png">9-30b</a></td>
+      <td>table</td>
+      <td>Ignition/Starter switch, steering lock p1
+	(see Illus <a href="type1part/9019.png">56</a>
+	and <a href="type1part/9021.png">A56</a>.)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9040.png">9-31</a></td>
+      <td>Illustration</td>
+      <td>Illustration 57: Starting Motor</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9041.png">9-32</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9042.png">9-33</a></td>
+      <td>table</td>
+      <td>Starting Motor - Versions p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9043.png">9-34</a></td>
+      <td>table</td>
+      <td>Starting Motor - Versions p2</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9044.png">9-35</a></td>
+      <td>table</td>
+      <td>Starting Motor and Starting Motor Parts p1
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9045.png">9-36</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p2
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9046.png">9-37</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p3
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9047.png">9-38</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p4
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9048.png">9-39</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p5
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9049.png">9-40</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p6
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9050.png">9-41</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p7
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9051.png">9-42</a></td>
+      <td>table</td>
+      <td>Starting Motor Parts p8
+	(see <a href="type1part/9040.png">Illus 57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9052.png">9-43</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9053.png">9-44</a></td>
+      <td>Illustration</td>
+      <td>Illustration A57: Battery mounting, cover, circuit breaker</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9054.png">9-45</a></td>
+      <td>table</td>
+      <td>Battery Mounting, Battery Cover, and Circuit Breaker p1
+	(see <a href="type1part/9053.png">Illus A57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9055.png">9-46</a></td>
+      <td>table</td>
+      <td>Battery Mounting, Battery Cover, and Circuit Breaker p2
+	(see <a href="type1part/9053.png">Illus A57</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9056.png">9-47</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9057.png">9-48</a></td>
+      <td>Illustration</td>
+      <td>Illustration 58: Instruments</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9058.png">9-49a</a></td>
+      <td>table</td>
+      <td>Instruments (Typ 1-8) p1
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9059.png">9-50a</a></td>
+      <td>table</td>
+      <td>Instruments (Typ 1-8) p2
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9060.png">9-49b</a></td>
+      <td>table</td>
+      <td>Instruments (Typ 1-5) p3
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9061.png">9-50b</a></td>
+      <td>table</td>
+      <td>Instruments (Typ 1-5) p1
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9062.png">9-51</a></td>
+      <td>table</td>
+      <td>Instrument Panel
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9063.png">9-52</a></td>
+      <td>table</td>
+      <td>Control Switch for Automatic and Fuse Box p1
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9064.png">9-53</a></td>
+      <td>table</td>
+      <td>Fuse Box p2
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9065.png">9-54</a></td>
+      <td>table</td>
+      <td>Fuse Box p3
+	(see <a href="type1part/9057.png">Illus 58</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9066.png">9-55</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9067.png">9-56</a></td>
+      <td>Illustration</td>
+      <td>Illustration 59: Headlamps</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9068.png">9-57</a></td>
+      <td>table</td>
+      <td>Headlamps p1
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9069.png">9-58</a></td>
+      <td>table</td>
+      <td>Headlamps p2
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9070.png">9-59</a></td>
+      <td>table</td>
+      <td>Headlamps p3
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9071.png">9-60</a></td>
+      <td>table</td>
+      <td>Headlamps p4
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9072.png">9-61</a></td>
+      <td>table</td>
+      <td>Headlamps p5
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9073.png">9-62</a></td>
+      <td>table</td>
+      <td>Headlamps p6
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9074.png">9-63</a></td>
+      <td>table</td>
+      <td>Headlamps p7
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9075.png">9-64</a></td>
+      <td>table</td>
+      <td>Headlamps p8
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9076.png">9-65</a></td>
+      <td>table</td>
+      <td>Headlamps p9
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9077.png">9-66</a></td>
+      <td>table</td>
+      <td>Headlamps p10
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9078.png">9-67</a></td>
+      <td>table</td>
+      <td>Headlamps p11
+	(see <a href="type1part/9067.png">Illus 59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9079.png">9-68</a></td>
+      <td>table</td>
+      <td>
+	Illustration A59: Retaining ring, Push-pull type switch, relay
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9080.png">9-69</a></td>
+      <td>table</td>
+      <td>Retaining ring, Push-pull type switch, relay p1
+	(see <a href="type1part/9079.png">Illus A59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9081.png">9-70</a></td>
+      <td>table</td>
+      <td>Retaining ring, Push-pull type switch, relay p2
+	(see <a href="type1part/9079.png">Illus A59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9082.png">9-71</a></td>
+      <td>table</td>
+      <td>Retaining ring, Push-pull type switch, relay p3
+	(see <a href="type1part/9079.png">Illus A59</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9083.png">9-72</a></td>
+      <td>Illustration</td>
+      <td>Illustration 60: License plate lights, Tail lights.</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9084.png">9-73</a></td>
+      <td>table</td>
+      <td>License plate light p1
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9085.png">9-74</a></td>
+      <td>table</td>
+      <td>License plate light p2
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9086.png">9-75</a></td>
+      <td>table</td>
+      <td>License plate light p3
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9087.png">9-76</a></td>
+      <td>table</td>
+      <td>License plate light p4 and tail light p1
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9088.png">9-77</a></td>
+      <td>table</td>
+      <td>tail light p2
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9089.png">9-79</a></td>
+      <td>table</td>
+      <td>tail light p3
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9090.png">9-80</a></td>
+      <td>table</td>
+      <td>tail light p4
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9091.png">9-81</a></td>
+      <td>table</td>
+      <td>tail light p5
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9092.png">9-82</a></td>
+      <td>table</td>
+      <td>tail light p6
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9093.png">9-82</a></td>
+      <td>table</td>
+      <td>tail light p7
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9094.png">9-83</a></td>
+      <td>table</td>
+      <td>tail light p8
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9095.png">9-84</a></td>
+      <td>table</td>
+      <td>tail light p9
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9096.png">9-84a</a></td>
+      <td>table</td>
+      <td>tail light p10
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9097.png">9-84b</a></td>
+      <td>table</td>
+      <td>tail light p11
+	(see <a href="type1part/9080.png">Illus 60</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9098.png">9-85</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9099.png">9-86</a></td>
+      <td>Illustration</td>
+      <td>Illustration 61: Horn, Flashing Indica</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9100.png">9-87</a></td>
+      <td>table</td>
+      <td>Interior Light p1
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9101.png">9-88</a></td>
+      <td>table</td>
+      <td>Interior Light p2
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9102.png">9-89</a></td>
+      <td>table</td>
+      <td>Side flashing indicator and Horn p1
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9103.png">9-90</a></td>
+      <td>table</td>
+      <td>Horn p2
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9104.png">9-91</a></td>
+      <td>table</td>
+      <td>Horn p3
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9105.png">9-92</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p1
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9106.png">9-93</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p2
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9107.png">9-94</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p3
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9108.png">9-95</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p4
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9109.png">9-96</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p5
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9110.png">9-97</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p6
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9111.png">9-98</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p7
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9112.png">9-99</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p8
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9113.png">9-100</a></td>
+      <td>table</td>
+      <td>Flashing indicator, front p9
+	(see <a href="type1part/9099.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9114.png">9-101</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9115.png">9-102</a></td>
+      <td>Illustration</td>
+      <td>Illustration A61: Indicator switch</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9116.png">9-103</a></td>
+      <td>table</td>
+      <td>Indicator switch p1
+	(see <a href="type1part/9115.png">Illus A61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9117.png">9-104</a></td>
+      <td>table</td>
+      <td>Indicator switch p2
+	(see <a href="type1part/9115.png">Illus A61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9118.png">9-105</a></td>
+      <td>table</td>
+      <td>Indicator switch p3
+	(see <a href="type1part/9115.png">Illus A61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9119.png">9-106</a></td>
+      <td>table</td>
+      <td>Indicator switch p4
+	(see <a href="type1part/9115.png">Illus A61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9120.png">9-107</a></td>
+      <td>table</td>
+      <td>Indicator switch p5
+	(see <a href="type1part/9115.png">Illus A61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9121.png">9-108</a></td>
+      <td>Illustration</td>
+      <td>Illustration 62: Windshield wiper</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9122.png">9-109</a></td>
+      <td>table</td>
+      <td>Windshield wiper p1
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9123.png">9-110</a></td>
+      <td>table</td>
+      <td>Windshield wiper p2
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9124.png">9-111</a></td>
+      <td>table</td>
+      <td>Windshield wiper p3
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9125.png">9-112</a></td>
+      <td>table</td>
+      <td>Windshield wiper p4
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9126.png">9-113</a></td>
+      <td>table</td>
+      <td>Windshield wiper p5
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9127.png">9-114</a></td>
+      <td>table</td>
+      <td>Windshield wiper p6
+	(see <a href="type1part/9121.png">Illus 61</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9128.png">9-115</a></td>
+      <td>blank</td>
+      <td>
+        <a href="http://www.this-page-intentionally-left-blank.org">
+          This page was intentionally left blank
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9129.png">9-116</a></td>
+      <td>Illustration</td>
+      <td>Illustration A62: Windshield wiper unit</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9130.png">9-117</a></td>
+      <td>table</td>
+      <td>Windshield Wiper Unit p1
+	(see <a href="type1part/9129.png">Illus A62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9131.png">9-118</a></td>
+      <td>table</td>
+      <td>Windshield Wiper Unit p2
+	(see <a href="type1part/9129.png">Illus A62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9132.png">9-119</a></td>
+      <td>table</td>
+      <td>Windshield Wiper Unit p3
+	(see <a href="type1part/9129.png">Illus A62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9133.png">9-120</a></td>
+      <td>table</td>
+      <td>Windshield Wiper Unit p1
+	(see <a href="type1part/9129.png">Illus A62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9134.png">9-121</a></td>
+      <td>table</td>
+      <td>Windshield Wiper Unit p1
+	(see <a href="type1part/9129.png">Illus A62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9135.png">9-122</a></td>
+      <td>Illustration</td>
+      <td>Illustration B62: Wiper motor - Parts</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9136.png">9-123</a></td>
+      <td>table</td>
+      <td>Wiper motor - Versions p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9137.png">9-124</a></td>
+      <td>table</td>
+      <td>Wiper motor - Versions p2</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9138.png">9-125</a></td>
+      <td>table</td>
+      <td>Wiper motor
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9139.png">9-126</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p1
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9140.png">9-126a</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p2
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9141.png">9-126b</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p3
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9142.png">9-126c</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p4
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9143.png">9-126d</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p5
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9144.png">9-127</a></td>
+      <td>table</td>
+      <td>Wiper motor - Parts p6
+	(see <a href="type1part/9135.png">Illus B62</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9145.png">9-128</a></td>
+      <td>Illustration</td>
+      <td>Illustration 63: Speedometer, Electric wiring</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9146.png">9-129a</a></td>
+      <td>table</td>
+      <td>Speedometer (Typ 1-8) p1
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9147.png">9-129a</a></td>
+      <td>table</td>
+      <td>Speedometer (Typ 1-8) p2
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9148.png">9-129b</a></td>
+      <td>table</td>
+      <td>Speedometer (Typ 1-5) p3
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9149.png">9-130</a></td>
+      <td>table</td>
+      <td>Speedometer p4
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9150.png">9-131</a></td>
+      <td>table</td>
+      <td>Speedometer p5
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9151.png">9-132</a></td>
+      <td>table</td>
+      <td>Speedometer p6 and Electric Wiring p1
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9152.png">9-133</a></td>
+      <td>table</td>
+      <td>Electric Wiring p2
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9153.png">9-134</a></td>
+      <td>table</td>
+      <td>Electric Wiring p3
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9154.png">9-135</a></td>
+      <td>table</td>
+      <td>Electric Wiring p4
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9155.png">9-136</a></td>
+      <td>table</td>
+      <td>Electric Wiring p5
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9156.png">9-137</a></td>
+      <td>table</td>
+      <td>Electric Wiring p6
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9157.png">9-138</a></td>
+      <td>table</td>
+      <td>Electric Wiring p7
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9158.png">9-139</a></td>
+      <td>table</td>
+      <td>Electric Wiring p8
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9159.png">9-140</a></td>
+      <td>table</td>
+      <td>Electric Wiring p9
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9160.png">9-140a</a></td>
+      <td>table</td>
+      <td>Electric Wiring p10
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9161.png">9-140b</a></td>
+      <td>table</td>
+      <td>Electric Wiring p11
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9162.png">9-141</a></td>
+      <td>table</td>
+      <td>Electric Wiring p12
+	(see <a href="type1part/9145.png">Illus 63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9163.png">9-142</a></td>
+      <td>Illustration</td>
+      <td>Illustration A63: Installation Parts for rear window,
+      safety belt warning system</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9164.png">9-142a</a></td>
+      <td>table</td>
+      <td>Installation parts for rear window (heatable)
+	(see <a href="type1part/9163.png">Illus A63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9164.png">9-142b</a></td>
+      <td>table</td>
+      <td>Installation parts for safety belt warning system
+	(see <a href="type1part/9163.png">Illus A63</a>)
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9165.png">9-143</a></td>
+      <td>table</td>
+      <td>Repair Kits: Steering-Ignition lock, Ignition cables</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9166.png">9-144</a></td>
+      <td>table</td>
+      <td>
+	Repair Kits: Sealing parts for ignition system, breaker points
+	for distributor p1.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9167.png">9-145</a></td>
+      <td>table</td>
+      <td>
+	Repair Kits: breaker points for distributor p2, flashing
+	indicators, emergency light set (12V) p1.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9168.png">9-146</a></td>
+      <td>table</td>
+      <td>Repair Kits: emergency light set (12v) p2, Headlamp flash
+      press button, rear window glass heated (6v) p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9169.png">9-147</a></td>
+      <td>table</td>
+      <td>Repair Kits: rear window glass heated (6v) p2, rear window
+      glass heated (12v), backup lamp p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9170.png">9-148</a></td>
+      <td>table</td>
+      <td>Repair Kits: backup lamp p2, Windshield wipers p1</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9171.png">9-149</a></td>
+      <td>table</td>
+      <td>Repair Kits: Windshield wipers p2</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9172.png">9-150</a></td>
+      <td>table</td>
+      <td>Repair Kits: Windshield wipers p3</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9173.png">9-151</a></td>
+      <td>table</td>
+      <td>Repair Kits: Windshield wipers p4</td>
+    </tr>
+    <tr>
+      <td><a href="type1part/9174.png">9-152</a></td>
+      <td>table</td>
+      <td>Repair Kits: Windshield wipers p5</td>
     </tr>
   </table>
 </fieldset>
