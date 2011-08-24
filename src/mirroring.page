@@ -34,7 +34,7 @@ title: Mirroring
   </p>
   <p>
     The project uses <a href="http://webgen.rubyforge.org" target="_BLANK">
-    webgen</a> to render out the final html, which coupled with the
+    webgen 0.5</a> to render out the final html, which coupled with the
     overlay creates the site.  The command to render out the site is
     <tt>webgen render</tt>.  This should be run in the root directory
     of the cloned repo.  Feel free to <a href="contact.html">email</a>
